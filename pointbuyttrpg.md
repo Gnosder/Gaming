@@ -18,7 +18,7 @@ Skills (ala WoD)
     Aptitude - Learning ability, active knowledge
     Presence - Active Cha
     Reaction - Ref + Defense
-    Body - Fort + HP
+    Body - Fort + Wound
     Resolve - Will + Vitality
 
 ## Skills
