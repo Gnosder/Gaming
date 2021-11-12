@@ -86,11 +86,29 @@ Vitality Scales with Level (nothing else does). Perhaps resolve x 4 at level 1 a
 
 ### Saves
 
+### Defense
+
+Reaction + Armor
+
+### Reflex
+
+Reaction
+
+### Fortitude
+
+Body
+
+### Will
+
+Resolve
+
 ## Skills
 
 Skills come in 2 braod types: Active and Knowledge. Characters are likely to use active skills to make checks through the course of play for things like attacking, gathering information, or overcoming obsticles. Knowledge skills on the other hand are rarely rolled, when they become needed their rank is compared to a DC. A character either knows something or they do not, there is no drama in rolling to 'remember' something.
 
-<!-- Brawling -- by style
+<!-- 
+Co-ordination
+    Brawling -- by style
     Weaponry -- By weapon
     Shooting -- By weapon
     Athletics -- Climbing, Swimming, Running, Gymnatics, Jumping
@@ -102,7 +120,8 @@ Aptitude
 Presence
     Animal Handeling -- By animal
     Socialize -- Diplomacy, Bluff, Intimidate, Sense Motive, Etiquette
-    Unique -- demolitions, siege weapons, etc -->
+    Magic
+Other -- demolitions, siege weapons, etc -->
 
 ### Weaponry
 
@@ -121,6 +140,8 @@ Presence
 ### Animal Handeling
 
 ### Socialize
+
+### Magic
 
 ### Knowledges
 
