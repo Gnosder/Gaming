@@ -1,3 +1,5 @@
+# Setup
+
 I want to play a pointbuy ttrpg.
 Why? less of a power creep (usually) and more agecy in characters, more flexibility
 It should be simpler than games like shadowrun. it should have an easy character creation with classes/archtypes as well as recomended options on level up.
@@ -5,13 +7,13 @@ Tempo/stophit
 Players roll
 Fully linear progression
 
-
 HP to demarcate actual injury
 AC and a 'stun' or 'poise' pool that depletes when you get hit and replenishes naturally after not getting hit or after delivering a hit yourself.
 Ref, Fort, Will and a 'strain' pool that decreases as things happen and replenishes after resting in a safe place.
 Skills (ala WoD)
 
-# Attributes
+## Attributes
+
     Coordination - Str + Dex. Covers Athletics, Acrobatics, to-hit
     Aptitude - Learning ability, active knowledge
     Presence - Active Cha
@@ -19,9 +21,12 @@ Skills (ala WoD)
     Body - Fort + HP
     Resolve - Will + Vitality
 
-# Skills
+## Skills
+
 Skills have a max rank before they must be speacilized into.
-## Active
+
+### Active
+
 Co-ordination
     Brawling -- by style
     Weaponry -- By weapon
@@ -35,7 +40,9 @@ Presence
     Animal Handeling -- By animal
     Socialize -- Diplomacy, Bluff, Intimidate, Sense Motive, Etiquette
     Unique -- demolitions, siege weapons, etc
-## Knowledge
+
+### Knowledge
+
 Aptitude
     History
     Religon
@@ -44,12 +51,12 @@ Aptitude
     Local
     Academic
 
-# Abilities
+## Abilities
+
 Feats and class powers; includes spell casting, talents
 
-# Spells
+## Spells
+
 Most spells just happen and consume MP. Improvized spells typically use crafting, but other skills are used too.
 
-When you level up you gain x points to spend. Maybe 1 attribute point, 3 skill points, and x other (can save) (level x 3)
-
-# Abilities
+When you level up you gain x points to spend. Maybe 1 attribute point, 3 skill points, and x other (can save) (level x 3).
