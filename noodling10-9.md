@@ -83,3 +83,9 @@ LIst of boons
 +1 to rolls with disadvantage
 
 i.e. +2/4 to a specific thing, +1/2 to a general thing
+
+Noodling 11/15/21
+What do I need to have done in order to run the game?
+Everyone needs a character sheet.
+I need a scene or something for each area
+    Perhaps a small graphic and notes?
