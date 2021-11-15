@@ -64,17 +64,8 @@ If you ever lose half or more of your wounds from a single action, you must make
 
 ## Atributes
 
-### Co-ordination
-
-### Aptitude
-
-### Presence
-
-### Reaction
-
-### Body
-
-### Resolve
+<!-- Removed 11/15
+They weren't doing anything useful. -->
 
 ## Derived Stats
 
@@ -84,7 +75,7 @@ Vitality Scales with Level (nothing else does). Perhaps resolve x 4 at level 1 a
 
 ### Wounds
 
-### Saves
+## Saves
 
 ### Defense
 
@@ -121,15 +112,44 @@ Presence
     Animal Handeling -- By animal
     Socialize -- Diplomacy, Bluff, Intimidate, Sense Motive, Etiquette
     Magic
+    Dodge
+    Parry
+
 Other -- demolitions, siege weapons, etc -->
+
+### Brawling
+
+#### style
 
 ### Weaponry
 
+#### weapon type
+
 ### Shooting
+
+#### weapon type
+
+### Defence
+
+#### Dodge
+
+#### Block
 
 ### Athletics
 
+#### Swimming
+
+#### Climbing
+
+#### Running
+
+#### Jumping
+
 ### Subterfuge
+
+#### Stealth
+
+#### Sleight of Hand
 
 ### Driving
 
@@ -170,56 +190,168 @@ Easy character creation is as follows
 - Make adjustments
 - Choose equipment
 
+Point Buy
+Health: Wounds 6, Vitality 6
+Defenses: 8 points between all 4
+    None can start higher than 4
+Skills: 24 active skill points, 8 knowledge skill points
+    Skill groups level first until 4
+    Then each skill individually. Specialize available at 7 (total)
+    Specializeations grant +2 for 1 point
+Features:
+    3 points to spend
+
+At each level:
+
+- +6 vitality
+- +1 defense
+- +8 skills, +2 knowledge
+- +2 features
+
 <!-- Lineages -->
 # Chatper 5: Lineages
+
+Standard Fanasy fare.
+Elf
+Dwarf
+Human
+Halfling
+Gnome
 
 <!-- Archtypes -->
 # Chapter 6: Archtypes
 
+Prebundled character builds.
+
 ## Fighter
+
+### Knight
+Sword and board, heavy armor fighter. High defense from armor.
+
+Equipment: Arming Sword, Heater Sheild, Plate Armor
+Wounds: 6    Vitality: 9
+Defense: 7   Reflex: 1    Fort: 3     Will: 1
+Skills:
+Features: Fighting Style (Defensive), Second Wind, Title(Knight "Ser/Dame"), Conditioned
+Arming Sword Damage 1 AP 0, Versitile
+Heater Shield +1 Defense, +1 Reflex vs breath
+Plate Armor +2 Defense, DR/3
+
+
+### Dervish
+Equipment: Scimitar, Chain Armor
+Wounds:     Vitality:
+Defense:    Reflex:     Fort:      Will:
+Skills:
+Features: Fighting Style (Dualing), Action Surge, Combat Expertise
+### Wanderer
 
 ## Mage
 
+### Warlock
+Equipment: Rapier, Leather Clothing
+Wounds:     Vitality:
+Defense:    Reflex:     Fort:      Will:
+Skills:
+Features: Spellcasting(Pact Arcane), Contract(Discord), Boon(Infernal Presence), Cantrips, 1st Circle, Boon(Chaotic Dispersion)
+
+### Sorcerer
+
+### Bard
+
 ## Priest
 
+### Cleric
+
+### Paladin
+
+### Druid
+
+### Warden
+
 ## Rouge
+
+### Bard
+
+### Ranger
+
+### Theif
 
 <!-- Featuers and Talents -->
 # Chapter 7: Features and Talents
 
-Rage
-Increases attack, damage and, grants vitality regeneration at the cost of 'higher mental functions'
-Endless Rage - Increases vitality regeneration
-Raging Response - Add damage taken to next attack
-Mindless Rage - Grants immunity to charm and fear
-Frenzy - Instead of regenerating vitality you may make an extra attack instead
+Each feature costs 1 talent point (unless otherwise specified). You must meet all prerequisites listed. If a talent has augments you must have the talent.
 
-Teamwork
+## Rage
+
+Increases attack, damage and, grants vitality regeneration at the cost of 'higher mental functions'
++2 attack and 2 vitality regeneration per round. Rage lasts up to 1 minute and cannot be used if Vitality is at 0. Rage ends if vitality reaches 0
+
+### Endless Rage 
+
+Increases vitality regeneration to 4/round.
+
+### Raging Response
+
+When you take damage you add it to your next attack roll so long as it is your next action
+
+### Mindless Rage
+
+Grants immunity to charm and fear while raging
+
+### Frenzy
+
+Instead of regenerating vitality you may make an extra attack instead
+
+### Bloody Rage
+
+Your rage doesn't end if you reach 0 vitality.
+
+### Deathless Rage (2 points, must have at least 2 augments)
+
+If your wounds are reduced to 0, you may remain concious and continue fighting. If you do, make death saves as usual, record the results. When your rage ends, you suffer the results of your failed death saves (i.e. you die). If you ever take damage equal to or greater than your total wounds you die immediately (massive damage).
+
+## Teamwork
+
 Increase bonuses from aid another or flanking.
 
-Unarmored Defense
-Choose 1 of Reflexes, Body, or Resolve. While not wearing armor you add the chosen attribute to your defense in its place. This talent can be augmented to add a second attribute to defense at the cost of negating any magical armor bonuses.
+## Unarmored Defense
 
-Extra Attacks
-Can take multiple times
-Spell Attack: Can replace one attack with a spell cast. May only cast one spell a turn this way.
+Choose 1 of Reflex, Fort, or will. While not wearing armor you add the chosen attribute to your defense in its place. This talent can be augmented to add a second attribute to defense at the cost of negating any magical armor bonuses.
 
-Fast Movement
+## Extra Attacks
 
-Uncanny Instinct
-Gain advantage on your intiative rolls and, if you cannot be surprised
+When you make an attack, you can make a second one at a -2 penalty.
 
-Brutal Critical
-Increases critical damage or range. Can be taken multiple times.
+### Flurry Attack
+You can make up to 4 extra attacks at an increases penalty -2/4/6/8.
 
-Jack of All Trades
-Choose one:
+### Whirlwind Attack
+You can make a sweeping attack against all nearby foes. Make a single attack with a -2 penalty and apply the results to each target.
 
-1) You may use your aptitude in place of co-ordination or presence for active skills, but they cost more to increase.
-2) Knowledge skills you don't have are treated as having 2 ranks, but you cannot specilize in knowledge skills at level 4.
+### Spell Attack
 
-Magic
-Gain the ability to cast spells. You gain the talents Cantrips and 1st Circle Spells as well as 1 other spell casting augment of your choice. In additon you must choose one of the following power sources for you magic:
+Can replace one attack with a spell cast with the stanard penalty for the extra attack. May only cast one spell a turn this way.
+
+## Fast Movement
+
+Increase your base movement speed by 10ft. This talent can be taken up to 3 times.
+
+## Uncanny Instinct
+
+Gain advantage on your intiative rolls and you cannot be surprised
+
+## Brutal Critical
+
+You score a critical hit on a natural 18+ and you deal your damage to both Vitality and Wounds.
+
+## Jack of All Trades
+
+You treat any skill you do not have as if you had 2 ranks in it. You may specialize in skills.
+
+## Spell Casting
+
+You gain the ability to cast spells. You gain the talents Cantrips and 1st Circle Spells as well as 1 other spell casting augment of your choice. In additon you must choose one of the following power sources for you magic:
 
 - Your power is granted to you from the divine, be it nature or a God. You gain 1 blessing and 1 anathma from chapter 9.
 - Your power is inate, originating from a powerful or immortal ancestor. You must choose a bloodline from chapter 9.
@@ -227,105 +359,188 @@ Gain the ability to cast spells. You gain the talents Cantrips and 1st Circle Sp
 - Your power was given to you by a powerful immortal. You must choose 1 pact and 1 contract from chapter 9.
 - Your power comes from inner focus. You must choose 1 discipline and 1 prohibition from chapter 9.
 
-Augments:
-Cantrips: You have the ability to cast cantrips. Simple helper or quality-of-life spells. The first time you take this augment you learn 2 cantrips. Known cantrips never cost vitality.
-Circle Magic: Spell power is rated by circle which are numbered 1-9. In order to learn a spell, you must have access to that spell's circle. Each time you take the augment you gain the ability to cast 1 spell of that circle without spening vitality. You may not have more ranks in a circle than the one before it. I.e. You cannot buy a second rank of Circle 2 until you have at least 2 ranks of circle 1.
-Ritual Magic: You gain the ability to cast ritual spells.
-Increase Power: Gain 1 blessing, invocation, or increase the bonuses from your school, bloodline, or dicipline.
-Adept Power: Choose 1 adept power from chapter 9.
+### Cantrips
 
-Channel Divinity
+You have the ability to cast cantrips. Simple helper or quality-of-life spells. The first time you take this augment you learn 2 cantrips. Known cantrips never cost vitality.
+
+### Circle Magic
+
+Spell power is rated by circle which are numbered 1-9. In order to learn a spell, you must have access to that spell's circle. Each time you take the augment you gain the ability to cast 1 spell of that circle without spening vitality. You may not have more ranks in a circle than the one before it. I.e. You cannot buy a second rank of Circle 2 until you have at least 2 ranks of circle 1.
+
+### Ritual Magic
+
+You gain the ability to cast ritual spells.
+
+### Increase Power
+
+Gain 1 blessing, invocation, or increase the bonuses from your school, bloodline, or dicipline.
+
+## Adept Power
+
+Choose 1 adept power from chapter 9.
+
+## Channel Divinity
+
 Gain 1 blessing from chapter 9 and one anathma if you do not already have one. If the blessing you choose is an ability or spell, you may cast it twice without expending vitality.
 
-Wild Shape
-You gain the ability to shapeshift into natural animals.
+## Wild Shape
 
-Fighting Style
+You gain the ability to shapeshift into natural animals as an action. When you use this ability you gain X of the following: +2 defense, +2 to Ref and Fort, Gain specilization in your form's attacks, one non-magic talent of your choice (rage, second wind, etc), a new movement speed of 30 (burrow, climb, swim, flight). If your vitality reaches 0 you immediatly revert to your base form and cannot wild shape again until your regain all your vitality.
+
+### Swift Shape
+
+You may wildshape as a swift action, but only once pey round.
+
+### Improved Wildshape
+
+Choose 1 more option when wildshaped,
+
+### Greater Form
+
+Choose one of the following to be able to shapeshift into:
+
+- Elementals
+- Plants
+- Aberations
+- Celestrials
+- Infernals
+
+## Fighting Style
+
 Choose One:
-Archery
-Defense
-Dueling
-Great Weapon Fighting
-Protection
-Two-Weapon Fighting
-Skirmishing (for disengaging style of play)
 
-Second Wind
+-Archery: +2 to Archery and you have advantage against targets within 30ft
+-Defense: +2 to Defense
+-Dueling: +2 to attack when using a one-handed weapon with the other hand free, +4 to parry
+-Great Weapon Fighting: +2 when using a two-handed weapon, you may ignore disadvantage when attacking with it.
+-Protection: Take a -1 penalty to both reflex and defense, Grant all nearby allies +1 reflex and +1 defense
+-Two-Weapon Fighting: While fighting with 2 weapons you gain +1 attack and +1 defense
+-Skirmishing: You may disengage from up to targets for free every time you move
 
-Action Surge
+## Second Wind
 
-Indomitable
+You may recover half your vitality as an action, once.
 
-Evasion
+## Action Surge
 
-Sacred Oath
+You may spend 4 vitality to take a second action
+
+## Evasion
+
+If you would make a reflex save for half-damage. You instead take no damage on a success and half-damage on a failure
+
+## Sacred Oath
+
 You have sworn a binding oath before the divine
 Choose an Oath and gain 1 aura from chapter 9. Each time you take this talent after the first, gain a new aura or improve one you alrady have.
 
-Favored Enemy
+## Favored Enemy
 
-Natural Explorer
+Choose a creature type to be your enemy. You gain a +4 bonus to all actions and saves verses your favored enemy.
 
-Vanish
+## Natural Explorer
 
-Expertise
-Choose 2 skills: You may add half (rounded up) of your aptitude score to those skills.
+Choose a terrain type
 
-Sneak Attack
-Normally attacking from stealth grants you advantage. Sneak attack also increases the damage you deal. In addition you gain this extra damage against any target that has lost vitality this turn.
+## Vanish
 
-Cunning Action
-When moving you may take the dash, disengage, or hide action for free.
+You may attempt to hide in situations where you normaly would not be able to.
 
-Uncanny Dodge
+## Expertise
+
+Choose 2 skills: You gain 2 ranks in each of them and their maximum value increases to 15
+
+## Sneak Attack
+
+You are considered to be attacking from stealth against any target you are flanking.
+
+## Cunning Action
+
+When moving you may spend 3 vitality to take the dash, disengage, or hide action.
+
+## Uncanny Dodge
+
 The first time you get struck in a turn, you may reduce the damage dealt by half.
 
-Reliable Talent
+## Reliable Talent
+
 When making a check with a specilized skill, you may treat any rolls of 10 or lower as 11.
 
-Improved Defenses
-Gain a bonus to Reflex, Fortitude, or Will
+## Improved Defenses
 
-Luck
-You are one lucky individual. You may make any roll with advantage, however for each time you do this the GM may impose disadvantage on one of your checks of their choice. Disadvantage imposed this way negates and replaces advantage. (i.e. the GM wins ties)
+Gain a +2 bonus to Reflex, Fortitude, or Will
 
-Heightened Sense
+## Luck
+Y
+ou are one lucky individual. You may make any roll with advantage, however for each time you do this the GM may impose disadvantage on one of your checks of their choice. Disadvantage imposed this way negates and replaces advantage. (i.e. the GM wins ties)
+
+## Heightened Sense
+
 Choose Hearing, Vision, or Smell. You gain advantage with the chosen sense.
 
-Magical Talent
+## Magical Talent
+
 Cannot take with the Spell Casting talent. If you wish to take Spell Casting, this ability is removed and refunded at 1/2.
 When you take this talent you gain 3 circles worth of spells with the target of self or touch. You may cast each spell once.
 Each time you take this talent, you may choose 3 of the following: Gain a new spell, increase the castings of a spell by 1
 
-Inspiration
-Your very presence inspires those around you. You may add half your presence score to any other character's action (rounded up).
-Hardened Inspiration: You may also add to a character's defense or save.
-Compat Inspiration: You may also add to a character's damage
+## Inspiration
 
-Armor or Weapon proficenciy
-Light, Medium, heavy, shield; smiple, martial
+Your very presence inspires those around you. When a character you can see makes a non-combat skill check, you may give them +1 to the roll. You may do this a number of times equal to your leadership, but no more than once per check.
 
-Skilled
-Increase the max rank of a single skill from 7 to 10, or increase the max rank of an attribute from 5 to 7.
+### Hardened Inspiration
 
-Actor
+You may apply inspiration to defense or saves.
+
+### Compat Inspiration
+
+You may apply your inspiration to combat.
+
+## Actor
+
 You have advantage when trying to pass yourself off as another individual.
 
-Tough
-You have +2 wounds
+## Tough
 
-Die Hard
+You have +3 wounds
+
+## Die Hard
+
 You must fail 2 dying rolls to die.
 
-Conditioned
-Increase your Vitality by 3 plus your level.
+## Conditioned
+
+Increase your Vitality by 1 per level.
 
 <!-- Equipment and Items -->
 # Chapter 8: Equipment and Items
 
+Broken up into broad catagories: Tools (Weapons, armor, kits, Alchemical goods, etc), Loot. THis is dumb. Forget it. Do it by weight or something.
+
+Weapons have a damage value, Armor Piercing?, and traits.
+AP reduces DR from armor, damage is determined by difference between attack and defense (for player's and nemesis only)
+
+Armor: Light, medium, heavy armor gives +0/1/2 defense and 1/2/3 DR. Armor also introduces spell failure and gives a penalty to spell casting equal to its defense value.
+Shield: Light, medium, heavy gives +1 defense and 0/1/2 reflex vs breath or as relevant
+Shields can be made out of wood (laquered w/ leather) or metal. Woodedn shields break, but are cheaper and lighter.
+Masterwork gear is lighter and reduces penalties.
+
 ## Worn Equipment
 
+Equipment worn doesn't count against encumbrance. Each characer can wear a number of slots at a time:
+Head, Body, Back, Hands, Feet, Rings x3, Trinket x2.
+
 ## Weight and Encumbrance
+
+Slots? No. Just make a list. Big items and small items. How important is it anyways? What is important about it? Can't carry too many tools. WHat are the classes of items? Equipment. Tools. Treasure/Loot. Gold. Misc.
+
+- Equipment: Anything that can be used in a fight
+- Tools: Anything that can be used to build or overcome an obsticle
+- Loot: Anything that can be sold or has sundry value
+- Gold: Coinage
+- Misc: Anything else
+
+Tools and equipment are the same thing. Loot and gold are the same thing. Misc is whatever. 
 
 <!-- Maigc -->
 # Chapter 9: Magic
