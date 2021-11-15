@@ -8,6 +8,16 @@ Marks to hit
 [x] Receive the blessing of Fin'dran'el and get breadcrumbs pointing towards Alexander and House Mhigo. Note that getting into House Mhigo will be hard without help from the speaker or another powerful person in the city.
 [] Grant XP (Camp minor, quest step normal)
 
+VTT TODO
+[] Character Builder
+[] Scenes
+    [] Unmarked Graves
+    [] Yalt?
+    [] Shattered Way
+    [] Alexander?
+    [] Overland map (though not the full map)
+
+
 ## Awakening
 “You wake up in darkness. Laying cramped in a small space. You’ve been buried alive! Pressing against the top of your prison, you feel the lid give way and open. You’re greeted by a cool night breeze. By moonlight you see a handful of other coffins, freshly exhumed and being opened by their own occupants. It appears you are not alone. You think back, trying to remember what led you to this spot, but your memory fails you; you don’t remember where you are or how you got there. Glancing around you, you see an ancient and decaying graveyard and, a few dozen feet from you, a flickering light emanating from a canvas tent.”
 
@@ -20,7 +30,7 @@ The tent is canvas and worn, the 'bones' of the tent are bronze and have a faint
 > Nek is a human in his late middle years. His skin is sunworn and leathered. His hair is long and unkempt, it is beginning to clump into dreadlocks. His weathered appearance belies his wisdom and strength.
 (He is a Way of Shadows Monk of 4th level)
 
-"As you peer into the tent you see a man meditating on the ground, wisps of incense curl about him as if a living thing. The man has sunworn and leathered skin, gaunt, but hiding power. His hair is long, unkept hair is beginning to clump into dreadlocks. As you regard him, his eyes slowly open. "Welcome friends. You've been asleep a long time. Please don't push yourself too hard, the night is still young and we have plenty of time yet. I am Warder Nek, and I am here to guide you as best I can."
+"As you peer into the tent you see a human man meditating on the ground, wisps of incense curl about him as if a living thing. The man has sunworn and leathered skin, gaunt, but hiding power. His hair is long, unkept and is beginning to clump into dreadlocks. As you regard him, his eyes slowly open. "Welcome friends. You've been asleep a long time. Please don't push yourself too hard, the night is still young and we have plenty of time yet. I am Warder Nek, and I am here to guide you as best I can."
 
 > He starts off slowly, so as not to overwhealm and asks for introductions.
 > Warder Nek received a vision from the walker and was shown the prophecy by the speaker. He knew where to dig and who he would find (Lightborn).
@@ -30,7 +40,7 @@ The tent is canvas and worn, the 'bones' of the tent are bronze and have a faint
 ## Out of the Woods
 One way or another the lightborn will leave the copse of unmarked graves and enter into Yalt. After spending their first full day in Yalt they will gain 1 defliement.
 
-"The land around you is desolate and scarred. Here and there stand once massive trees now petrified. Nothing living can be seen in the petrified wasteland. The air is dry, but cooler in the open than it was in the thick copse from which you came Warder Nek smiles wearily and tells you that it wont last, the sun seems to hate Yalt and it is unbearable in the daylight."
+"The land around you is desolate and scarred. Here and there stand once massive trees now petrified. Nothing living can be seen in the petrified wasteland. The air is dry, but cooler in the open than it was in the thick copse from which you came. Warder Nek smiles wearily and tells you that it wont last, the sun seems to hate Yalt and it is unbearable in the daylight."
 
 > Daylight is hot, but the night the time of monsters.
 
@@ -91,7 +101,7 @@ Breaker's Tools +3 1d4+2b
 XP 9    Loot Breaker's Kit, Ledger, Wand of Magic Missile (he'll use it every round until it breaks)
 
 ## Items
-Spell Steel - Advanced magical componenet, 10x the value of steel
+Spell Steel - Advanced magical componenet, 10x the value of steel and half the weight
 Shield Plate - A peice of spell steel with a rune of warding in it. The plate floats around the user and tries to block incomming attacks. It grants +1 AC and can be used once to fully negate a hit, this destroys the plate and damages the rune. The rune itself may be removed and added to armor or a shield which gives it a magic +1 bonus. Only Lightborn may use runes.
 
 Quests:
