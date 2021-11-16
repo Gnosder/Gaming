@@ -89,3 +89,11 @@ What do I need to have done in order to run the game?
 Everyone needs a character sheet.
 I need a scene or something for each area
     Perhaps a small graphic and notes?
+
+
+11/16/21
+Game 'balance'? 
+Action economy: 1 action, 1 movement, 1 bonus action, 1 reaction
+Each combat should tax vitality to limit, but not quite hit wounds if smart.
+damage per round should be ~4 for NPCs per player? Or should it be more deadly?
+Need ability to buy more vit?
