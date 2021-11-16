@@ -351,7 +351,7 @@ You treat any skill you do not have as if you had 2 ranks in it. You may special
 
 ## Spell Casting
 
-You gain the ability to cast spells. You gain the talents Cantrips and 1st Circle Spells as well as 1 other spell casting augment of your choice. In additon you must choose one of the following power sources for you magic:
+You gain the ability to cast spells. You gain 2 of: Cantrips, 1st Circle Spells 1, 1st circle spells 2. In additon you must choose one of the following power sources for you magic:
 
 - Your power is granted to you from the divine, be it nature or a God. You gain 1 blessing and 1 anathma from chapter 9.
 - Your power is inate, originating from a powerful or immortal ancestor. You must choose a bloodline from chapter 9.
