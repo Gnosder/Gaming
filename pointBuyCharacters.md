@@ -25,10 +25,10 @@ Necromancer Wizard
 Paladin
 
 Eldritch Knight
-5 Fighting Style, Second Wind, Action Surge, Spell Casting, Weapon Bond
+5 Fighting Style(dueling), Second Wind, Action Surge, Spell Casting, Weapon Bond
 
 Way of Shadows Monk
-6 Unarmored Defense, Martial Arts, Ki, Unarmored Movement, Shadow Arts, Deflect Missiles
+6 Unarmored Defense, Martial Arts, Ki(Flurry of Blows, Patient Defense, Step of the Wind), Unarmored Movement, Shadow Arts, Deflect Missiles
 
 Deathless Rager Barbarian
 5 Rage, Unarmored Defense, Reckless Attack, Danger Sense, Primal Path(Frenzy)

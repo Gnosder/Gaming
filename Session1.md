@@ -104,5 +104,5 @@ XP 9    Loot Breaker's Kit, Ledger, Wand of Magic Missile (he'll use it every ro
 Spell Steel - Advanced magical componenet, 10x the value of steel and half the weight
 Shield Plate - A peice of spell steel with a rune of warding in it. The plate floats around the user and tries to block incomming attacks. It grants +1 AC and can be used once to fully negate a hit, this destroys the plate and damages the rune. The rune itself may be removed and added to armor or a shield which gives it a magic +1 bonus. Only Lightborn may use runes.
 
-Quests:
+## Quests
 Find Fin'dran'el -- 150 xp
