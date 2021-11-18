@@ -1,4 +1,4 @@
-The world of [hollowed bastion Walker's Grave Burden Labour Bresos] Bresos is the main setting for the Breath of Life campaign which takes place on the contenent of Allaga. It is broken into 8 regions.
+The world of Bresos is the main setting for the Breath of Life campaign which takes place on the contenent of Allaga. It is broken into 8 regions.
 Long ago the God know as Walker trapped an Old God named Cthaat (The Dark Water God) on the world and built 9 massive constructs to protect his prison.
 
 The Colossi are named:
