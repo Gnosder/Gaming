@@ -1,6 +1,6 @@
+# Yalt
+
 The primary holdfast of yalt is the Descecrated Necropolis of Yalt. It is no longer habitable by mortals and is stalked by undead. Yalt was once a lush jungle fed by the River Amul (which no longer flows). It was destroyed when Priests of the Dark Waters conducted a ritual that weakened Cthaat's prison.
-
-
 
 ## The Descecrated Necropolis of Yalt
 

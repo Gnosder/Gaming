@@ -1,3 +1,5 @@
+# Session 1
+
 Marks to hit
 [x] Awakening.
 [x] Read opening and prompt for actions.
@@ -17,8 +19,8 @@ VTT TODO
     [] Alexander?
     [] Overland map (though not the full map)
 
-
 ## Awakening
+
 “You wake up in darkness. Laying cramped in a small space. You’ve been buried alive! Pressing against the top of your prison, you feel the lid give way and open. You’re greeted by a cool night breeze. By moonlight you see a handful of other coffins, freshly exhumed and being opened by their own occupants. It appears you are not alone. You think back, trying to remember what led you to this spot, but your memory fails you; you don’t remember where you are or how you got there. Glancing around you, you see an ancient and decaying graveyard and, a few dozen feet from you, a flickering light emanating from a canvas tent.”
 
 > Moonlit area. Lots of starlight streaming in from above. The tent has a small lantern hanging inside it.
@@ -38,6 +40,7 @@ The tent is canvas and worn, the 'bones' of the tent are bronze and have a faint
 > He is not pushy, he will let the lightborn do as they see fit. He will request to acompany them so that he might aid them. If they refuse, he will follow them discreetly.
 
 ## Out of the Woods
+
 One way or another the lightborn will leave the copse of unmarked graves and enter into Yalt. After spending their first full day in Yalt they will gain 1 defliement.
 
 "The land around you is desolate and scarred. Here and there stand once massive trees now petrified. Nothing living can be seen in the petrified wasteland. The air is dry, but cooler in the open than it was in the thick copse from which you came. Warder Nek smiles wearily and tells you that it wont last, the sun seems to hate Yalt and it is unbearable in the daylight."
@@ -51,13 +54,14 @@ One way or another the lightborn will leave the copse of unmarked graves and ent
 "After a while you turn away from the cursed necropolis of Yalt and wind your way through trails that only Warder Nek seems to see. Through a break in the petrified jungle you spy a towering highway of stone running over the tree tops. 'That's the Highroad of Yalt, or what's left of it. Now it's unusable and ruined. Just another reminder of this places cursed past. We'll follow the road until we see smoke. We'll find Fin'dran'el there.' You continue onward, guided by starlight and the sure step of Warder Nek, until Dawn just begins to crest the far away mountains of Hoarfrost. Against the steadily brightening light you spot small wisps of smoke curling their way into the sky. 'That is were Fin'dran'el lies. I don't know what to expect there save that. I advise caution.'"
 
 ## Fin'dran'el
+
 "Lying in a clearing in the petrified jungle you see the skeleton of a massive bi-pedal metal construct. Clearly Fin'dran'el, or what's left of it. The colossus would have towered at least 300 feet high when it could stand. You can still see that it was lean, with the same curve and wirey frame that you would associate with an Elf. Surrounding the colossus are a collection of crude, but sturdy shelters and a dozen humanoids in the process of salvaging what is left of the great construct. The creatures are human like in every way but their eyes, which house pitch black irises and seem to weep some black sludge."
 
-> The smoke belongs to a Currupted salvage camp. There the currupted are breaking down the remains of Fin'dran'el and sending the > salvage to places unkown. The Corrupted are hostile to all and hate Warders the most, they will recognize the Lightborn as 
-> warders on sight (similar to a Paladin's divine sense; this handicap will soon fade from the lightborn). They will not fight a 
+> The smoke belongs to a Currupted salvage camp. There the currupted are breaking down the remains of Fin'dran'el and sending the > salvage to places unkown. The Corrupted are hostile to all and hate Warders the most, they will recognize the Lightborn as
+> warders on sight (similar to a Paladin's divine sense; this handicap will soon fade from the lightborn). They will not fight a
 > losing battle, but will die if escape is not afforded to them. They will not speak to Warders and will die suddenly if captured. > A dead corrupted is indistingushable from a non-corrupted creature.
 > Adversaries: The camp houses 11 Corrupted Labourers, 2 Guards, and 1 Taskmaster.
-> Loot: Basic supplies and foodstuffs, as well as breaker kits (salvaging), there are a few handfulls of small coins amongst the 
+> Loot: Basic supplies and foodstuffs, as well as breaker kits (salvaging), there are a few handfulls of small coins amongst the
 > bodies (93cp, 17sp). A small lockbox in the taskmaster's tent also has 14gp, 3sp, and 7cp.
 > Also, there is a small crate (hinted at in the taskmaster's ledger) that holds some salvage. Most of it is spell iron, but there is a single shield plate.
 
@@ -68,6 +72,7 @@ One way or another the lightborn will leave the copse of unmarked graves and ent
 After talking with Warder Nek and setting a plan for what comes next. Warder Nek suggests they camp in a shady spot and wait out the daylight. He suggests they head to Alexander and the Warder Circle there. He will introduce them to the Speaker who will help them find/access the 'Bull of Ala Mhigo'.
 
 Rewards:
+
 - Wand of Magic Missiles
 - Spell Steel Plate: shield
 - Spell Steel (240gp worth, ~100lbs)
@@ -77,11 +82,13 @@ Rewards:
 - Major quest XP (150xp)
 
 XP:
+
 - 175 xp total for the camp
 - 150 xp for completeing the quest and talking to the Walker
 (This is enough to reach level 2)
 
 ### Monster Stats
+
 Corrupted Laborer
 HP 1
 AC 9  Saves +0
@@ -101,8 +108,10 @@ Breaker's Tools +3 1d4+2b
 XP 9    Loot Breaker's Kit, Ledger, Wand of Magic Missile (he'll use it every round until it breaks)
 
 ## Items
+
 Spell Steel - Advanced magical componenet, 10x the value of steel and half the weight
 Shield Plate - A peice of spell steel with a rune of warding in it. The plate floats around the user and tries to block incomming attacks. It grants +1 AC and can be used once to fully negate a hit, this destroys the plate and damages the rune. The rune itself may be removed and added to armor or a shield which gives it a magic +1 bonus. Only Lightborn may use runes.
 
 ## Quests
+
 Find Fin'dran'el -- 150 xp

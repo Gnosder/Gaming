@@ -53,6 +53,7 @@ Outdoors
     First Aid
 
 ## Passive Knowledge
+
 Arcana
 Religon
 History (culture/Region/Focus)
