@@ -1,6 +1,3 @@
-[]
-
-
 Goals:
 Reach Alexander
 Meet the Speaker
@@ -38,3 +35,16 @@ The door opens into a small steel tunnel that goes deeper into the colossus. The
 The speaker sits queitly in a large plush chair at an ornate cherry wood table surrounded by a dozen other chairs. He is an elderly human with wispy white hair and liver spotted hands. His ears have a light point to them, hinting at some elven blood and that, perhaps, there is more to him than there seems. He introduces himself as the Speaker of Alexander and welcomes the Lightborn and warder nek to sit. He engages in pleasent conversation until it is clear the lightborn wish to speak of business. He answers their questions in a friendly and patient way.
 
 The speaker has enough of a pull in the city to grant minor favors, and he will do so to help the Lightborn, however He won't burn any bridges for them(yet). He can get them an audience with Rabal, the former bull of ala mhigo, and can secure them lodging in the city (they could stay at the circle, but they may be more comfortable at an inn in Doma or Mhigo) He also grants them a stipend that will grant them a comfortable lifestyle plus 5 gp a month. He will arrange for traveling supplies and anything like that.
+
+The House of Mhigo
+The house is controlled by Raban Mhigo, but he is no longer the Bull. That honor has passed on to his son, pippin.
+
+With the speaker's aid, the guards of house Mhigo allow entry to a plush antechamber while they send for Raban.
+
+Mhigo: At the border of Garlemald the decor changes again to something more earthy and mediterranian. The people have the appearance of 
+
+Refugee camp outside Mhigo
+
+enroute to nebemos: wrecked cart of refugees attacked by orcs
+
+crashing wave inn
