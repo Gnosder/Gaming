@@ -10,6 +10,11 @@ Wildcard is a system replacement and suppliment for ttrpgs. The purpose of Wildc
 
 WIldcard replaces the dice rolling of traditional ttrpgs with a deck of cards called the Fate Deck. Whenever a player would roll a die they instead draw a card from the Fate Deck. The Fate Deck cards are valued from 1-20 (for d20 base systems) the deck also cointains a joker, 1 for every full set of cards (i.e. for every 20 there is 1 joker). Cards also have a suit: Doom, Destiny, Law, Chaos. The fate deck is shuffled at the start of each session and each scene as well as when it runs out. All participants in a scene draw from the same deck.
 
+When a joker is played it counts as the highest card in the deck and may be kept and used once as a wildcard.
+
+The cards also have a second value, usually  from 1-10 with 5-6 being most common. This is typically used for damage. In a d20 ttrpg you could read 3d6 damage as draw 3 cards and add the damage.
+    >Note: Yes this makes all weapons and attacks do d10 (ish, as it skews a bit closer to d8, or, rather, d9), but that is rarely a problem and if it is the results can be modified thusly: -2 for d4, -1 for d6, +1 for d12.
+
 ### The Wild Deck
 
 There is a second deck of cards that are given out to characters as boons/rewards/inspiration/etc. These cards tend to have values of 15+ and can impart special effects. A player may replace any 1 drawn card with a Wild card, this discards the wild card. The Wild Deck is suffled at the start of each session or when it runs out of cards. By default, a player may have no more than 2 wild cards at any given time.
@@ -62,3 +67,30 @@ With medical treatment a complication can heal 25% faster, with bedrest and cons
     >TODO: or something someting 25% max hp (scale?)
 An exception to this is minor consequences which disappear after receiving any magical healing.
 
+##  Boons/Adjustments/Mechanics
+
+This section is written as a non-inclusive list of potential mechanics and options that can be added to work with this system.
+
+### Deck Manipluation
+
+Abilities and spells can do things to view or rearange the deck. Examples:
+    Look a x cards and:
+        Put them back in the same order, any order, or random order
+        Put all or some of them in the discard or bottom of the deck
+        Play one for your check or keep 1 for a future check
+        Replace your or an opponents result with one of the card
+
+### Deck 'Poisoning'
+
+Poison cards can take several forms. They could be low cards, they could force a critical failure, they can grant complications to the one who draws them, etc. examples include:
+    Place a 'critical failure card' on top, x from the top, randomly into the deck
+
+### Suits
+
+Intrisicallly, suits are just asthetic, but they can be expanded on quite easily. The suits and their meansing are thus:
+    Destiny: A representation of hope and fortitude. A positive result for players
+    Doom: A manisfestation of dread or despair. A negative result for players
+    Law: A manifestation of order, law, or civility. A positive result for 'Law' aligned characters
+    Chaos: A manifestation of chaos, barbarism, or disharmony. A positive result for 'Chaos' aligned characters
+    *note that the converse is usually also true; i.e. a postive result for players can also be negative for GMs
+Abilities can be keyed to operate off of suits, such as "Deals an extra card of damage if a Destiny is drawn" or "After drawing a Chaos card, you may discard the top 3 cards of the deck and use one of them instead." or "after drawing a Destiny card take +2 forward for the scene."
