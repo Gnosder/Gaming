@@ -84,6 +84,26 @@ Stell raises and is dealt a third card. Edric underestimated Stell's resolve, he
 In this example, if Edric had bad cards but had a wild card...
 Edric looks at his cards and sees 2 ones, but he knows he has a twenty card that he can play in place of one of them. He decides to call. Stell folds, he doesn't want to damage his working relationship with the den by spilling any blood. Edric folds as well, Stell tells him what he wanted to know. Though Stell is none too pleased by the outcome and gains a wild card.
 
+### Scenario 3 - Orc attack
+
+A party of adventur food (fighter, cleric, theif, wizard) comes face to face with a group of savage orcs. The orcs are clearly aggressive and homicidle. The party, likewise, desires the sweet xp of the orcs. Thus someone is likely to die. However, that doesn't automatically mean the standoff will go to level 5 or that there will even be a standoff. Let's play it out.
+
+Both parties square up, they both expect and want violence. A standoff here doesn't make much sense, instead the game goes to combat rounds and initiative is rolled. This is because both parties want the same thing (violence), there is no conflict (save the one that is incipient, but that is more a contest) for a standoff.
+
+#### What if the party doesn't want to fight the orcs?
+
+The GM of the game is smart and hasn't tied gaining XP to something dumb like killing orcs. The party has no reason to want to fight the orcs. In fact they would prefer not to, so that they can save resources for the dungeon delve that they know is coming up. The party leader asks the orcs to stand aside and let the pass. The orc leader says 'no' and with an evil grin brandishes his brutal great axe.
+
+Both parties are delt 2 cards. In this case the orcs put up the wall by saying 'no' and so go first. They want blood to be spilled so they raise and are delt a third card. The adventuers are fine going to 3, so they call and so get delt a third card. The orcs are frothing at the mouth now and raise again, they are delt their forth card. The adventurers are pretty sure they can win in a fight, but don't want to risk the major consequence 4 cards represents, so they fold. The orcs, wanting blood, don't accept and so both groups call. The orcs reveal their 4 cards with a total of 46, the adventuers reveal their 3 cards with a total of 44. The orcs win and so deal damage to the party and impose a minor consequence, they also act first in the ensuing combat*. The adventurers get to decide who takes the damage.
+
+The orcs bellow and charge, the fighter steps between the theif (their 'leader') and the head orc. He takes 5 damage from the orc's vicious blow and suffers damage to his armor (this damage will persist until repaired via magic or a short rest). Combat now begins.
+
+* Maybe instead of going first, it should give a bonus to init.
+
+## Take Aways
+
+Those who are willing to risk the most can gain the most.
+
 ## Misc
 
 This doesn't allow for skill bonuses, is that ok? I think it is, this determines position and stakes.
