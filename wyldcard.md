@@ -100,6 +100,16 @@ The orcs bellow and charge, the fighter steps between the theif (their 'leader')
 
 * Maybe instead of going first, it should give a bonus to init.
 
+### AMBUSH
+
+A group of sneaky goblins has been stalking the adventuers. While the latter has been resting following a battle with orcs, the formor is getting ready to ambush them. This will never result in a standoff as the nature of an ambush lies counter to the idea of a standoff. Thus the encounter will be run using the standard ambush rules.
+
+## Does a standoff have to result in combat?
+
+No, if neither party wants it, combat will not ensue. If, however, one party wants to fight they will attempt to do so.
+
+Standoffs work best for non-combat conflicts, but can be used to determine the initial position of a combat.
+
 ## Take Aways
 
 Those who are willing to risk the most can gain the most.
