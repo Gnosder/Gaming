@@ -131,7 +131,7 @@ One of the first building set up in Hope's Gambit was a cartographer which also 
 
 ### Scouting Reports
 
-The consortium sometimes sends out scouting parties that can, if they return, give a basic idea as to what to expect.
+The consortium sometimes sends out scouting parties that can, if they return, give a basic idea as to what to expect. Due to the inherent danger of the area there is a 1 in 10 chance, per hex, that the scouts do not return.
 
 <div style='margin-top:140px'></div>
 
