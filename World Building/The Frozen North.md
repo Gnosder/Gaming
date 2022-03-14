@@ -29,3 +29,29 @@ There are lots of ways to get rid of them. The gophers are fat and lazy, they wo
 The owlbear does not want to leave, it will engage in combat but will attempt to flee if bloodied or if it can drag off an unconcious character. It fights with its bulk and is not in any way subtle.
 
 As the fight ends (one way or another) Cornelius jogs up, slightly winded from his exertion, a short sword sheathed at his side and a buckler strapped to his arm. "Well, good, looks like you were able to deal with the beast on your own. Best get after it though, it's well out of its territory and wouldn't have come this far east without a very good reason." "You're fee for this one will come out of the town's till, it's what taxes pay for after all."
+
+#### After the Bear
+
+The owl bear took off into the forest (presumably wounded and alone, sad), it will notice as soon as someone gives chases (novice adventurers are not as good as an owl bear) and drop anything it has to speed off deeper into the forest. The bear has a temporary lair beneath a fallen log and has made a nest out of leaves and the furry remains of its meals. A 3/2 skill challenge leads to it or, if 3/0, leads to the bear and then the lair. Examining the bear or the lair reveals strange clues. 1. The bear has fresh scars on its back that were caused by magic (necrotic damage). 2. Near the lair (in the bear's spore) a necrotic seed has sprouted and begun kiling plants around it.
+
+Whether the bear is killed or the lair is destroyed, the PCs will receive their reward when they return to Cornelius.
+"Well done, not a bad run for your first venture. Way to roll with the punches, or claws as it were. Take a rest, you've earned it. I'm going to send word to some friends further afield with the information you've found."
+
+FIN.
+
+### Raiders a Raiding
+
+"Cornelius pulls you all together with a great urgency. 'A Skoll Raiding party has been spotted advancing on Grinmist by the Sea a few miles away. The local garrison and militia will deal with them, in fact they probably already have, but there's always too much to do in the aftermath of battles and too few people. So I'm sending you out to assist. You'll be delivering a cart of supplies, medical and foodstuffs, and then assisting the local garrison in any way they need. Your contact in the town will be Sergent Second-class Amelia Dalion. Your fee will be paid by Grinmist by the Sea. Questions?'"
+
+The road to Grinmist by the Sea is well worn and easy traveling. A mile out of town a few pillars of black smoke can be seen, at the edge of town a few groups of towns folk (unable to serve in the militia) sit together, having fled from the front line. The fighting is over, but this raid was worse than 'normal' and captives were taken (normally the skoll just want supplies and a fight). The townsfolk don't know much, but can direct the pcs to Dalion.
+Dalion is over seeing the reconstruction of palasades just off the beach. She understands your pourpose at a glance and spares no time in giving orders. "Those of you who can skilled at medicine, report to Medic Stedan over there, the rest of you are helping build defenses. I fear a second attack is emmanent." This is a skill challenge 5/3 to prepare the town, the challenge takes 4 hours, after which the town is as ready as it will be and must wait. At midnight a skoll longboat appears on the horizon and bears down on the beach. The defenders launch several arrow volleys (fire arrows if the challegne was successful) before the longboat grinds into the shore and the raiders leap off, war cries to their death god on their lips. The raider's fight with abandon and even though they are outnumbered 3:1 they make their pressence felt. (8 raiders, medium armor; they fight until slain).
+
+"Never before have I seen such a thing. This assult was suicide and yet they did it gladdly. They fought to the end. No plunder is worth that. What is going on?" Dalion. "Our casualties here were higher than I was expecting. I'm sending for reinforcements, but this-- fervor-- of theres has me worried. The raiders took captives in the first assault and getting them back has become more important than ever. I don't have the manpower to protect the town and recover the captives, but I do have you. Take this longboat to Sealrock island, just out there, that'll be were the raiders have moored. Recover our townsfolk however you need to and, if you can, drive off the rest of the skool." They think there were 2 boats(though there was only one).
+
+The townsfolk have already been sacrificed to Nuul, death god of the Skoll, the sacrifice ment to summon the souls of the dead raiders back into immortal undeath. The island is empty save for a Skoll priest chanting in the middle of the slain townsfolk. The area quickly turns into a horror movie though as ghostly skool emerge from the water and attack the pcs once the priest has been bloodied. When the priest is slain the ghostly skoll vanish in anguished cries.
+
+"When you arrive home a grim Cornelius meets you. 'I've heard the news from Grinmist by the Sea and my contacts are reporting other strange occurances happening across the fjord. Get some rest, but be back here first thing in the morning. We have work to do.'" He wont talk about what it is or give any details.
+
+### Bandit were art thou
+
+"In the morning, seeming more terse than ever, Cornelius gives out the job. 'For a few winters now a small group of Dwarves have set up shop in an old keep to the north, at the edge of the Grizzly Hills. We were expecting their traders a few weeks ago, but they didn't come. Normally I'd pay it no mind, but after the last few days-- something happened to them, I know it in my bones. Go to their keep and find out what happened. I'll pay your fee."
