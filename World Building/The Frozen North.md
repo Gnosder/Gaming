@@ -52,6 +52,16 @@ The townsfolk have already been sacrificed to Nuul, death god of the Skoll, the 
 
 "When you arrive home a grim Cornelius meets you. 'I've heard the news from Grinmist by the Sea and my contacts are reporting other strange occurances happening across the fjord. Get some rest, but be back here first thing in the morning. We have work to do.'" He wont talk about what it is or give any details.
 
-### Bandit were art thou
+### Bandit wherefore art thou
 
 "In the morning, seeming more terse than ever, Cornelius gives out the job. 'For a few winters now a small group of Dwarves have set up shop in an old keep to the north, at the edge of the Grizzly Hills. We were expecting their traders a few weeks ago, but they didn't come. Normally I'd pay it no mind, but after the last few days-- something happened to them, I know it in my bones. Go to their keep and find out what happened. I'll pay your fee."
+
+Travel to the keep is straight foreward for the first half of the trip, moving along a worn trade road winding south-east from the steppes. The turn from the main road toward the keep is marked, but only just. The road itself is more of a game trail than a road, normal carts would struggle to navigate it.
+
+Travel between Granmist and the keep takes 3 days. A navigation check is needed to follow the trail. On a pass, arrive at the keep near noon on the 3rd day; else, arrive at dusk.
+
+The keep has been infested by ghouls, the dwarves are mostly dead, though 3 remain barricaded in a room deeper into the keep. The ghouls broke through a tunnel wall in the mine beneath the keep. The ghouls emerge to hunt at night and will ambush anyone camped ouside the keep. They will not leave the keep during the day and will retreat to the mines if needed.
+
+Spooky location crawl, ala dead space, with ghouls coming out at random. They should be powerful and always retreat when taken low. Find a already destroyed ghoul with a blessed warhammer. If they have radiant damage sources or turn undead the ghouls will flee into the mine and try to hide. Objective: Find or account for all the Dwarves.
+
+On returning to Cornelius: "Damn it all to the pit! The Lord here has already put Granmist into lockdown and, while aid is still coming to Granmist by the Sea, they've been told to 'temper their expectations'. I've yet to hear from the Guild in Anor Lundra, but it's only a matter of time. You have some time to rest, but be prepared for a whirlwind."
