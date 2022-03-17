@@ -52,7 +52,7 @@ The townsfolk have already been sacrificed to Nuul, death god of the Skoll, the 
 
 "When you arrive home a grim Cornelius meets you. 'I've heard the news from Grinmist by the Sea and my contacts are reporting other strange occurances happening across the fjord. Get some rest, but be back here first thing in the morning. We have work to do.'" He wont talk about what it is or give any details.
 
-### Bandit wherefore art thou
+### The lost dwarves
 
 "In the morning, seeming more terse than ever, Cornelius gives out the job. 'For a few winters now a small group of Dwarves have set up shop in an old keep to the north, at the edge of the Grizzly Hills. We were expecting their traders a few weeks ago, but they didn't come. Normally I'd pay it no mind, but after the last few days-- something happened to them, I know it in my bones. Go to their keep and find out what happened. I'll pay your fee."
 
@@ -65,3 +65,11 @@ The keep has been infested by ghouls, the dwarves are mostly dead, though 3 rema
 Spooky location crawl, ala dead space, with ghouls coming out at random. They should be powerful and always retreat when taken low. Find a already destroyed ghoul with a blessed warhammer. If they have radiant damage sources or turn undead the ghouls will flee into the mine and try to hide. Objective: Find or account for all the Dwarves.
 
 On returning to Cornelius: "Damn it all to the pit! The Lord here has already put Granmist into lockdown and, while aid is still coming to Granmist by the Sea, they've been told to 'temper their expectations'. I've yet to hear from the Guild in Anor Lundra, but it's only a matter of time. You have some time to rest, but be prepared for a whirlwind."
+
+Erik the Swift, Baleog the Fierce, and Olaf the Stout are the surviving dwarves.
+
+## Call to the Capital
+
+"Cornelus calls the team together. 'I've gotten word from the guild. They want us at the capital. All of us. Things must be worse than I thought if they want me to bring greenhorns like you. So, before we go, I'll ask you one more time, are you sure you want to be adventurers? Last chance to bow out. No? Fine, but I did warn you. We'll leave tomorrow. We'll be taking some wounded from Granmist by the Sea with us. Dalion didn't want them to stay here in case another attack comes.' 
+
+In the time between 
