@@ -72,4 +72,40 @@ Erik the Swift, Baleog the Fierce, and Olaf the Stout are the surviving dwarves.
 
 "Cornelus calls the team together. 'I've gotten word from the guild. They want us at the capital. All of us. Things must be worse than I thought if they want me to bring greenhorns like you. So, before we go, I'll ask you one more time, are you sure you want to be adventurers? Last chance to bow out. No? Fine, but I did warn you. We'll leave tomorrow. We'll be taking some wounded from Granmist by the Sea with us. Dalion didn't want them to stay here in case another attack comes.' 
 
-In the time between 
+In the time between the conversation and the caravan there are things that can be done, if desired. Any actions to help the caravan prepare should be rolled. If there are more successes than failures, the caravan leaves on time and all members gain +2 morale to all checks until the end. If there are at least 2 rolls and no failures the bonus increases to +4. Otherwise the caravan leaves late, at midday the next day instead of dawn (this makes corneleus grumpy, but not much else).
+
+Travel to the capital has a chance for 2 T1 random encounters and one gauranteed encounter. The third encounter happens about a day out from the capital. 
+
+### Refugee Caravan
+
+A train of refugees wind slowly onto the road from a game trail. They are tired and clearly left in a hurry. They'll tell that their home was attacked by Skoll raiders that couldn't die so they were forced to flee. Tug the strings. The guard 'captain' is a young girl, 17, who is the only one left with combat training after all the guards died defending the village. Her father was the reeve. There is someone else left from the militia, but he's too wounded to walk or do much. He needs medical treatment and infection is setting in.
+
+### The capital; Anor Lunda
+
+On arriving in the capital, Cornelius sends the caravan to the temple district while he users the ventuerers to the guild. There isn't a lot of time for sight seeing as he sets a rapid pace. The guild building is old, but well maintained. Built in the dwarven fashion the building itself is mostly a box, but the walls are covered in geometric patterns and reliefs. The inside of the building is spartan and functional. A large table is set up in the rear and a number of humanoids are gathered around it.
+
+"A stocky dwarf looks up as cornelius enters the room. 'You're late, had you gotten here sooner I'd have something good for you to do. These your new blood?' Cornelius nods curtly. 'We've gotten a requeset for investigtors from the church of the Golden Grace. Normally low priority, but these days I wouldn't discount it. Meet Sister Gentle Grace and see what she needs. Questions?" "Dismissed." (Why low prio? Normally the only investigating is for crimes, not our bag. They turn to us when the guard is too busy to help them. We typically punt to some local PIs, or at worst send out some of our newer members. Who pays our fee? A fair question in any other times. Right now we're all hands on deck so your fee is being paid out by the guild, with a bonus. Downside is you can't refuse a job unless you're leaving the guild for good.What else has been going on? Immortal/undead skoll raiders, undead appearing places they shouldn't be, a 'dimming' of faith based magics. What is the guild doing about it? Scouts sent to icecrown to see what's happening, emesaries sent to the storm giants, Elves, and Dragons. Scouts sent into Drullkas. Plus an overflowing number of monster hunting requests.)
+
+### The Church of Golden Grace
+
+People have begun leaving other churches to join the the Brotherhood of Immortal Blood, a mystery cult that has popped up, this is normally fine. However, some of those people have been disappearing, particularly the poor and untouchables (people the CHurch of Golden Grace works with). Investigate the disappearances and the cult (don't get caught). Deal with the vampire coven at its heart.
+
+The coven will have a clue that points to a Skoll jarl building up his forces at an old stronghold on the coast.
+
+## Further Adventures
+
+### Power breakdowb
+
+Lich King
+    |
+Kel'thezad      Queen Sanginus      Sindragosa      Jarl Grimtide     Loki     Drakken Thulbol      
+    |                   |               |                   |
+The Scourge         Vampires        Frost Brood            Skoll
+
+### Beats
+The Lich King awakens in his tomb, but is weak and needs a host.
+A dwarven necromancer finds the helm and becomes the lich king
+The lich king begins amassing his forces, rebulding his power base, and planning a full assault on the contenent (and eventually the world).
+His liutenants begin working in their regions.
+As each region falls, the dead are added to the lich king's ranks.
+i.e. faction gains strength by defeating regions and loses strength by losing lieutenants.
