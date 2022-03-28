@@ -8,7 +8,7 @@ A group of individuals embark on a new career as adventurers. They begin in the 
 
 Cornelius Feng -- Old, jaded, scarred in and out. Speaks with a harsh candor and a hyperbolic cynacism. Human, Male, Fighter, mid-60s, long grey uncempt hair.
 
-"Ventuering ain't always glamourous, in fact in most cases it't not. We're often low-rent mcercenaries with the occational forgotten tomb or decaying ruin. At worst we're cheap postal workers. It's on the low end that we'll be starting today. Millian Granmist is having issues on his farm, typical run of the mill gophers. That said, if they stay  there too long they could attract something more dangerous, like a bullet or a gryphon. So, you're going to go out to Farmer Millian's farm and deal with those Gophers. You're not doing it for free, mind you. He's paying a fee for your time and effort. I'll take my cut, as any guild would, and you'll split the rest. Questions?"
+"Ventuering ain't always glamourous, in fact in most cases it's not. We're often low-rent mcercenaries with the occational forgotten tomb or decaying ruin. At worst we're cheap postal workers. It's on the low end that we'll be starting today. Millian Granmist is having issues on his farm, typical run of the mill gophers. That said, if they stay  there too long they could attract something more dangerous, like a bullet or a gryphon. So, you're going to go out to Farmer Millian's farm and deal with those Gophers. You're not doing it for free, mind you. He's paying a fee for your time and effort. I'll take my cut, as any guild would, and you'll split the rest. Questions?"
 
 ### Gopher Chasers
 
@@ -109,3 +109,4 @@ The lich king begins amassing his forces, rebulding his power base, and planning
 His liutenants begin working in their regions.
 As each region falls, the dead are added to the lich king's ranks.
 i.e. faction gains strength by defeating regions and loses strength by losing lieutenants.
+
