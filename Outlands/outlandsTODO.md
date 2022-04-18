@@ -14,5 +14,12 @@
             [x] Rewards
             [x] Players
     [] Town Dashboard/map
+        Using placeholder building shapes
     [] Hex Journal Entries
+    [x] AAR
+
+[] Pyramid dungeon map
+[] Larger overworld map
+    Hexographer
+[] Roll20 archive game
     
