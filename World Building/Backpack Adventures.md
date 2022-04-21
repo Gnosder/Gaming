@@ -13,6 +13,33 @@ A collection of one-shots, intro adventures, and misc games that I can pull out 
     For the first one, do the spirit body swap one.
     Spirit spider venom into burgers to control people.
 
+## Lone Heart Investigations (Characters)
+    Owner is a drunken old PI by the name of Cornellius Wallace. Doesn't do much, but can give advice and break ties. In the know [about the supernatural].
+    Jacob/Adell Burns (Fighter, PI, holy)
+        "I'm an ex-detective blessed by something holy"
+        "Too young to be so old"
+        "I feel it in my bones"
+        "Infamous Cop"
+        "Demons in my bottle"
+    David/Nevi Garcia (Expert, PI)
+        "I'm an ace CSI"
+        "Eye for detail"
+        "
+    Anthony/Illiana Spencer (Face, PI, minor mage)
+        "I'm majorly affible and minorly magical"
+    Madison Yalt (Mage, PI)
+        "I'm a mage like my father before me."
+        "The building is on fire and it's not my fault"
+        "ok, it may be my fault"
+    Stephen/Stephany Padrick (Scientist, Expert)
+        "Science is my life. Knowledge my blood."
+        "Expert Bookworm"
+        "Shut in, relax, and focus"
+    Alphonso/Addison Rock (Brawler, Mage)
+        "I'm a Bareknuckle fighter who studies magic"
+        "Punch first and keep punching"
+        "Forceful is my personality and my calling"
+        
 ## Spirit of the City
 
 Mandy summoned the spirit Arada to helpher study for exams (she's a knowledge spirit), but the summoning went awry when a creature chasing arada followed. Arada possessed Mindy and fled while the hunter started to chase her. Now Mindy is without a body and fading fast. Dr. Samantha Eliot, is trying to figure out what happened and has hired the PCs. That-which-hunts-the-dark is chasing Arada in Mindy's body to consume her. Duke Marcel De Sanguine, vampire prince of the city, is hunting Arada as well, knowledge spirits are valubale. Arada is just trying to survive.
@@ -77,3 +104,10 @@ Clues/Info:
     Sewer entrance near church disturbed.
 
 (Ectoplasm forms where spirits use conjuring magics or manifest)
+
+
+## Venom Burger
+
+A new fast food has taken the city by storm. Those who eat at 'Venom Burger' can't help but keep coming back. Is it really that good or is there something else at play?
+
+The burger meat is vegan and supplied by a local farm that uses spirit augmented beans in the patties. The burgers are slowly attuning those who eat them to the spirit world in preparation for a massive summoning ritual to call forth an idigam. Neither the farmers or the restaurant know about the plot. The owner of them both, however, has been planning for some time.
