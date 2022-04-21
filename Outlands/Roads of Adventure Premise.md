@@ -1,0 +1,9 @@
+# Roads of Adventure
+
+## Page 1 -- Premise
+
+In a fantasy world littered with the ruins of ancient empires and fallen kingdoms, in a dark age of history, a group of humble individuals leave the simple work-a-day lives of their kin to make their way as traveling adventurers. Though they start as strangers to each other, they soon learn to work together and eventually trust each other as each seeks their own fate and fortune in the world.
+
+After a chance event gives the would-be heroes their first taste of adventure, the party discovers further opportunities for adventure in the world’s scattered villages, towns, and cities. After choosing to pursue a particular opportunity, the party generally prepares in town for their adventure. They buy supplies, gather resources, and seek out useful information. Then, they must usually leave town and travel to the adventure’s site, dealing with the challenges of crossing the untamed wilds. Once at the adventure site, they must overcome numerous obstacles and challenges before resolving the adventure’s major conflict. Victorious or not, the party usually returns to town to claim their rewards, to recover from their tribulations, to sell their treasure, to restock their supplies, to upgrade their equipment, and to study and train and thereby enhance their abilities. While in town, the adventurers often interact with the people of the world. They build relationships and gain a reputation. Those interactions inevitably lead to new adventure opportunities. Eventually, the adventurers will feel they’ve outgrown the particular town they’re in. Or wanderlust will take hold. They’ll move on to some new locale to start the cycle all over again.
+
+As the campaign opens…
