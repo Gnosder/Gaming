@@ -77,6 +77,14 @@ Full Defense - 2AP - Defensive  - If you haven't taken a focus action this round
 
 ## Items and Equipment
 
+Inventory List
+Equipment Name, Ready, Bulk
+Supplies name, #, bulk, cost
+loot name, #, value, bulk
+
+Ready items
+5 + poise or might?
+
 Armor and Shields add to block defense.
     Light Armor also adds to dodge
     Heavy Armor and shields grants a Minor consequence in addition to its defense bonus
@@ -214,7 +222,7 @@ Warlock (power at a cost)
         Spellbook with 9 spells (2 of which can be found nowhere else)
         +1 to 2 attributes
 Druid
-    Natural Bond: Gain +1 MP while in an uncivilized area and gain 2 boon to interact with nature.
+    Natural Bond: Gain +1 max MP while in an uncivilized area and gain 2 boon to interact with nature.
 Paladin
     Shining Defense: When you suceed at Block or Parry, deal damage to the attacker equal to your Arcane.
 
@@ -234,8 +242,8 @@ Advanced:
     Learn a new spell
     Diehard: Gain +2 to dying timer and recover on 18+ instead of 20.
     Leadership: Double poise to determine followers. Ability to gain a cohort.
-    Alertness: Gain +2 to perception
-    Advanced Initiative: Gain +2 to initiative
+    Alertness: Gain +2 boon to perception
+    Advanced Initiative: Gain +2 boon to initiative
 Expert:
     +4d4 stress
     Expert Defense: restore 1d4 Stress each time you defend against an attack.
@@ -251,17 +259,175 @@ Expert:
     Ritual of Naming: Ritual DC17 Effort equal to target's stress; When complete learn the target's name.
 
 ### Arcane Magic
-    Magic Missle: auto-hit, basic effort. Spend extra AP to cast additional missles 1:1.
-    Cantrip: Can be cast without a spellbook. Prestidigitation, Ghost Hand, Thaumatugey.
-    Light: Summon a light source that lasts as long as you have at least 1 MP. Each light source after the first requires you to reserve 1.
-    Elemental Bolt: When learned choose a damage type  (Fire, Ice, Lightning, Acid, Force) deal magic effort of that type.
+    Hedge Traditions:
+        Animism (Spirit/Life/Matter)
+        Alchemy (Matter/Forces/Spirit)
+        Witchery (Death/Life/Forces)
+    Major Circles:
+        Life
+        Death
+        Matter
+        Spirit
+        Forces
+    Hidden Circles:
+        Mind
+        Fate
+        Time
+        Space
+        Prime
+
+    Rote Spells:
+        All casters can learn these spells without effort.
+        Cantrip
+        Bolt
+        Light
+        Mage Armor
+        Mage Sight
 
 ### Holy Magic
-    Heal: roll magic effort and restore that much stress to target. Gain +2 effort if touching target.
-    Weapon of Light: Reserve 1: Target weapon deals holy typed magic effort.
-    Smite: Deal holy typed magic effort, +4 vs targets weak to holy
+    Multiple Ausices:
+        Celestrial/Demonic
+        Primal/Elemental
+
+    Holy magic deals Holy or Profane damage unless listed otherwise.
+    Heal: roll magic effort and restore that much stress to target. Gain +2 effort if touching target. +2 effort for each extra AP spent.
+    Weapon of Light: Reserve 1: Your weapon deals magic effort.
+    Smite/Holy flame: Deal holy typed magic effort, +4 vs targets weak to holy, +1 boon per extra AP spent.
+    Inflict Wounds: Deal profane typed magic effort, +4 vs targets weak to profane, +1 boon per extra AP spent.
+    Bless/Curse: Reserve 1; allies/enemies within medium range get one boon/bane. Spend 1 AP to double bonus/penalty for one target for one round. 
+    Protection
+    Sheild of Faith
+    Detect
+    Guiding Bolt
+    Augury
+    Hold Person
+    Silence
+    Darkness
+    Daylight
+    Animate Dead
+    Dispel
+    Curse
+    Guardian of Faith
+
 
 ### Deep Healing
 (Rituals that can heal consequences, regrow limbs, and resurrect the dead)
     Revivfy
     Regenerate
+
+
+## Adversaries  
+
+Adversary builder:
+    Concept
+    Level (1-11)
+    Type
+    Role
+    Rank
+    Derived stats
+        Stress: 1 HD per level, size determined by type
+        Combat: 13 + HD (modified by type, role, rank)
+        Consequences: One Extreme, suffer one major at 50%
+        Moral: determined by rank
+        Backgrounds: # determined by role and modified by rank
+        Abilities: determined by role and rank
+
+Creature Type(HD):
+        Each type gets 2 background points related to their type and up to 2 more.
+    Natural(d6)
+        Humanoids, beasts, etc
+    Aberant(d10)
+        Created by magic. Dragons, Constructs
+            Dragons are always solo and can reach level 11.
+    Undead(d8)
+        Corpses raised to life. Never have consequences, but gain +2d8 stress for each mild they should have. Unintellegent undead do not make moral saves.
+    Outsider(d12)
+        Angels, Demons, Fey, immortal and quasi-mortal, gods, aboliths
+            Can reach level 11
+
+Role:
+Each role gets 3 background points related to their role.
+    Artillery focus on powerful ranged attacks.
+    Brutes Focus on dealing large amounts of damage in melee combat.
+    Controllers Manipulate enemies or the battlefield.
+    Lurkers focus on stealthy attacks, usually delivering a powerful attack once every few rounds, focusing on defense otherwise.
+    Skirmishers focus on mobility.
+    Soldiers specialize in drawing the characters attacks and defending other creatures
+    In addition, some creatures may have the additional Leader role. Leaders tend to have one ability that helps other creatures in battle. A skirmisher leader may allow all allies to shift for example.
+
+Rank:
+Minion - Stress drops to 1, -1 moral, no cons
+Normal - Normal, may have one extreme cons
+Elite - +1 HD, +1 Moral, +1 to highest background
+Leader - +2HD +2 moral to self and nearby allies, +1 to highest 2 backgrounds
+Solo - +4HD, +3 Moral, +2 to all backgrounds
+
+
+Level 11
+Some creatures are so powerful they turn it up to 11. At this level they are practically gods and do not use the normal stats anymore. They transcend their form or nature.
+
+Abilities:
+by role
+
+
+# Character Guide
+
+Options for characters and how to build them. Also how to convert from d&d 5e.
+
+## Race
+### Human
+The most common race. They are young, but adventerous and have quickly spread across the world.
+Fated - When a human would die, they roll a d20, on a 15+ they stabalize. Fate has saved them.
+
+### Demi-human
+#### Dragonborn
+    No one knows where these half-dragons came from, but it's clear they aren't going anywhere.
+    Dragonborn get +1 to their block defense from their scales
+    Dragonborn have an elemental breath attack stemming from their draconic heritage.
+        Type determined by scale colour. 1 MP, magic effort in cone/line. Spending +1 MP and +3 AP doubles the effort dice.
+#### Orcborn
+    When an orcborn suffers a consequence they enter a rage. While raging their any action using might gains 2 boons while all other actions suffer 2 banes. The rage lasts until the end of the scene, each round of the rage an orcborn may make a poise check to end the rage early if they wish, if they make the poise check they do not receive the benefitts of the rage that round.
+#### Elfborn
+    Elfborn are resistant to magical effects and gain a boon to defenses against magic. They also gain a boon to perception tests.
+### (non-humans)
+#### Elf
+    Elves cannot be charmed or put to sleep by magic, in additon they gain +4 to defenses against magic.
+#### Dwarf
+    Drawves are resistant to poisons and gain +4 against them. They also gain +2 stress per level.
+## Archtypes (Jobs/class/specialty)
+    Warrior
+    Hunter
+    Scounrel
+    Theif
+    Mage
+    Shaman
+    Witch
+    Priest
+    Healer
+## Gear
+    Weapons/Tools
+    Supplies
+    Loot
+    Sundries
+## Spells
+    Light Magic
+    Dark Magic
+    Real magic
+
+## Feats/Powers
+## Magic Items
+## Basic Rules
+
+The universe:
+A mortal/material world
+Surrounded by the Hedge 'above' and the Dark Lands 'below'
+At the 'top' is Arcadia
+    Angels are actually Fae
+At the 'bottom' the Abyss
+There is also the chaos which surrounds all of it.
+Everything else is considered to be the 'Outside'
+    Vestiages of the Outside litter  the darklands and the hedge. The Abyss is a prison built for demons, Arcadia is the home of the Fae -- both winter and summer -- who are the 'wardens' of the abyss. The material world appeared in the aether between the two and has traits of both. The Aether of the material world is really just radiating outward from Arcadia as it slowly spirals into the Abyss where it feeds the locks on the prison. Arcadia's existance feeds the locks and keeps the demons trapped, thus protecting the 'Outside'. There is no 'space' outside the material plane, the dark sky is just a big portal into either the hedge (day) or Darklands (night), that said, nothing comes through the portal
+
+Religion:
+The Circle of Roots
+    A natural 'wican' religion that believes in blood ties and the veneration of nature. They worship the "Silver Goddess".
