@@ -1,0 +1,10 @@
+## Prompt
+How would you describe an English language learner? What challenges do they have in school? What educational approaches and services are available to support them?
+How would you describe one of the following: advanced learner, at-risk learner, or learner with a disability? What challenges do they have in school? What educational approaches and services are available to support them?
+
+## Response
+
+EL learner is, simply put, someone who does not speak english to the minimum standards and must learn it or is in the process of learning. Not only is there a language barrier, but there may also be a culture barrier. In my experience the best way to support them is to remain patient and to speak slowly. Try to engage in their prefered way to learn a language (this will typically be immersion, but could be different) and above all remain patient.
+Remember: if you meet someone who speaks with a thick accent or has poor english, it just means they know multiple languages; which is an impressive feat.
+
+Advanced learners are not talked about nearly enough. I know first hand what it's like to be ahead of the rest of the class and to be bored sick. In fairness this didn't actually bother me too much as it gave me time to read in class, which is what I wanted to be doing anyway. In my experience advanced learners come in two basic types: those who are personable and those who would rather not be seen. For the first group, I like to engage them by having them mentor other students or even teach small parts of the lesson if they're comfortable with it. This makes them think more deeply about the material and teaches valuable leadership skills. The second group is harder. Their taste and drive will be diverse meaning there is no one size fits most strategy. They need to be stimulated and if the curriculum isn't doing it, that task falls to the teacher. Learn what they like and implement it in the best way possible.
