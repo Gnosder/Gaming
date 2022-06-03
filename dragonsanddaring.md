@@ -39,6 +39,9 @@ Some magic can heal consequences, but it is difficult, costly, or slow.
 When a character has used all their consequence and has been reduced below 1 stress, they are dying. When a character begins to die, the GM rolls a d4 in secret. That is how many rounds before they die. Each round there after the character makes an unmodified luck attempt, on a natural 20 they recover 1 stress and awaken--it was just a flesh wound. Other characters may help stabalize a dying character either with magic, by healing at least 1 stress, or by spending an untinurrupted period giving medical aid. This period lasts until the target regains at least 1 stress, typically 6 minutes. If the medical aid is disrupted for any reason the target begins dying again and the counter resumes. Particularly skilled medics may add up to 2d4 rounds to the targets dying timer. If a dying character takes stress damage, they lose 1 round off their dying timer for each stress taken, unless being treated by another character.
 If a dying target does recover at least 1 stress they are no longer dying, however they remain unconcious until they naturally heal at least 1 minor consequence, typically 1 hour.
 
+### MP
+Everyone has some innate magical ability, whether they focus it or not. MP regenerates naturally at about 1 an hour. This process can be sped up with practice and meditation. MP cannot go above its maximum value, outside a few dangerous circumstances (you're a balloon, MP is air, too much and you pop).
+
 ## Combat
 
 Swords happen. When they do it's important to know how to deal with it.
@@ -161,14 +164,19 @@ Arcane
 Poise
     Charisma and Willpower
 
+### Derived Stats
+HP
+
+
+
 ## Levels
  No class, but archtypes.
 | Level | Stress    | MP    |Benefit   |
 | 1     | 2d6       | 2     | Starting Archtype, Starting gear,
-| 2     | 3d6       | 2     | +1 Attribute
+| 2     | 3d6       | 3     | +1 Attribute
 | 3     | 4d6       | 3     | Archtype Ability 
-| 4     | 5d6       | 3     | +1 Attribute
-| 5     | 6d6       | 4     | Advanced Archtype
+| 4     | 5d6       | 4     | +1 Attribute
+| 5     | 6d6       | 5     | Advanced Archtype
 | 6     | 7d6       | 5     | +1 Attribute
 | 7     | 8d6       | 6     | Archtype Ability
 | 8     | 9d6       | 7     | +1 Attribute
@@ -176,6 +184,13 @@ Poise
 | 10    | 11d6      |10     | +1 Attribute
 
 Each level can reroll HP, if the value is higher than before you can keep the new one.
+
+### Archtype Philosophy
+Roles
+    Striker - Damage
+    Defender - Tank
+    Leader/Controller - Support
+Each archtype gets 2 abilities and one extra point. At least one ability must reflect the archtype's role in combat while the second can/should be more RP or open ended
 
 ### Basic Archtypes
 Warrior
@@ -188,6 +203,7 @@ Hunter
 Apprentice Mage
     Burst: Magic effort dice explode.
     Learn Cantrip spell and 2 others
+    +1 MP regen per hour
     +1 Archtype ability
 Priest
     Holy Words: Cast holy magic without a spellbook
@@ -216,6 +232,7 @@ Mage
     Metamagic: When casting a spell may:
                     Spend double its MP to have it do max effort (this can explode as normal). May change its type by spending an extra AP.
                     May spend +1 MP to cast at -1 AP
+    +1 MP
 Warlock (power at a cost)
     Patron: Commune and bargin with a patron. Gain up to 3 of the following (The more you gain, the more your patron will expect of you).
         +1 MP
@@ -228,6 +245,7 @@ Paladin
 
 Cleric
     Turn Chaos: Spend 1 MP 
+    +1 max MP
 Rogue
 
 #### Archtype Abilities
@@ -284,7 +302,7 @@ Expert:
         Mage Armor
         Mage Sight
 
-### Holy Magic
+### Miricle Magic
     Multiple Ausices:
         Celestrial/Demonic
         Primal/Elemental
@@ -314,6 +332,7 @@ Expert:
 (Rituals that can heal consequences, regrow limbs, and resurrect the dead)
     Revivfy
     Regenerate
+    Resurection
 
 
 ## Adversaries  
@@ -359,8 +378,8 @@ Rank:
 Minion - Stress drops to 1, -1 moral, no cons
 Normal - Normal, may have one extreme cons
 Elite - +1 HD, +1 Moral, +1 to highest background
-Leader - +2HD +2 moral to self and nearby allies, +1 to highest 2 backgrounds
-Solo - +4HD, +3 Moral, +2 to all backgrounds
+Leader - +2 HD +2 moral to self and nearby allies, +1 to highest 2 backgrounds
+Solo - +4 HD, +3 Moral, +2 to all backgrounds
 
 
 Level 11
@@ -376,7 +395,7 @@ Options for characters and how to build them. Also how to convert from d&d 5e.
 
 ## Race
 ### Human
-The most common race. They are young, but adventerous and have quickly spread across the world.
+The most common race. They are young, but adventerous and have quickly spread across the world. Humans can breed with most everything and they often try, there are other demi-human races than listed here, but these are most common. The race of half-fae children is always that of the mother, and while infants are sometimes called changlings, they grow out of it by their 5th year.
 Fated - When a human would die, they roll a d20, on a 15+ they stabalize. Fate has saved them.
 
 ### Demi-human
@@ -386,12 +405,12 @@ Fated - When a human would die, they roll a d20, on a 15+ they stabalize. Fate h
     Dragonborn have an elemental breath attack stemming from their draconic heritage.
         Type determined by scale colour. 1 MP, magic effort in cone/line. Spending +1 MP and +3 AP doubles the effort dice.
 #### Orcborn
-    When an orcborn suffers a consequence they enter a rage. While raging their any action using might gains 2 boons while all other actions suffer 2 banes. The rage lasts until the end of the scene, each round of the rage an orcborn may make a poise check to end the rage early if they wish, if they make the poise check they do not receive the benefitts of the rage that round.
+    When an orcborn suffers a consequence they enter a rage. While raging any action using might gains 2 boons while all other actions suffer 2 banes. The rage lasts until the end of the scene, each round of the rage an orcborn may make a poise check to end the rage early if they wish, if they attempt the poise check they do not receive the benefitts of the rage that round, but still suffer the penalties.
 #### Elfborn
     Elfborn are resistant to magical effects and gain a boon to defenses against magic. They also gain a boon to perception tests.
 ### (non-humans)
 #### Elf
-    Elves cannot be charmed or put to sleep by magic, in additon they gain +4 to defenses against magic.
+    Elves cannot be charmed or put to sleep by magic, in additon they gain +4 to defenses against magic. They also gain a boon to perception tests. Elves suffer 2 bane to all actions for 2 weeks after breaking their word or telling a lie.
 #### Dwarf
     Drawves are resistant to poisons and gain +4 against them. They also gain +2 stress per level.
 ## Archtypes (Jobs/class/specialty)
@@ -428,6 +447,22 @@ There is also the chaos which surrounds all of it.
 Everything else is considered to be the 'Outside'
     Vestiages of the Outside litter  the darklands and the hedge. The Abyss is a prison built for demons, Arcadia is the home of the Fae -- both winter and summer -- who are the 'wardens' of the abyss. The material world appeared in the aether between the two and has traits of both. The Aether of the material world is really just radiating outward from Arcadia as it slowly spirals into the Abyss where it feeds the locks on the prison. Arcadia's existance feeds the locks and keeps the demons trapped, thus protecting the 'Outside'. There is no 'space' outside the material plane, the dark sky is just a big portal into either the hedge (day) or Darklands (night), that said, nothing comes through the portal
 
+Cosmic Orentation
+Arcadia was chosen to be the wardens of the abyss. They had plenty of Aether and had lost a war and so were voluntold. The aether of Arcadia was channeled down towards the abyss, but it was too wild so the prime material plane was created to focus it. From the material the Aether flows downward to the abyss where it powers the locks that keep it sealed. There is a gate leading out of the bubble that celestrials sometimes use to check the health of the abyss' seals, other outsiders sometimes use the gate for their own reasons, though the entrance is heavily patrolled.
+The Aether has created the hedge between Arcadia and the material as well as the Darklands between the Material and the abyss.
+
+This creates a world that is much more 'primal' and grounded. The 'gods' are mostly fae/demon lords and ascended mortals. More like greek gods than the almighty. Monsters tend to be fae or created by fae. Some are demons summoned from the abyss and others, like dragons, predate the bubble (some are angry about their 'imprisinment' and the most powerful can use the gate if they really want to.)
+
+Even though the hedge is aligned with the day and the darklands with the night both have their own cycles that don't sync with the material. Though their cycles consist of eclipses, solar in the Hedge and Lunar in the Darklands.
+
 Religion:
+A religion is beliefs, traditionions, organization, and gospel
 The Circle of Roots
     A natural 'wican' religion that believes in blood ties and the veneration of nature. They worship the "Silver Goddess".
+Archetects of Roses
+    An earthly religion that mirrors the feudal existance of the summer fae. Heavy emphasis on bargains, loyalty. The book of roses is a parable of summer fae heroes.
+The way of ice
+    A stoic mystery cult that appears all over the world and in all cultures. Values sword logic and the survival of the worthy. Those who live deserve life, while those who die deserve death.
+Luminerous
+    An agrresive sun/fire religion that converts or consumes. It's rites are steeped in fire metaphors and each temple has an eternal flame blazing that is said to be a spark of the first flame itself (some are, most aren't). Its teachings focus on the deeds of great heroes and value decisive action.
+
