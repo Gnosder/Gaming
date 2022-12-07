@@ -34,7 +34,7 @@
     The double doors at the end of the room open out into a short hallway that end abruptly at a brick wall. Red light shines through cracks in the masonry and a the sound of running water can be heard on the otherside of the wall. The brick wall blocks aaccess to the cistern proper.
 
 ### Broderick
-	At this point Broderick is falling apart and descending into madness. His fragile ego cannot handle what has happened. He must check moral with each encouter and each time he is asked questions about Wrath or the Cistern. Failing a moral check requires him to check madness.
+	At this point Broderick is falling apart and descending into madness. His fragile ego cannot handle what has happened. He must check moral with each encouter and each time he is asked questions about Wrath or the Cistern. Failing a moral check requires him to check madness. If he makes it into the heart room he has a burst of maddness and attempts to take the heart. He gets attacked and killed by the shark demon.
 	Broderick knows the following:
         * Cisterns rare are portals into the chaos.
         * Cisterns are created and powered by powerful wrath crystals called wrath heart.
@@ -78,29 +78,10 @@
     Every time corruption is gained 2d6. If you roll under your corruption score you gain a curse. If you have any corruption at all you have the "Intrusive Wispers" curse. After gaining 5 curses corruption can no longer decrease and at 7 curses you become a Wrath touched.
     Destroying a cistern reduces corruption by d6.
 
+## Taking the Heart
+    Once the heart is taken the cistern begins to collapse and everyone inside it is shunted back to their home plane a few rounds after the collapse begins.
 
+## Viggo
+    When the characters leave the tomb they encounter Viggo Fernand, Usher of the house of Strohmensh. He wants to learn what happened and where Broderic is. While he didn't much care for Broderic, the noble was his meal ticket. He still wishes to get paid and hatches an idea to pass one of them off as Broderic's heir. This would let them take over the estate and sell any goods they got from the cistern. He will take care of the details (the heir should be human, but doesn't have to be). Further, Strohmensh wasn’t the houses real name, it was one Broderic took because he didn’t like the original (as it reminded him of his father who was greatly disapointed in him). The actual name is open for the players to decide.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    The door leads into a musky hallway about 30ft long with roots poking through the ceiling entwined with wrath. There is a red light at the far end of the hall shining through cracks in a stone wall (poorly constructed to block the path). The hall leads into a large circular room covered in wrath. Glowing red water falls along the sides of the room, this is a cistern, a pocket dimension in the chaos that either collects wrath from the world or disperses it to the world (unknown). 
-
-	The cistern has a few chambers. A stairwell, slick with wrath water, descends deeper into the pocket. At the bottom of the cistern the Heart can be seen. The stairs lead to an overlook that adjoins a side room that appears to be a garden open to a churning red sky. A rundown greenhouse doorway opens into an embalming room that was probably part of the original tomb. A coffin leads down into the Heart room (broadrick does not survive this room). After the heart is taken or destroyed the cistern begins to collapse. A chase VS instant death.
-	At the end, Viggo Fernand usher of the house Strohmensh, approaches the survivors. 
-He didn’t care for Broderic.
-He still wants to get paid and offers to help the survivors take over Broderic’s estate. They or at least one of them become “nobles”.
-Strohmensh wasn’t the houses real name, it was one he took because he didn’t like the original (as it reminded him of his father who was greatly disapointed in him). The actual name is open for the players to decide.
+    Should the characters take Viggo up on his offer they gain control of the "House of Straw" for good and ill.
