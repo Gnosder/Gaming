@@ -1,4 +1,4 @@
-# On Kobolds by Coppernicus Salizar
+ # On Kobolds by Coppernicus Salizar
 
 A treatise on the life and behaviors of Kobolds.
 
