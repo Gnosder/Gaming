@@ -42,14 +42,6 @@ They arrived in town while traveling and get caught up in the mystery.
 
 This act covers the exploration of Orlane and discovery of the Cult. It begins as soon as the characters enter the town and ends when they leave the town *in pursuit of the Cult*.
 
-#### What people Know
-
-In Orlane
-    Orlane used to be fairly prosperous but has recently become more closed off. Trade has stagnated, townsfolk have become distrustful. Some townfolk have gone missing but most return a few days later acting strangly (but its more of a feeling). A few have yet to return.
-
-Outside Orlane
-    Rumors have been swirling. Orlane has cut off trade, and villagers no longer travel to surrounding towns. Travelers have gone missing near the town.
-
 
 #### Cult Activities
 
@@ -57,18 +49,44 @@ The Cult of the Reptile God has a few priorities in the town that they will purs
     Remain hidden (For as long as possible)
     "Recruit" more cultists. They prioratize outsiders and vagrants.
         They do this by kidnapping people and taking them to the Naga to be charmed.
+        Kidnapped individuals are kept in the basement of the Golden Grain Inn until the cultists are ready to leave for HQ. A few weeks.
     Spread the Influence of the Cult beyond Orlane
         They do this by "recruiting" dignitaries and others from outside places.
+
+Any family in town has a 60% (6 in 10) chance to be cultists
+
+#### Orlane Rumors
+
+    This is a list of what people in the town might know. 
+        Non-Orlane Citizens (outside Orlane)
+        Cultists will always share untrue rummors. 
+        Non-cultists who trust the characters share what they know.
+        All others draw from the list at random.
+
+    Orlane was once Prosperous, but has become closed off.
+    Some townsfolk have gone missing but most have returned.
+    Some townsfolk have fled the town, leaving all that they own behind.
+
+    An evil cult is taking over the town (true)
+    Cultists can be spotted by fang marks on their necks (Untrue)
+    The mayor is a cultist (untrue)
+    The blacksmith is a cultist (true)
+    The widow is a cultist (untrue)
+    People have gone missing from the Golden Grain Inn (true)
+    The strangers (elves) are cultists (untrue)
+    The hermit at the edge of the town is a cultist (untrue)
+    The Clerics of Merrika are cultists (true)
+    The general store owners are cultists (true)
+    Starnge Creatures live in the basement of the old Inn (true)
+
 
 #### Orlane Outskirts
 
 "The forest you are traveling in opens up into a small rolling grassland. A few farms are visible on either side of a packed dirt road. A weathered sign post points down the road and says simply "Orlane". A few bored goats graze in a large pen near the main road and a large lizard is sunning itself on a stone near the pen."
 
-The farms are all walled off by chest high stone walls. Houses can be seen a little ways past them (11). A small cluster of buildings can be seen down the road (there are 13 buildings in the town, but only 8 can be clearly seen).
+The farms are all walled off by chest high stone walls. Houses can be seen a little ways past them (11). A small cluster of buildings can be seen down the road (there are 23 buildings in the town, but only 8 can be clearly seen). A hill behind the town houses a large temple.
 
 The road leads directly past 3 houses.
-
-GM Note: The lizard is a member of the cult (charmed) and will telepathically report the character's movements to the naga.
 
 #### Graven's Dairy
 
@@ -89,7 +107,19 @@ The final house you see before the town is a simple wooden building surrounded b
 
 **Hewitt Twaine** and his 2 sons will watch the characters through the curtains while his wife and daughter hide in the curtains. If spoken to Hewitt will do all the talking. He is polite, but quite. He understands that his town has changed, but does not know why. He does not trust outsiders and will not let them into his home for any reason.
 
+# Buildings in Orlane [WIP]
+    Golden Grain Inn (Cultists; Kidnap house)
+    Constable House (Cultists)
+    Mayor's Residence
+    Blacksmith (Cultists)
+    General Store (Cultists)
+    Foaming Mug Inn (Destroyed)
+    Temple of Merrika (cultists; local diety)
+    Small Cottage (Elves)
+    Inn of the Slumbering Serpent
+    Grove of Elms (Ramne)
 
-### Interlude - The Wilds of Orlane
+
+### Interlude - The Wilds of Orlaneeat
 
 ### Act 2 - The Temple of the Reptile God
