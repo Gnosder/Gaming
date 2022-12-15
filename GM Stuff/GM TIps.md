@@ -95,4 +95,12 @@ Largely drawn from the Alexandrian, the Angry GM, and my own experiences. This w
 
     Tip: Don't roll for initiative. Determine surprise. Intiative works in the following order: Ambusher > Panic > Players(and allies) > Adversaries = Neutral. Let PCs act mostly freely. Default to Left > Right.
 
+## Tip: Fail by Five
 
+    Source: Angry GM, DnD 3.5
+
+    Tip: Create tension and fumble mechanics on certain checks by implementing a "fail by five" rule where as something beyond "failure" happens when you roll 5 or less than the DC.
+
+    Example: While making a climb check characters fall if they fail by 5 or more.
+
+    Tension is good. Fumbles are good. Stakes are Good.
