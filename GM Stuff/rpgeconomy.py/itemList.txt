@@ -1,0 +1,322 @@
+fields = ["name", "type", "value", "weight", "size"]
+
+Format = item name, type, value, availability, wieght, Size (normal, non-encumbering, oversized)
+
+Types = Tool, Armor, Weapon, Loot, Material, Vehicle, Follower, Animal, Asset, Service
+
+#LotFP
+# Animals
+Carrier Pigeon, follower, 100
+Dog, follower, 1
+Riding Horse, follower, 100
+War Horse, follower, 500
+Livestock, asset, 10
+Mule, follower, 50
+Pony, follower, 75
+
+# Containers
+Backpack, container, 3
+Barrel, container, 1, , , over
+Chest, container, 10, , , over
+Pouch, container, .5
+Quiver, container, 5
+Sack, container, .5
+Saddlebag, container, 1, , , non
+
+Vehicles
+Cart, vehicle,  50
+Coach, vehicle, 500
+Wagon, vehicle, 150
+Chariot, vehicle, 250
+Raft, vehicle, 5
+Canoe, vehicle, 30
+Lifeboat, 100
+Trireme, vehicle, 10000
+Quadrireme, vehicle, 50000
+Longship, vehicle, 30000
+River Galley, vehicle, 4000
+Riverboat, vehicle, 1000
+Sailboat, vehicle, 6000
+Cog, vehicle, 15000
+Caravel, vehicle, 39000
+Carrack, vehicle, 48000
+Galleon, vehicle, 60000
+Cutter, vehicle, 45000
+Brig, vehicle, 90000
+Corvette, vehicle, 135000
+Frigate, vehicle, 180000
+
+Service
+Local Post, service, 1
+Municipal Post, service, 5
+Kingdom Post, service, 15
+Outrealm Post, service, 25
+Local Coach, service, 1
+Coach per dium, service, 10
+Chartered Coach per dium, service, 20
+Freight/pound/day, service, .5
+Ship passage/day, service, 2
+Ship charter/day, service, 100
+
+Lodging
+Barn, lodging, .1
+Poor Inn, lodging, 1
+Average Inn, lodging, 5
+Secure Inn, lodging, 10
+Fancy Inn, lodging, >25
+Extravagant Inn, lodging, >100
+Rent/month/10^2', lodging, 30
+
+Tools
+Air Bladder, tools, 1, , , non
+Bedroll, tools, 2
+Block and Tackle, tools, 2
+Blank Book, tools, 5
+Reading Book, tools, 10
+Spell Book, tools, 100
+Caltrop, tools, .5
+Candle, tools, .1, , , non
+Chain/foot, tools, 1
+Chalk, tool, .1, , , non
+Normal Clothing, tool, 5
+Extravagant Clothing, tool, >20
+Poor Clothing, tool, 1
+Winter Clothing, tool, 10
+Cooking Pot, tool, 1
+Crampons, tool, 5
+Crowbar, tool, 2
+Drill, tool, 5
+Fishing Gear, tool, 1
+Lamp Oil/flask, tool, .5
+Grappling Hook, tool, 5
+Silver Holy Symbol, tool, 25
+Steel Holy Symbol, tool, 10
+Wooden Holly Symbol, tool, 1
+Holy Water/flask, tool, 25
+Hourglass, tool, 100
+Ink/flask, tool, .1
+Instrument, tool, >1
+Ladder/10', tool, 10
+Lantern, tool, 3
+Lard, tool, .1
+Lock, tool, 7
+Mallet, tool .3
+Manacles, tool, 10
+Kingdom map, tool, 10
+Local map, tool, 1
+Silver mirror, tool, 30
+Steel mirror, tool, 1
+Nails, tool, .1
+Paper, tool, .2
+Miner's pick, tool, 6
+Pipe, tool, 1
+10' Pole, tool, 1
+Riding Gear, tool, 25
+Rope/50', tool, 3
+Scroll Case, tool, 1
+Shovel, tool, 3
+Soap, tool, .3
+Specialist's Tools, tool, 50
+Iron Spike, tool, .3
+Wooden Spike, tool, .1
+Spyglass, tool, 250
+Personal Tent, tool, 5
+Grand Tent, tool, 25
+Pavilion Tent, tool, 50
+Regular Tent, tool, 10
+Tinderbox, tool, 1
+Tobacco, tool, 1
+Torch, tool, .1
+Empty vial or bottle, tool, .5
+Watersking, tool, 1
+Whistle, tool, 1
+
+Armor
+Leather Armor, armor, 25
+Chain Armor, armor, 100
+Plate Armor, armor, 1000
+Shield, armor, 10
+Leather Barding, armor, 250
+Chain Barding, armor, 500
+Plate Barding, armor, 1000
+
+Weapon
+Cestus, weapon, 10
+Garrote, weapon, 5
+Lance, weapon, 30
+Mancather, weapon, 20
+Polearm, weapon, 30
+Rapier weapon, 15
+Spear, weapon, 5
+Staff weapon, 5
+Whip, weapon, 10
+Great Weapon, weapon, 50
+Medium Weapon, weapon, 20
+Minor Weapon, weapon, 5
+Small Weapon, weapon, 10
+
+Missle Weapon
+Blowgun, weapon, 5
+Longbow, weapon, 45
+Shortbow, weapon, 25
+Heavy Crossbow, weapon, 30
+Light Crossbow, weapon, 25
+Rock, weapon, 0
+Sling, weapon, 1
+Dart, weapon, 1
+
+Trade Goods / pound (dnd 3.5)
+Wheat, trade good, .1
+Flour/chicken, trade good, .2
+Raw Iron, trade good, 1
+Tobacco/copper, trade good, 5
+Cinnamon/a goat, trade good, 10
+Ginger/Pepper/a sheep, trade good, 20
+A pig, trade good, 30
+Linen, trade good, 40
+Salt/silver, trade good, 50
+Silk/ a cow, trade good, 10
+Saffron/cloves/ an ox, trade good, 150
+Gold, trade good, 500
+Platnium, trade good, 5000
+
+Weapon
+Dagger 20
+Club
+Mace 120
+shortspear 10
+Morningtar 80
+Longspear, 50
+Quarterstaff, 
+Spear, 20
+Heavy Crossbow, 500
+Javilin, 10
+Handaxe, 60
+Kukri, 80
+short sword, 100
+Battleaxe, 100
+Flail, 80
+Longsword, 150
+Warpick, 80
+Scimitar, 150
+Trident, 150
+Warhammer, 120
+Falchion, 750
+Glaive, 80
+Greatclub, 50
+Greataxe, 200
+Greatsword, 500
+Guisame, 90
+Halberd, 100
+Lance, 100
+Ranseur, 100
+Scythe, 180
+Longbow, 750
+Shortbow, 300
+
+Armor
+Leather, 100
+Chianmail, 1500
+Plate, 15000
+Light Wooden Shield, 30
+Light Steel Shield, 90
+Heavy Wooden Shield, 70
+Heavy Steel Shield, 20
+Tower Shield, 300
+
+Gear
+Backpack, 20
+Barrel, 20
+Basket, 4
+Bedroll, 1
+Bell, 10
+Winter Blanket, 5
+Block and Tackle, 5
+Bucket, 5
+Caltrops, 10
+Candle, .1
+Canvas/yd, 1
+map case, 10
+Chain/10ft, 300
+Chalk, .1
+Chest, 20
+Crowbar, 20
+Fishhook, 1
+Fishing Net, 40
+Flask, .3
+Flint and Steel, 10
+Grapplng hook, 10
+Hammer, 5
+Ink/vial, 80
+Inkpen, 1
+Clay Jug, .3
+Ladder 10ft, .5
+Lantern, 1
+Bullseye Lantern, 120
+Hooded Latern, 70
+Lock, 200
+Manacles, 150
+Steel Mirror, 100
+Clay Mug, .2
+Oil/flask, 1
+Paper, 4
+Parchment, 2
+Miner's Pick, 30
+Clay Pitcher, .2
+Piton, 1
+10ft Pole, 2
+Iron Pot, 5
+Belt Pouch, 10
+Portable Ram, 100
+Rations/day, 5
+Hemp Rope/50ft, 10
+SIlk Rope/50ft, 100
+Sack, 1
+Sealing wax, 10
+Sewing Needle, 5
+Signal Whistle, 8
+Signet Ring, 50
+Sledge, 10
+Soap/pound, 5
+Shovel, 20
+Tent, 100
+Torch, .1
+Waterskin, 10
+Whetstone, .2
+Acid/flask, 100
+Alchemist's Fire, 200
+Antitoxin, 500
+Everburning Torch, 1100
+Holy Water, 250
+Smokestick, 200
+Sunrod, 20
+Tanglefoot bag, 500
+Thunderstone, 300
+Tindertwing, 10
+Alchemist's Lab, 5000
+Artisan's tools, 50
+Climber's kit, 800
+Disguise Kit, 500
+Healer's Kit, 500
+Wooden Holy Symbol, 10
+Silver Holy Symbol, 250
+Hourglass, 250
+Magnifying glass, 1000
+Musical instrument, 50
+merchant's scale, 20
+spell component pouch, 50
+spellbook, 150
+thieves' tools, 300
+Guard Dog 250
+Mule, 80
+Riding Horse, 750
+War Horse, 1500
+Pony, 300
+Saddlebag, 40
+Cart, 150
+Galley, 300000
+Longship, 100000
+Rowboat, 500
+Sailing Ship, 100000
+
+# Pathfinder

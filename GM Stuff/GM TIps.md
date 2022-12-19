@@ -104,3 +104,22 @@ Largely drawn from the Alexandrian, the Angry GM, and my own experiences. This w
     Example: While making a climb check characters fall if they fail by 5 or more.
 
     Tension is good. Fumbles are good. Stakes are Good.
+
+## Tip: Set Design
+
+    Source: Hack and Slash
+
+    Tip: When writing room descriptions put at a glance info in bold and use "->" to denote when something is inside something else or when more investigation is required. The order items is listed is the actual order the items are in. ANy word that is unimportant is not used.
+
+    Example from Hack and Slash:
+        Small Alcove 32) | **Refuse**, **Furniture**, **Bones**->in corner, 8 Ghouls!
+                                    (AC 6, HD 2, +3/1d4-1/1d4-1/1d6, Para 1d6+2, ML (20) XP 175)
+        **Ornate Iron Armchair**-> Dwarven, decorative cobalt inlay (900gp) 65lbs. + Bulky.
+        **Blanket** (60gp) Chiffon, covering-> **ottoman**, Hollow slate **upholstered** in woven twill. (200 gp) 35lbs. + Bulky.
+            -> **Gem**, Kunzite  /mi (202 gp) 
+            -> Human sized **Iron mail Armor** (Chain +1, weightless)
+            -> **Fleece Pouch** (Pouch of Accessibility)
+            -> **3 Scrolls** (Scroll-Protection from lycanthropes, Scroll-Cursed, 
+                Scroll-Cleric, spell levels 1,2,4,5,6,6)
+        **Sack**, Moleskin(10gp) Horsehair cord->platinum aiguillette-> 3 vs/vf Rubies (400 gp)
+            -> 400 gp, 200 hs, and 80 pp
