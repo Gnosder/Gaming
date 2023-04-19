@@ -93,10 +93,13 @@ Secrets of Daedric —
 
 
 ## Index of people, places, and things
+Abelus Valgus -- Craftsman of house Girard
 Cal Kepler —
 Cara Balur — Drwarvan stronghold, ruled by Ghaul, “Mountain Home of the Fire Snake” (not ghaul, other dragon that used to live there)
+Corvax --
 Daedric — aka Shady Guy, works for mysterious employers
 Elinor Lucas —
+Flying Fish Inn -- 
 Evert — Coachman of House Gerard
 Frayed Mountain —
 Gaxton —
@@ -106,6 +109,7 @@ Haversfjord —
 Heilda — 
 Hollowed Bastion— 
 King Gundolf Hightower —
+Mason Shepard -- accountant of house Girard
 Mayor Wighelm Tollar —
 Mhach —
 Mt. High Tower —
