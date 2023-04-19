@@ -69,3 +69,45 @@ LIttle is known about this vast body of water save that massive Storms, High Sto
 ### Sigmarl Islands
 
 Interspersed among the reefs of the Barrier sea are a large collection of volcanic islands (Hawaii and FF10). This area is mostly safe, although a massive leviathan referred to as "Sin of Dahlmar" often torments the area.
+
+## Plot Threads
+History of Algos — 4th age, Harbinger’s Fall
+
+Secrets of High Tower — Shard of the heart of Dalamur. Resists the Wrath. Possessed by powerful Eikon (Coils of Bahamut)
+
+The book of Kahi Akarana — Necromancer king, his personality was split into scave, freed by Hilda, gave her powerful necromancy in exchange for fealty (wants to possess a new host and live again).
+
+The Dragon God of the Frayed Mountain — Ghaul, World Ender, Destroyer of Dalamur, Herald of Wrath.
+
+Ruins of Gridania — Ruined and mostly picked over by the mutants of Hallowed Bastion.
+
+Mutants of the Hallowed Bastion — An impromptu stronghold in a valley built from the remains of the old world. The mutants are twisted by Wrath but not fully corrupted (until they die and return as Wrathborn). Their mutations make them look like wrath infested tieflings; they have access to wrath magic which emphasizes curses and hexes. They fight against the Hive.
+
+Swords of the Worm Gods —
+
+Sins of Mhach —
+
+Secrets of Daedric —
+
+
+
+
+## Index of people, places, and things
+Cal Kepler —
+Cara Balur — Drwarvan stronghold, ruled by Ghaul, “Mountain Home of the Fire Snake” (not ghaul, other dragon that used to live there)
+Daedric — aka Shady Guy, works for mysterious employers
+Elinor Lucas —
+Evert — Coachman of House Gerard
+Frayed Mountain —
+Gaxton —
+Ghaul —
+Gridania —
+Haversfjord —
+Heilda — 
+Hollowed Bastion— 
+King Gundolf Hightower —
+Mayor Wighelm Tollar —
+Mhach —
+Mt. High Tower —
+Scav —
+Viggo — Usher of House Gerard
