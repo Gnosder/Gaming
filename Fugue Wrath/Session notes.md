@@ -64,7 +64,7 @@ Pre session:
         Huge = 90 S
         Larger = x6
 
-Weather Forcast (12 days): Season Spring
+Weather Forcast (12 days): Season Spring Temp (50 + 2d10)
 2 Partly Cloudy (Minor, 2)
 17 Extreme Heat (Extreme, 17)
 15 Partly Cloudy (Moderate, 15)
@@ -87,4 +87,3 @@ Session Start: 6/16/1190
 Post Session:
     Map of World (Hex for GM)
     Add temperature to Hex grid
-    
