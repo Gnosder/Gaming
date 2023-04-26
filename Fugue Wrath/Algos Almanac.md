@@ -95,6 +95,7 @@ Secrets of Daedric —
 ## Index of people, places, and things
 Abelus Valgus -- Craftsman of house Girard
 Cal Kepler —
+    Beedy -- Cat, rides on Cal's shoulders
 Cara Balur — Drwarvan stronghold, ruled by Ghaul, “Mountain Home of the Fire Snake” (not ghaul, other dragon that used to live there)
 Corvax --
 Daedric — aka Shady Guy, works for mysterious employers
@@ -109,6 +110,7 @@ Haversfjord —
 Heilda — 
 Hollowed Bastion— 
 King Gundolf Hightower —
+Lord Emme Mulder -- Deadric's Boss
 Mason Shepard -- accountant of house Girard
 Mayor Wighelm Tollar —
 Mhach —

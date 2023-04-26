@@ -1,13 +1,13 @@
 # Hive
 
 ## Thrall
-    1 HD, 14 AC, +1 ATK, 1d4 DMG, 1/13 SHK, 40' MV, 7 ML, 5 INST, +1 Skill, 12 SAVE
+    1 HD, 14 AC, 11 ATK, 1d4 DMG, 1/13 SHK, 40' MV, 7 ML, 5 INST, +1 Skill, 12 SAVE
 ## Acolyte
-    2 HD, 14 AC, +4 ATK, 1d8 DMG, 1/15 SHK, 30' MV, 7 ML, 5 INST, +1 SKILL, 13 SAVE
+    2 HD, 14 AC, 14 ATK, 1d8 DMG, 1/15 SHK, 30' MV, 7 ML, 5 INST, +1 SKILL, 13 SAVE
 ## Knight
-    6 HD, 13 AC, +7 ATK x2, 2d6 DMG, 2/15 SHK, 30' MV, 9 ML, 4 INST, +2 SKILL, 14 SAVE
+    6 HD, 13 AC, 17 ATK x2, 2d6 DMG, 2/15 SHK, 30' MV, 9 ML, 4 INST, +2 SKILL, 14 SAVE
 ## Ogre
-    10 HD, 15 AC, +12 x2 ATK, 2d6+3 DMG, 6/15 SHK, 30' MV, 8 ML, 5 INST, +1 SKILL, 11 SAVE
+    10 HD, 15 AC, 22 x2 ATK, 2d6+3 DMG, 6/15 SHK, 30' MV, 8 ML, 5 INST, +1 SKILL, 11 SAVE
 ## Wizrd
     8 HD, 13 AC, +1 ATK, 1d6 DMG, 1/13 SHK, 30' MV flight, 10 ML, 4 INST, +2 SKILL, 13 SAVE
         Has zone of control which prevents weaker hive from failing moral checks until the wizard does.

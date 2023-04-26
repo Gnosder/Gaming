@@ -58,35 +58,87 @@ Pre session:
     Rule Changes:
     When it comes to rations: 1 supply != 1 ration anymore.
         Number of supply consumed is based on size
-        small = 4S
-        Medium = 5S
-        Large = 15S
-        Huge = 90 S
-        Larger = x6
+        small = 8S
+        Medium = 10S
+        Large = 20S
+        Huge = 60S
+        Larger = x3
+    Breaking supply into supplies and rations.
+        1 Supply | 5sp | L
+        1 Ration | 2sp |L
 
 Weather Forcast (12 days): Season Spring Temp (50 + 2d10)
-2 Partly Cloudy (Minor, 2)
-17 Extreme Heat (Extreme, 17)
-15 Partly Cloudy (Moderate, 15)
-10 Partly Cloudy with Rain (Moderate, 10)
-8 Cloudy with Rain (Minor, 8)
-10 Partly Cloudy with Rain (Moderate, 10)
-13 Dark Clouds (Moderate, 13)
-10 Partly Cloudy with Rain (Moderate, 10)
-13 Dark Clouds (Moderate, 13)
-10 Partly Cloudy with Rain (Moderate, 10)
-7 Partly Cloudy (Minor, 7)
-5 Partly Cloudy (Minor, 5)
+17 2 Partly Cloudy (Minor, 2)
+1817 Extreme Heat (Extreme, 17)
+18 15 Partly Cloudy (Moderate, 15)
+19 10 Partly Cloudy with Rain (Moderate, 10)
+20 8 Cloudy with Rain (Minor, 8)
+21 10 Partly Cloudy with Rain (Moderate, 10)
+22 13 Dark Clouds (Moderate, 13)
+23 10 Partly Cloudy with Rain (Moderate, 10)
+24 13 Dark Clouds (Moderate, 13)
+25 10 Partly Cloudy with Rain (Moderate, 10)
+26 7 Partly Cloudy (Minor, 7)
+27 5 Partly Cloudy (Minor, 5)
 
 
 Session Start: 6/16/1190
+6/16
     Mortasa the 16th of Sarenith in the year of the 4th age 1190
-    Weather: Partly Cloudy, (Minor, 1)
+    Weather: Partly Cloudy, 58', (Minor, 1)
+    Killed the knight
+    Gave Corvax the knight's sword, +1 rep
+6/17
+    Weather (2)
+6/18
+    Weather (17)
+6/19
+    Weather (15)
+    Arrived in Haversfjord
+    Went to Manor
+    Took 6 days downtime to learn "Locate Object"
+6/20
+6/21
+6/22
+6/23
+6/24
+6/25
+    Weather Partly Cloudy with Light Rain, 63' (10)
+    ICE CREAM BREAK
+    Went to Daedric gave:
+        Tablet
+        Hive Acolyte Head
+        Sundry drawven stuff
+            20ksp
+        1 Dwarven bolt 20sp
+6/27
+6/28
+7/1
+7/2
+7/3
+7/4
+    Weather Sunny (Moderate,11)
+7/5
+    Cloudy w/ Rain (Moderate, 6)
+    Networking at fishmogers/ farmers
+    Lola got ring (1ksp)
+    Mot got scroll of knock
+    Lord Mulder -- chastised Mot, revealed his existence
+
 
 
 Post Session:
+    1000sp into library
+    Training Costs
     Map of World (Hex for GM)
     Add temperature to Hex grid
+    Range on spells -- 60/120ft drain+ to increase
+    How long to learn spells
+    how much do scrolls cost
+
+Politics:
+    Establishment want's to preserve the status quo
+    Mulder and others want to find a way to expand the zone and reclaim the world.
 
 
 ## Prerolled Loot
