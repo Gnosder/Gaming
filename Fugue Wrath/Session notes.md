@@ -1,6 +1,6 @@
 # Sesson 9
 
-Session Start: 6/10/1190
+## Session Start: 6/10/1190
     Teltasa the 10th of Sarenith in the year of the 4th age 1190
 6/10
     Weather:partly cloudy (crisp, cold, weather 2)
@@ -48,7 +48,7 @@ Find: Pack animal bulk, 25 bulk at the table.
 
 # Session 10
 
-Pre session:
+## Pre session:
     Pack Animal Bulk: Str+5/10. Large creatures have x10, x10 per size catagory over medium
     Horse: Str 3, Large: Bulk 80/130; 50ft speed
     Mule: Str 5 , Large: Bulk 100/150; 40ft speed
@@ -82,7 +82,7 @@ Weather Forcast (12 days): Season Spring Temp (50 + 2d10)
 27 5 Partly Cloudy (Minor, 5)
 
 
-Session Start: 6/16/1190
+## Session Start: 6/16/1190
 6/16
     Mortasa the 16th of Sarenith in the year of the 4th age 1190
     Weather: Partly Cloudy, 58', (Minor, 1)
@@ -141,7 +141,20 @@ Politics:
     Mulder and others want to find a way to expand the zone and reclaim the world.
 
 
-## Prerolled Loot
+# Session 11
+
+## Presession:
+    Lord Mulder is sorry, apologizes through Daedric and offers to tell all.
+        Agency wants to explore and reclaim world
+        Hightower doesn't want to disrupt the balance
+    Road to Gridania; meet mutants (tieflings)
+
+## Session Start: 7/5/1190
+
+7/5
+    Cloudy w/Rain (Moderate,6)
+
+# Prerolled Loot
 
 Coins
     261sp
