@@ -52,20 +52,19 @@ Find: Pack animal bulk, 25 bulk at the table.
     Pack Animal Bulk: Str+5/10. Large creatures have x10, x10 per size catagory over medium
     Horse: Str 3, Large: Bulk 80/130; 50ft speed
     Mule: Str 5 , Large: Bulk 100/150; 40ft speed
-    Donkey: Str 2, Medium: Bulk 70/120; counts as large for carry capacity, consumes 8S per day
+    Donkey: Str 2, Medium: Bulk 70/120; counts as large for carry capacity, consumes 10S per day
     Animal Drawn carts: Double bulk capacity of animal. Single axle cart can have one animal pulling, multi-axle wagons can have up to 4. (More is possible)
 
     Rule Changes:
     When it comes to rations: 1 supply != 1 ration anymore.
         Number of supply consumed is based on size
-        small = 8S
-        Medium = 10S
+        Small/Medium = 10S
         Large = 20S
         Huge = 60S
         Larger = x3
     Breaking supply into supplies and rations.
         1 Supply | 5sp | L
-        1 Ration | 2sp |L
+        1 Ration | 2sp | L
 
 Weather Forcast (12 days): Season Spring Temp (50 + 2d10)
 17 2 Partly Cloudy (Minor, 2)
@@ -144,15 +143,38 @@ Politics:
 # Session 11
 
 ## Presession:
-    Lord Mulder is sorry, apologizes through Daedric and offers to tell all.
+    Lord Murler is sorry, apologizes through Daedric and offers to tell all.
         Agency wants to explore and reclaim world
         Hightower doesn't want to disrupt the balance
-    Road to Gridania; meet mutants (tieflings)
+    Road to Gridania; meet mutants (teiflings)
+    Kahi dream: dream of a woman ripping the book from a tree, see "soul" going into book
+    Cult activity: Some Cult members go to the inn after rituals. They drink to the tower, but are normal people.
 
 ## Session Start: 7/5/1190
 
 7/5
-    Cloudy w/Rain (Moderate,6)
+    Seztasa the 5th of Erastus in the year of the 4th age 1190
+    Cloudy w/Rain (Moderate, 6)
+    Picking up in the Inn in Gaxton after Murler left.
+7/6
+7/7
+7/8
+    Weather: Cloudy (Minor, 8)
+    Returned to Haversfjord and talked to Daedric.
+        Got Official Cert for Lordship
+        Deadric told all about the agency and was told all in return
+        Bridge unburned
+        Payed out 30k for all the knowledge
+
+# Session 12
+
+## Presession
+
+Rules: change magic drain -- no longer damage == roll difference now every 5 DV = 1d6
+        Should magic keep track of each spell cast in a day?
+    Gain attribute bump every 3 levels (+1 to one max 5)
+
+
 
 # Prerolled Loot
 

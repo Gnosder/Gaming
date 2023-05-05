@@ -18,7 +18,7 @@ A mostly secret organization that thinks the Wrath is similar to radioactive fal
 
 ## Cult of the Hightower
 
-A religious cult that appeared a generation after Rolf IV's failed attempt at autacrasy. They worship mount Hightower as a herald of the God of Light.
+A religious cult that appeared a generation after Rolf IV's failed attempt at autocrasy. They worship mount Hightower as a herald of the God of Light.
 
 ## Brotherhood of Stone
 
@@ -55,9 +55,11 @@ Secrets of Daedric —
 
 ## Index of people, places, and things
 Abelus Valgus -- Craftsman of house Girard
+Bone Mother -- 2nd age dragon queen
+Brother Owain Lowe -- Priest of the Cult of Hightower
 Cal Kepler —
     Beedy -- Cat, rides on Cal's shoulders
-Cara Balur — Drwarvan stronghold, ruled by Ghaul, “Mountain Home of the Fire Snake” (not ghaul, other dragon that used to live there)
+Cara Balur — Drwarvan stronghold, ruled by Ghaul, “Mountain Home of the Fire Snake” (not ghaul, other dragon that used to live there, Malifaux)
 Corvax --
 Daedric — aka Shady Guy, works for mysterious employers
 Elinor Lucas —
@@ -70,11 +72,18 @@ Gridania —
 Haversfjord —
 Heilda — 
 Hollowed Bastion— 
+Kahi Akarana -- Necromancer, soul locked in the book. Not bad, but not great either.
 King Gundolf Hightower —
+King Rolf Hightower -- Died 1170, petty tyrant destroyed a lot of history and killed elves
 Lord Emme Murler -- Deadric's Boss
+Lord Burns
+Lord Bell
+Lady Hall
+Lord Campbell
 Mason Shepard -- accountant of house Girard
 Mayor Wighelm Tollar —
 Mhach —
 Mt. High Tower —
-Scav —
+Scav — Tree dude, dead, half of the soul of Kahi
+Sepechre of the Hightower -- Burial place of the Hightower dead
 Viggo — Usher of House Gerard

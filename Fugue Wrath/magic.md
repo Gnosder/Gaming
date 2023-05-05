@@ -64,11 +64,11 @@ Necromancy, like High Magic, draws on the arcane powers of the world. However, n
 Necromantic Attributes
 While Spell attack and drain resistance is calculated normally, power is not. A necromancer's power is directly related to the amount of Thanergy present. Thus their power attribute is: Level + Magic + Local Thanergy.
 
-Within the safe zone there is not enough Thanergy to use necromancy without a “bloom” (initial instance of death), however in a wrath zone the Local Thanergy level is 10. Meaning it can be used at a “default” level. Many areas (tombs, ruins, etc) have a build up of Thanergy that places the local level at 12 or sometimes even higher.
+Within the safe zone there is not enough Thanergy to use necromancy without a “bloom” (initial instance of death), however in a wrath zone the Local Thanergy level is 10. Meaning it can be used at a “default” level. Many areas (tombs, ruins, etc) have a build up of Thanergy that places the local level at 12 or sometimes even higher. Blooms grant power 10 for one scene.
 
 Necromancy and Wounds
 
-The closer an individual is to death the greater their power. This is because as an individual nears death their body begins to create and release Thanergy that the necromancer can use.
+The closer an individual is to death the greater their power. This is because as an individual nears death their body begins to release Thanergy that the necromancer can use.
 
 Necromancers NEVER suffer wound penalties to their use of necromancy. Further they can draw on their wounds to give them bonuses to both attacks and drain resistance. Serious wounds grant +2 to both and Critical Wounds grant +6.
 
@@ -106,6 +106,13 @@ Full Necromancers have the class ability Life Tap while half necromancers do not
 
 Life Tap: Consume half your maximum stamina to gain 1 MP for this round only (use it or lose it). Additionally, Wounds you receive heal twice as fast and you gain +1 grit from all sources.
 
+Further journies into necromancy
+Blood
+    Knit flesh, altar body, poison and blood
+Bone
+    Create different constructs (natural, monsterous, ad hoc)
+Spirit
+    bind souls
 
 
 
