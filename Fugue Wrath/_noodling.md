@@ -1,3 +1,8 @@
+# Extensions
+
+Markdown Navigation
+Markdown Table
+
 ## Classes
 
 Class Table
@@ -579,3 +584,57 @@ Force 2:
     Mercy for the Cursed: Removes a curse as Break Curse spell.
     Mercy for the Dying: Targets that die cannot be raised into undeath and attempts to destroy undead touched.
     Mercy for the Insane: Removes confusion and grants a save against charm effects using the healer's save (if it's higher).
+
+## Weapons
+
+| Weapon Class       | Ability                                                          |
+| :----------------- | :--------------------------------------------------------------- |
+| Light Weapons      | +2 in narrow places that often limit mobility                    |
+| Reach Weapons      | +2 in places where footing or visibility is difficult or limited |
+| Ranged Weapons     | +2 in wide open areas with little to no cover                    |
+| Heavy Weapons      | +2 in dense or crowded areas with lots of smashable bits         |
+| Very Heavy Weapons | None?                                                            |
+
+Covert Weapons can be hidden but do a step lower damage (Have one of: LL, PM, T)
+Light Weapons have advantage but do a step lower damage -- shock 2/15
+Heavy Weapons deal more damage -- 2/17
+Very Heavy Weapons even more extra damage (deal a step higher damage) -- 2/19
+Reach Weapons can't be counter attacked
+Ranged Weapons are ranged
+
+Counter Attack and Crit:
+    Beat AC by 5 == crit for +3 damage
+    Miss AC by 5 == counter attack for shock damage
+
+
+2H: Two Handed. Requires two-hands.
+AP: Armor Piercing. This weapon ignores non-magical armor.
+L: Long. This weapon has reach and can attack from 10ft away.
+LL: Less Leathal. Foes brought to zero stamina with this weapon can be left alive.
+N: Numerous. Up to 5 of these weapons can be readied at once.
+PM: Precisely Murderous. When used to execute a target deals double damage.
+R: Reload. Takes a move action to reload
+S: Subtle. Can easily be hidden.
+SR: Slow Reload. Takes 3 rounds to reload.
+SS:  Single Shot. Takes 10 rounds to reload.
+T: Throwable. Can be thrown up to 30ft but deals no shock.
+V: Volly. Attacks within 30ft suffer a -2 penalty to attack.
+
+#### Fighter Weapons (d10)
+| Weapon Class | Damage | Shock | Abilities                   | Bulk | Example Weapons                     |
+| :----------- | :----: | :---: | :-------------------------- | :--: | ----------------------------------- |
+| Covert       |   d8   | 1/18  | S and one of: LL, PM, T     |  L   | Shiv, Stilleto, Sap, Throwing Star  |
+| Light        |   d8   | 2/15  | Advantage                   |  1   | Short Sword, Rapier, Daggers        |
+| Heavy        |  d10   | 2/17  | ----                        |  2   | Bastard Sword, battleaxe, warhammer |
+| Very Heavy   |  d12   | 2/19  | ----                        |  3   | Great Sword, Great Axe, Caber       |
+| Reach        |   d8   | 2/15  | L,Can't be Counter attacked |  2   | Poleaxe, Spear, Glaive              |
+
+| Ranged Weapons | Damage | Range   | Abilities  | Bulk |
+| :------------- | :----: | :------ | :--------- | :--: |
+| Short bow      |   d8   | 50/300  | 2h         |  1   |
+| Long bow       |  d10   | 100/600 | 2h, V      |  2   |
+| Crossbow       |  d10   | 100/300 | 2h, SR     |  1   |
+| Musket         |  2d8   | 200/600 | 2h, SS, AP |  2   |
+| Pistol         |  1d12  | 30/60   | SS, AP     |  1   |
+| Blunderbus     |  3d10  | 15/30   | SS, AP     |  2   |
+|                |        |         |            |      |

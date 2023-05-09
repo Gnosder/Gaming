@@ -176,13 +176,28 @@ Armor
 | Shield, Tower   | +1      | 50sp   | 2    |
 |                 |         |        |      |
 
-Weapon - Melee
+| Weapon Class | Damage* | Shock | Abilities                   | Bulk | Example Weapons                     |
+| :----------- | :-----: | :---: | :-------------------------- | :--: | ----------------------------------- |
+| Covert       |   d8    | 1/18  | S and one of: LL, PM, T     |  L   | Shiv, Stilleto, Sap, Throwing Star  |
+| Light        |   d8    | 2/15  | Advantage                   |  1   | Short Sword, Rapier, Daggers        |
+| Heavy        |   d10   | 2/17  | V                        |  2   | Bastard Sword, battleaxe, warhammer |
+| Very Heavy   |   d12   | 2/19  | 2h                          |  3   | Great Sword, Great Axe, Caber       |
+| Reach        |   d8    | 2/15  | L,Can't be Counter attacked |  2   | Poleaxe, Spear, Glaive              |
+* Values listed are for fighters. For damage see class entries. 
 
-Weapon - Ranged
+| Ranged Weapons | Damage | Range   | Abilities  | Bulk |
+| :------------- | :----: | :------ | :--------- | :--: |
+| Short bow      |   d8   | 50/300  | 2h         |  1   |
+| Long bow       |  d10   | 100/600 | 2h, C      |  2   |
+| Crossbow       |  d10   | 100/300 | 2h, SR     |  1   |
+| Musket         |  2d8   | 200/600 | 2h, SS, AP |  2   |
+| Pistol         |  1d12  | 30/60   | SS, AP     |  1   |
+| Blunderbus     |  3d10  | 15/30   | SS, AP     |  2   |
 
 Weapon Traits
 2H: Two Handed. Requires two-hands.
 AP: Armor Piercing. This weapon ignores non-magical armor.
+C: Cumbersome. Attacks against target's within 30ft are at -2.
 L: Long. This weapon has reach and can attack from 10ft away.
 LL: Less Leathal. Foes brought to zero stamina with this weapon can be left alive.
 N: Numerous. Up to 5 of these weapons can be readied at once.
@@ -192,7 +207,7 @@ S: Subtle. Can easily be hidden.
 SR: Slow Reload. Takes 3 rounds to reload.
 SS:  Single Shot. Takes 10 rounds to reload.
 T: Throwable. Can be thrown up to 30ft but deals no shock.
+V: Versitile. Can be used one handed or two handed. Does +1 damage is used 2 handed.
 
 Armor and Weapon Descriptions
 Shield: Grants at least +4 defense or adds one if defense is +4 or greater. Ignores the first instance of shock each round.
-Tiny, Small, Medium, and Great Weapon: These are base values for weapons of various sizes. For example a Longsword is a Medium weapon. The weapon can have the traits shown with an * and a damage type that makes sense for the weapon.

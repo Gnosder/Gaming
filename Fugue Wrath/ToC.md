@@ -1,0 +1,38 @@
+# Table of Contents
+- Introduction
+// Player facing
+- Characters
+    - Creating Characters
+    - Races
+    - Classes
+    - Skills
+    - Feats and Abilities
+    - Specizations and Roles
+- Equipment
+    - Gear
+    - Services
+    - Armor
+    - Weapons
+- Loot
+    - Treasure
+    - Tiltes
+    - Land
+    - Magic Items
+- Magic
+    - Summary
+    - Traditions
+        - High Magic
+        - Necromancy
+        - Shamanism
+    - Spell Lists
+    - Spell Descriptions
+- Systems
+    - Basic Action resolution
+    - Exploration and Navigation
+    - Combat
+    - Social
+    - Downtime
+// Gm facing
+- Adversaries
+- Running the Game
+- Creating Adventures
