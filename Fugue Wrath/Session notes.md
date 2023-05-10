@@ -153,7 +153,7 @@ Politics:
 ## Session Start: 7/5/1190
 
 7/5
-    Seztasa the 5th of Erastus in the year of the 4th age 1190
+    Thartasa the 5th of Erastus in the year of the 4th age 1190
     Cloudy w/Rain (Moderate, 6)
     Picking up in the Inn in Gaxton after Murler left.
 7/6
@@ -170,9 +170,14 @@ Politics:
 
 ## Presession
 
-Rules: change magic drain -- no longer damage == roll difference now every 5 DV = 1d6
-        Should magic keep track of each spell cast in a day?
-    Gain attribute bump every 3 levels (+1 to one max 5)
+Rules: Gain attribute bump every 2 levels (+1 to one max 5)
+    Rewrote large portions of the game.
+    Full magic overhaul.
+Most Likely Gridania.
+
+7/8
+    Seatasa the 8th of Erastus in the year of the 4th age 1190
+
 
 
 
