@@ -137,7 +137,7 @@ When you gain a level 2 points to spend on skills.
 Class Ability: Masterful Expertise
 When using FP to reroll a failed skill check the FP is not spent if the second roll succeeds.
 Class Ability: Cunning Action
-Once per round may spend 1MP to make a non-attack action at any point
+Once per round may spend 1 MP to make a non-attack action at any point
 
 Expert Class Table
 | Level | Stamina | BAB | Ref | Fort | Will |

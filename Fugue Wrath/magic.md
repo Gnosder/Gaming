@@ -72,7 +72,6 @@ When paradox is incurred roll 1d6 and consult the following table. On a 5 or 6 r
 |  4   | Summoning | A creature attuned to the spell appears with HD equal to the force |
 |  5   | Degen     | Suffer a mutation or deformity (as a wound)                        |
 |  6   | Random    | Roll on wild surge table                                           |
-|      |           |                                                                    |
 
 Wild Surge
 | Roll | Effect              | Description                                  |
@@ -168,7 +167,7 @@ Necromatic Schools
     Bone
         Bone Spells deal with, as the name implies, bones. Bone spells typically do physical damage types (blunt, piercing, slashing), and often inflict bleeding.
     Blood
-        Blood spells deal with blood, but also flesh and viscera. Blood spells typically do acid or poison damage and often inflict infirm.
+        Blood spells deal with blood, but also flesh and viscera. Blood spells typically do poison damage and often inflict infirm.
     Spirit
         Spirit spells deal with the stuff souls. They usually deal force damage and can inflict soul burns.
 
@@ -215,6 +214,7 @@ Necromatic Schools
     False Life
     Armor of Bones
     Ray of Sickness
+    Nova
 
 ## Spells:
 
@@ -539,11 +539,12 @@ Force 2:
 
     #TODO
     Mercy's can diminish, and cure effects like: Poisoned, Sickened, Diseases, Blinded, Deafened, etc
+    Spend 1 MP to use a mercy
 
     Mercy for the Poisoned: Cures natural poisons or grants +4 against magical poisons.
-    Mercy for the Diseased: Moves a disease one step closer to being cured. An individual can only be effected once per day by this mercy.
     Mercy for the Afflicted: Removes the Sickened, Shakened, or Paralyzed condition.
     Mercy for the Disabled: Removes the Blinded, Deafened, hobbled condition.
-    Mercy for the Cursed: Removes a curse as Break Curse spell.
-    Mercy for the Dying: Targets that die cannot be raised into undeath and attempts to destroy undead touched.
     Mercy for the Insane: Removes confusion and grants a save against charm effects using the healer's save (if it's higher).
+    5 Mercy for the Diseased: Moves a disease one step closer to being cured. An individual can only be effected once per day by this mercy.
+    5 Mercy for the Cursed: Removes a curse as Break Curse spell.
+    5 Mercy for the Dying: Targets that die cannot be raised into undeath and attempts to destroy undead touched.

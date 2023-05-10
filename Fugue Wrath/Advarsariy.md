@@ -86,7 +86,7 @@ Finding monster budget  = sum of HD x ATKs
 ### Voidsent
 
 #### Imp
-2 HD, 11 AC, 11 ATK, 4 DMG, 1/12 SHK, 30 (fly) MV, 8 ML, INST, SKILL, SAVE
+2 HD, 11 AC, 11 ATK, 4 DMG, 1/12 SHK, 30 (fly) MV, 8 ML, INST, SKILL, 10 SAVE
 ABIILTY: Firebolt 13 atk, 6 dmg, no shk, 60'
 NOTE:
 #### Ahriman

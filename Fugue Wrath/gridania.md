@@ -22,15 +22,15 @@ Mutants
 
 ## 2 - Botanist Guild
 
-## 3 -
+## 3 - Meeting Tree
 
 ## 4 - Apkallu Falls
 
 ## 5 - Mih Khetto's Aphitheatre
 
-## 6 - Leather Worker's Guild
+## 6 - Townhall
 
-## 7 - Lancer's Guild (Wailing Barracks)
+## 7 - Adder's Nest (Archer Guild)
 
 ## 8 - Westshore Pier
 

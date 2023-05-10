@@ -173,10 +173,42 @@ Politics:
 Rules: Gain attribute bump every 2 levels (+1 to one max 5)
     Rewrote large portions of the game.
     Full magic overhaul.
+    Weapon Overhaul
 Most Likely Gridania.
 
 7/8
+    Weather: 8
     Seatasa the 8th of Erastus in the year of the 4th age 1190
+7/9
+7/10
+7/11
+    Weather: 3 (Gentle Rain)
+    Talked to Corvax and Ghaul, got materia of floating disk (force 1, sustained for free)
+7/12
+    1
+7/13
+    6
+7/14
+    8
+7/15
+    6
+7/16
+    16 (Driving Rain)
+    Sparsly Forested.
+    encounter: Ahriman and 4 imps, seeking something.
+    Recovered: playing card sized stone tablet (voidsent binding)
+7/17
+    11
+7/18
+    8
+7/19
+    3 (Slighty Cloudy)
+7/20
+    5 (Partly Cloudy)
+    Arrive at Gridania
+    Fought hellhound in adder's nest and got pyros' bow
+    
+
 
 
 
@@ -193,13 +225,12 @@ Coins
     812sp
     514sp
     1506sp
-Goods
 
 Mix
     75sp
     1 Common Greater Trade, Platnium Ingot (25sp)
-    3 common gems (60, 60, 60)
-    1 common Art, painting
+    3 common gems, amathyst (60, 60, 60)
+    1 common Art, painting (90)
 
     125sp
     1 common Lesser Trade, Jute Cloth (15sp)
