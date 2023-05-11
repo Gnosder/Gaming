@@ -13,6 +13,7 @@
     - Services
     - Armor
     - Weapons
+    - Retainers
 - Loot
     - Treasure
     - Tiltes
