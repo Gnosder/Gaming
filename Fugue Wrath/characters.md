@@ -21,6 +21,15 @@ Attributes come in 6 types: Strength, Dexterity, Constitution, Charisma, Magic, 
     Charisma: Impacts will saves, and leadership
     Magic: Impacts mana and maximum force of spells
     Faith: Impacts luck saves and faith refresh
+### Faith
+
+Faith represents a character's inner grit and determination. Faith grants its rating as a bonus to luck rolls and gives character faith points or FP.
+
+FP represents a character's ability to impose their will on the universe. It is a resource that characters can spend to reroll any die roll, though they must use the new result (unless they spend an FP to reroll that as well).
+
+#### FP Refresh
+
+The only way to restore FP is through honest rest. When characters rest in a safe area they refresh up to their maximum value of FP. Some areas or events may confer temporary bonuses to a characters FP. These bonuses fade the next time a character refreshes their FP. FP is never gained such as "+1 FP", but it reset to a set value although this never reduces a character's current rating. Thus if a character has 3 FP left and is allowed to refresh 1 FP they remain at 3 FP, while a character with 0 in the same situation is able to recover 1 FP..
 
 Stamina, Wounds, and Mana are the primary resources of the game.
     Stamina: Your maximum health before you become wounded.
