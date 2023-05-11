@@ -31,6 +31,13 @@ Mutants
 ## 6 - Townhall
 
 ## 7 - Adder's Nest (Archer Guild)
+    Hellhound stalking alone.
+    Pyros' Bow in her office
+        Unlocks Bard class (As expert but replaces 3rd ability)
+            Ability: Hymm of Adventure -- Spend 1 MP to grant an ally +2 to any check. If they spend a FP on that check they get a +4 to their reroll.
+        Pyros's Harp Bow (Short Bow)
+            Hunter's Serenade -- Song: Attacks with this weapon gain a bonus to attack rolls equal to your performance skill. 
+            Adder's Sting -- Song: Attacks with this weapon poison targets on hit. The poison DC is equal to 10 + performance; imposes disadvantage.
 
 ## 8 - Westshore Pier
 
