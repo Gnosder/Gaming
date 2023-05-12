@@ -13,7 +13,7 @@ Characters are important. Without them you cannot interact with the world of the
 ## What Makes a Character
 
 Characters are made up of many parts. However the 3 most important pieces are: Attributes, Stamina, and Skills.
-
+### Attributes
 Attributes come in 6 types: Strength, Dexterity, Constitution, Charisma, Magic, and Faith.
     Strength: Impacts melee attacks, melee damage, and carry capacity
     Dexterity: Impacts defense, ranged attacks, and reflex saves
@@ -21,22 +21,48 @@ Attributes come in 6 types: Strength, Dexterity, Constitution, Charisma, Magic, 
     Charisma: Impacts will saves, and leadership
     Magic: Impacts mana and maximum force of spells
     Faith: Impacts luck saves and faith refresh
-### Faith
+#### Faith
 
 Faith represents a character's inner grit and determination. Faith grants its rating as a bonus to luck rolls and gives character faith points or FP.
 
 FP represents a character's ability to impose their will on the universe. It is a resource that characters can spend to reroll any die roll, though they must use the new result (unless they spend an FP to reroll that as well).
 
-#### FP Refresh
+##### FP Refresh
 
 The only way to restore FP is through honest rest. When characters rest in a safe area they refresh up to their maximum value of FP. Some areas or events may confer temporary bonuses to a characters FP. These bonuses fade the next time a character refreshes their FP. FP is never gained such as "+1 FP", but it reset to a set value although this never reduces a character's current rating. Thus if a character has 3 FP left and is allowed to refresh 1 FP they remain at 3 FP, while a character with 0 in the same situation is able to recover 1 FP..
 
-Stamina, Wounds, and Mana are the primary resources of the game.
-    Stamina: Your maximum health before you become wounded.
-    Wounds: Physical injuries and debeletations, too many and you die.
-    Mana: Magical power that infuses the world and grants abilities.
+### Stamina
+Stamina represents a character's ability to avoid and mitigate harm. Its a measure of close calls, bruses, and fleshwounds. While it can be thought of as health and losing it can be thought of as damage it is less corporeal than that. Stamina recovers fully after an hour of rest, though some conditions such as mana burn can impead this recovery. When a character's stamina reaches 0 they receive a wound and then "Rally" recoving half their maximum stamina. Maximum stamina is determined by a character's class and their constitution.
 
-Skills: there are 10 primary skills
+### Wounds
+Wounds are real damage where as stamina is bumps and scrapes. When a character takes a wound they are taking a persistant amount of damage that harms their ability to act. When a wound is taken the gm rolls a d10 to find the wound's severity and give it an appropriate name. The value is never told to the players, but can be determined with a treat wounds check or similar. When the total value of a character's wounds meets or exceeds their death score (13) they are dying.
+
+### Wound Severity and Effects
+Wounds are contextual and each effects a character in a different way. There are, however, some simple guidelines.
+In general a wound of severity 1-3 imposes a -1 penalty around once a scene, a wound of severity 4-7 imposes a -2 penalty once every minute, and any wound of a severity greater than 7 imposes a -4 penalty every round.
+
+#### Permanent Wounds
+Some wounds are permanent such as severed limbs and others only heal partially leaving a scar or lingering effects.
+In general wounds received by critically failing a defense or by not defending at all have a 50% chance to be permanent while wounds that heal have a 10% chance of leaving a scar or mark and a lesser chance of having lingering effects.
+
+#### Recovering Wounds
+Wounds heal slowly over time. Some wounds heal faster than others while some never heal. More serious wounds require a stricter regimene of rest than less serious wounds. At the end of each time period a character can attempt to recover from a wound. If they met the required rest for the wound's severity they make a con save against the wound's severity + 5. If they pass the severity reduces by 1. Once a wound's severity reaches 0 it is considered healed.
+
+| Wound Severity | Time to reduce severity | Rest Required |
+| -------------- | ----------------------- | ------------- |
+| Minor (1-3)    | 1 Day                   | Light Work    |
+| Moderate (4-7) | 1 Week                  | Low Stress    |
+| Severe (8+)    | 1 Month                 | Bed Rest      |
+
+#### Death, Dying, and the death score
+Each character has a base death score of 13. When their total wound scores reach that value they are dying. Dying characters are incapacitated and cannot move or act. Further they receive a wound called "Mortally Wounded" with a value of 1d6 each round they remain dying. When they reach a death score 10 over their base (23 by default) they die. A character with medicine can "Spare the dying" to try and stabalize a dying character and there exists some powerful magic that can stabalize or even restore a dying character.
+
+### Mana
+Mana is a shorthand for the myriad magical powers that infuses the world and the beings who inhabit it. Each tradition has different names for mana -- vis, thanergy, will -- they all work fundamentally the same. Mana is a resource that regenerates over time and allows mortals to use magic and shape the world. For most characters their maximum mana is equal to their magic.
+Mana recovers by 1d4 every hour. Some items (such as tass) have the ability to restore mana on demand.
+
+### Skills
+There are 10 primary skills, this section gives an overview of them, for more information see the skill section later in this chapter.
     Alertness: Sometimes called perception, spot, or listen. Alertness is often used to notice things or determine initiative.
     Athletics: A measure of your physical abilities and coordination. Climb, Swim, Jump, Run.
     Medicine: Your knowledge and ability to perform first aid and other medical tasks. Used to diagnose and treat wounds.
@@ -235,12 +261,77 @@ Monk
 
 ## Skills
 
+Critical Success:
+Success:
+Failure:
+Critical Failure:
+
 ### Alertness
+Used to passivly notice details, react to danger, or passivly intuit danger
+A character has a passive alertness equal to their skill + 13.
+They roll alertness only to determine initiative
+
+#### Passive Alertness
+Alertness is not an action, but it is a skill. The ability to notice and be aware of events around you is highly prized. A character's passive alertness is equal to 13 + their rating in the skill.
+    Characters can activly guard an area or search for threats by spending an action doing so. While being activly alert a character's passive alertness increases by 5.
+
+#### Initiative 
+When trouble happens the alert act fastest. Any time initiative is required or time focuses into rounds each character involved will roll alertness to determine their action order.
+
 ### Athletics
+This skill governs a wide body of physical feats such as running, climbing, jumping, swiming, balancing, and general coordination. A few common tasks will be laid out here and most others follow the same format.
+
+#### Climbing
+Critical Success: You climb your full movement speed.
+Success: You climb half your speed.
+Failure: You make no progress.
+Critical Failure: You fall.
+
+#### Swimming
+Critical Success: You swim your full movement speed.
+Success: You swim half your speed.
+Failure: You make no progress.
+Critical Failure: You begin to drown.
+
 ### Know
+
 ### Medicine
+
+#### Treat Wounds
+While mundane medical science cannot instantly close wounds it can make them manageable through grit and can diagnose the severity of a wound.
+When attempting to treat a wound and/or diagnose its severity: Roll Medicine against the wound’s DC (Death Score + 10). For diagnosis it’s + on an even roll and - on an odd roll. Can be used once per wound per day.
+    Critical Success: Diagnose severity exactly and target gains 3 grit.
+    Success: Diagnose severity +-1 (Minimum 1) and target gains 2 grit.
+    Failure: Misdiagnose severity +-3 (Minimum 1).
+    Critical Failure: Critical misdiagnosis +-1d6(Minimum 1).                                        
+
+#### Spare the Dying
+When an individual is critically wounded and dying you can attempt to stabalize them, or at least make them comfortable in the time they have left. Roll medicine against a target of 13 + their death score.
+    Crit Pass: They stabilize.
+    Pass: They stabilize for now, gain a cumulative +1 to future ease the dying rolls.
+    Fail: They are not stable, but do not progress closer to death, unless a previous roll has critically failed.
+    Crit Fail: They are unstable and move closer to death each round until an ease the dying roll is successful.
+Note that even a stable character is still in bad shape and will begin dying again if they lose any stamina.
+
+#### Treat Malady
+Malady's can take many forms such as poisons, diseases, curses, and any other ailment.
+Make a medicine roll against the malady’s DC.
+    Crit Pass: Target gains +4 to next save against the malady.
+    Pass: Target gains +2 to next save against the malady.
+    Fail: Target gains +0 to next save against the malady.
+    Crit Fail: Target gains -2 to next save against the malady.
+
 ### Performance
+
 ### Persuasion
+
+#### Small Talk
+When engaging in a negotiation or other social interaction sometimes making small talk helps a great deal, but it can also hurt. You make a persuasion roll against the negotiation dc. 
+    Crit Pass: Gain +4 to your reputation temporarily
+    Pass: Gain +2 to your reputation temporarily
+    Fail: Gain -2 to your reputation temporarily
+    Crit Fail: Gain -4 to your reputation temporarily
+
 #### First Impressions
 When you meet a party or faction that has never heard of you, you make a first impression. To do so make a persuasion check and consult the following table. Add the first impression bonus to your reputation and give the other party just that value.
     | Roll  | First Impression |
@@ -250,10 +341,66 @@ When you meet a party or faction that has never heard of you, you make a first i
     | 12-16 |        +1        |
     |  16+  |        +2        |
 ### Search
+
+Search a target area. Takes 1 turn per 10sq'. Opposed by any hidden objects stealth.
+
 ### Stealth
+
+The ability to hide oneself and one's actions.
+
+#### Hide
+Being unnoticed is an ancient art. In order to hide you must have someplace to hide behind or someplace to be inconspiuous. Hide sets the DC required to spot the character.
+
+#### Sleight of Hand
+Palming, lifting, obscuring, or generally being sneaky. Sets the DC to be caught. When used against a particular target, roll against their passive alertness.
+
 ### Survival
+Surival in the wilderness should never be taken for granted. The survival skill governs a host of related tasks: navigation, foraging, and tracking.
+#### Navigation
+A compass grants you +2 on your check and prevents you from veering the wrong direction.
+    Critical Success: You find a shortcut and move 10% farther.
+    Success: You move your max distance in the direction you set.
+    Failure: You travel 4+1d6 x 10% of your max distance and become lost.
+    Critical Failure: You veer and travel 4+1d6x10% of your distance in a new direction.
+
+#### Foraging
+Finding food that wont poison you in the wilderness can be difficult. It takes 1 watch to forage for food.
+    Critical Success: Find 10+1d20 rations.
+    Success: Find 10 rations.
+    Failure: Find 1 ration.
+    Critical Failure: Find 10 rations, but they make you ill.
+
+#### Tracking
+Following  quarry through the wildness takes patience and an eye for detail.
+    Critical Success: You follow the trail and may move at full speed this watch.
+    Success: You follow the trail, though you move at half speed this watch.
+    Failure: You lose the trail and have to double back to find it, you do not move that watch.
+    Critical Failure: You find a trail, but its the wrong one and takes you somewhere else.
+
 ### Tinkering
+Making things, breaking things, and dreaming of new things to make all fall under tinkering.
+
+#### Pick Lock
+Anyone with a small amount of skill can pick a lock eventually, but where is the fun in 'eventually'? You use pick lock to quickly and quietly pick open a lock. The DC is set by the lock.
+    Critical Success: You deal with the lock so deftly that you can leave it locked to everyone but yourself and only someone clearly more skilled than you can notice it was tampered with.
+    Success: You open the lock, though someone skilled may notice it was tampered with.
+    Failure: You get through the lock quickly OR quietly, you choice and someone skilled would probably notice it has been tampered with..
+    Critical Failure: You do not get through the lock and you damage it in the process rendering it broken.
+
+    Note: You cannot take 10 on a pick lock check.
+
+#### Disable Device
+Traps have been the end of many adventuerers, this is one way to avoid them. After finding a trap, the trick is to stop it from hurting you. The DC is set by the trap.
+    Critical Success: You have disabled the trap and can rearm it at your will.
+    Success: You have disabled the trap, but rearming it will take some time.
+    Failure: You didn't disable it, you think, but you also didn't set it off, you think.
+    Critical Failure: You fool. You set off the trap.
+
+#### Crafting
+See the systems chapter for details on crafting or uncrafting.
 
 ## Feats and Abilities
+Most feats and abilities are scattered throughout the world as materia, but some can be learned through training.
 
 ## Specizations and Roles
+Classes are simple. By design. But there is more nuance possible if you want it. Characters can take on specilizations and party roles to further refine their abilities. But each bonus comes with a penalty.

@@ -71,7 +71,7 @@ When paradox is incurred roll 1d6 and consult the following table. On a 5 or 6 r
 |  3   | Wildfire  | The spell goes out of control and gains new targets                |
 |  4   | Summoning | A creature attuned to the spell appears with HD equal to the force |
 |  5   | Degen     | Suffer a mutation or deformity (as a wound)                        |
-|  6   | Random    | Roll on wild surge table                                           |
+|  6   | Random    | Roll on wild surge table (dnd 5e)                                           |
 
 Wild Surge
 | Roll | Effect              | Description                                  |
