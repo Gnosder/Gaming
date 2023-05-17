@@ -22,6 +22,8 @@ NOTE:
 
 ### Base Values by HD
 
+Round up
+
 AC = 11+(1/2)HD
 ATK = 9 + HD
     If att greater 15, gain second attack, greater than 15 gain a 3rd
