@@ -33,29 +33,7 @@ The only way to restore FP is through honest rest. When characters rest in a saf
 
 ### Stamina
 Stamina represents a character's ability to avoid and mitigate harm. Its a measure of close calls, bruses, and fleshwounds. While it can be thought of as health and losing it can be thought of as damage it is less corporeal than that. Stamina recovers fully after an hour of rest, though some conditions such as mana burn can impead this recovery. When a character's stamina reaches 0 they receive a wound and then "Rally" recoving half their maximum stamina. Maximum stamina is determined by a character's class and their constitution.
-
-### Wounds
-Wounds are real damage where as stamina is bumps and scrapes. When a character takes a wound they are taking a persistant amount of damage that harms their ability to act. When a wound is taken the gm rolls a d10 to find the wound's severity and give it an appropriate name. The value is never told to the players, but can be determined with a treat wounds check or similar. When the total value of a character's wounds meets or exceeds their death score (13) they are dying.
-
-### Wound Severity and Effects
-Wounds are contextual and each effects a character in a different way. There are, however, some simple guidelines.
-In general a wound of severity 1-3 imposes a -1 penalty around once a scene, a wound of severity 4-7 imposes a -2 penalty once every minute, and any wound of a severity greater than 7 imposes a -4 penalty every round.
-
-#### Permanent Wounds
-Some wounds are permanent such as severed limbs and others only heal partially leaving a scar or lingering effects.
-In general wounds received by critically failing a defense or by not defending at all have a 50% chance to be permanent while wounds that heal have a 10% chance of leaving a scar or mark and a lesser chance of having lingering effects.
-
-#### Recovering Wounds
-Wounds heal slowly over time. Some wounds heal faster than others while some never heal. More serious wounds require a stricter regimene of rest than less serious wounds. At the end of each time period a character can attempt to recover from a wound. If they met the required rest for the wound's severity they make a con save against the wound's severity + 5. If they pass the severity reduces by 1. Once a wound's severity reaches 0 it is considered healed.
-
-| Wound Severity | Time to reduce severity | Rest Required |
-| -------------- | ----------------------- | ------------- |
-| Minor (1-3)    | 1 Day                   | Light Work    |
-| Moderate (4-7) | 1 Week                  | Low Stress    |
-| Severe (8+)    | 1 Month                 | Bed Rest      |
-
-#### Death, Dying, and the death score
-Each character has a base death score of 13. When their total wound scores reach that value they are dying. Dying characters are incapacitated and cannot move or act. Further they receive a wound called "Mortally Wounded" with a value of 1d6 each round they remain dying. When they reach a death score 10 over their base (23 by default) they die. A character with medicine can "Spare the dying" to try and stabalize a dying character and there exists some powerful magic that can stabalize or even restore a dying character.
+    For more information on Stamina, Wounds, and Healing see Chapter 6 -- Systems.
 
 ### Mana
 Mana is a shorthand for the myriad magical powers that infuses the world and the beings who inhabit it. Each tradition has different names for mana -- vis, thanergy, will -- they all work fundamentally the same. Mana is a resource that regenerates over time and allows mortals to use magic and shape the world. For most characters their maximum mana is equal to their magic.
@@ -406,6 +384,7 @@ Most feats and abilities are scattered throughout the world as materia, but some
 
 
 ## Specizations and Roles
+<<<<<<< HEAD
 Classes are simple. By design. But there is more nuance possible if you want it. Characters can take on specilizations and party roles to further refine their abilities. But each bonus comes with a penalty.
 
 ### Combat Roles
@@ -429,3 +408,6 @@ Classes are simple. By design. But there is more nuance possible if you want it.
 
 #### Cook
     Consumeing rations grants refresh 1
+=======
+Classes are simple. By design. But there is more nuance possible if you want it. Characters can take on specilizations and party roles to further refine their abilities. But each bonus comes with a penalty. This  
+>>>>>>> 31b52089cbc98de2d3c362d44ec725454616a114
