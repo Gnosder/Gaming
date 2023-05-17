@@ -92,11 +92,11 @@ While each tradition has different ways of learning and researching magic there 
 MAGIC
 | Activity                                             | Time Required    | Cost     |
 | :--------------------------------------------------- | :--------------- | :------- |
-| Writing a Scroll                                     | Force x 2d6 days | 50sp/day |
-| Transcribing a Spell from a Spellbook to a Spellbook | Force x 1d3 days | 20sp/day |
-| Transcribing a Spell from a Scroll to a Spellbook    | Force x 1d6 days | 10sp/day |
-| Researching a Spell on the Spell List                | Force x 3d6 days | 25sp/day |
-| Researching a New Spell                              | Force x 4d6 days | 30sp/day |
+| Writing a Scroll                                     | Force x 7 days | 50sp/day |
+| Transcribing a Spell from a Spellbook to a Spellbook | Force x 2 days | 20sp/day |
+| Transcribing a Spell from a Scroll to a Spellbook    | Force x 3 days | 10sp/day |
+| Researching a Spell on the Spell List                | Force x 10 days | 25sp/day |
+| Researching a New Spell                              | Force x 14 days | 30sp/day |
 
 ## Magical Traditions
 

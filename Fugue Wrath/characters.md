@@ -402,5 +402,30 @@ See the systems chapter for details on crafting or uncrafting.
 ## Feats and Abilities
 Most feats and abilities are scattered throughout the world as materia, but some can be learned through training.
 
+### Learnable Feats
+
+
 ## Specizations and Roles
 Classes are simple. By design. But there is more nuance possible if you want it. Characters can take on specilizations and party roles to further refine their abilities. But each bonus comes with a penalty.
+
+### Combat Roles
+#### Assassin
+    Glass Cannon
+#### Bruiser
+    Damage and tank
+#### Tank
+    Soak
+#### Healer
+    Resotore resources
+#### Controler
+    Manipulate the battlefield.
+
+### Camp Roles
+#### Guide
+
+#### Scout
+
+#### Quartermaster
+
+#### Cook
+    Consumeing rations grants refresh 1

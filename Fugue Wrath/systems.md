@@ -110,6 +110,11 @@ Conditional DC Modifiers
 | Strong Intimidation   | +7  |
 * Intimidation will, after the negotiation concludes, result in least a negative quality being gained
 
+### Reputation
+
+Anytime you interact with anyone you are building a reputation. All reputations have a value and one or more qualities ot tags that describe the reputation.
+While you can have a general reputation that can follow you, you can also have a reputation with individuals that might be different. For example, you may be a generally good person who helps others so your overall reputation may be "5, kind" but to someone who doesn't like you it might be "2, bragart". In general a person's specific thoughts overrule your general reputation, but there are exceptions to that. For example, if you're in public someone may treat you according to your full reputation, but in private they may treat you differently.
+
 ## Combat
 
 ## Downtime

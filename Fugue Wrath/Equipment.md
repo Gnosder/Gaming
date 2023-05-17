@@ -2,7 +2,7 @@
 
 ## Currency
 
-The base currency is the Silver Piece (SP) these typically weigh around 10 grams and are standardized through out a realm or city. While the styling of the coin can change the metal itself tends to have a set value, thus sp from different areas are typically interchangable. 
+The base currency is the Silver Piece (SP) these typically weigh around 9 grams and are standardized throughout a realm or city. While the styling of the coin can change the metal itself tends to have a set value, thus sp from different areas are typically interchangable. 
 
 Some other common coinage is the Copper Peice (CP), which is generally 1/10 the value of the SP, and the Gold Peice (GP), which is generally 10 times the value of the SP. However, local forces can impact these values. For example, in the kingdom of Gaxton 1gp is worth 50sp (due to the rarity of gold in the area).
 
@@ -10,7 +10,7 @@ Other metal and alloys are sometimes used, such as platnium, electrum, rose gold
 
 While some areas use bank notes they are not common and are typically not accepted outside the area in which they are issued.
 
-500 coins is 1 bulk. It's not important to keep exact track of the weight of coins, simple round down to the nearest bulk. E.g. 999 coins is 1  bulk, not 2.
+50 coins weigh about a pound and 500 coins is 1 bulk. It's not important to keep exact track of the weight of coins, simple round down to the nearest bulk. E.g. 999 coins is 1  bulk, not 2.
 
 ## Encumbrance 
 
@@ -104,8 +104,8 @@ Tent: Pup tents are large enough to hold only a single small or medium creature 
 | Spellbook   |                     |      |
 | Holy Symbol |                     |      |
 | Reagents    |                     |      |
-| Scroll      | Complexity x 100sp  | L    |
-| Wand        | Complexity x 2000sp | L    |
+| Scroll      | Force x 100sp  | L    |
+| Wand        | Force x 2000sp | L    |
 
 ### Written Items
  | Item            | Price | Bulk |
