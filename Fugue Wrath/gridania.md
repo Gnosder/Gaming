@@ -33,7 +33,7 @@ Mutants
         An underwater crevice leads to a Cistern.
     Apkallu Cistern: See Below
 
-### 5 - Mih Khetto's Aphitheatre
+### 5 - Mih Khetto's Amphitheatre
     Ruined amphitheatre. Nothing of value. Several wrath zombies (both wailers and adders) are seated in the stands intently watching a glass sphere.
     Loot: Glass Sphere, once an enchanted light (ghost light) that was left on the stage, now it is simply glass.
 

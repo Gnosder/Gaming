@@ -214,4 +214,17 @@ Rules: None
 
 7/20
     5 (Partly Cloudy)
-    In Gridania, just defeated a Void Sent in the Adder's Nest and recovered the bow
+    Watch 2
+    Turn 2
+        In Gridania, just defeated a Void Sent in the Adder's Nest and recovered the bow.
+    Turn 3
+        Meeting Tree, beat void sent, got lore on primalists from Khali.
+    Turn 4
+        Went to Akpallu Falls
+        Went to Botanist's Guild, met Zav and the mutants, given directions to the Eastern Gatehouse (which is actually to the west of Hollowed Bastion, but to the east of the city of Loma on the coast. (The landing of the dominion is at the western gatehouse)
+    Turn 5
+        Conjurer's Guild
+        Met Kan-E-Senna, unlocked white mage
+            White Mage
+                Magic User
+                    Smite, Holy, Bless, Lay on Hands
