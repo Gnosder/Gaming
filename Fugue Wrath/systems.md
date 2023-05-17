@@ -1,5 +1,6 @@
 - Systems
     - Basic Action resolution
+    - General Actions
     - Exploration and Navigation
     - Combat
     - Social
@@ -30,17 +31,82 @@ In all tests if you roll 5 over the DC you critically succeed, whereas if you ro
 There are times when multiple individuals work together to attempt an action. Perhaps they are all searching a room together or they are all helping with first aid.
 In those instances everyone rolls the check and it only fails if more than half the participants fail. Further if a degree of success is needed then it is the second highest roll that passed. While making a group test you may spend FP for allies to reroll their checks if your bonus on the test is higher.
 
+### Opposed Tests
+
+Some actions don't have a set DC to challenge, but rather go against another individual. In those instances both characters will roll their for their actions and the one who rolls higher wins. For the purposes of criticals just treat the lower roll as the DC.
+
+## General Actions
+
+### Resting
+
+All characters need rest. Rests come in 2 primary varieties, helpfully called a Short Rest and a Long Rest. Short rests are quick breathers while Long Rests are generally sleep.
+
+#### Short Rests
+
+A Short Rest takes 1 hour of time. During a Short Rest character's regain all their lost Stamina and they may be able to refresh any abilities or tools. During a Short Rest a character can repair or examine a single item or attune to a single magical item.
+
+#### Long Rests
+
+A Long Rest takes 8 hours of time and no more than one may be taken in a single day. Long Rests typically require characters to spend the majority of the rest sleeping though this can be broken up (for example by taking turns at keeping watch) though any strenuous effort can spoil the effects of the rest. During a Long Rest a character may refresh FP (based on how they are resting) and may attempt to recover from a wound. Further characters that do not take a Long Rest each day are at risk of Fatigue.
+
+### Stamina, Wounds, and Fatigue
+
+#### Stamina
+Stamina represents a character's ability to avoid and mitigate harm. Its a measure of close calls, bruses, and fleshwounds. While it can be thought of as health and losing it can be thought of as damage it is less corporeal than that. Stamina recovers fully after an hour of rest, though some conditions such as mana burn can impead this recovery. When a character's stamina reaches 0 they receive a wound and then "Rally" recoving half their maximum stamina. Maximum stamina is determined by a character's class and their constitution.
+
+#### Wounds
+Wounds are real damage where as stamina is bumps and scrapes. When a character takes a wound they are taking a persistant amount of damage that harms their ability to act. When a wound is taken the gm rolls a d10 to find the wound's severity and give it an appropriate name. The value is never told to the players, but can be determined with a treat wounds check or similar. When the total value of a character's wounds meets or exceeds their death score (13) they are dying.
+
+##### Wound Severity and Effects
+Wounds are contextual and each effects a character in a different way. There are, however, some simple guidelines.
+In general a wound of severity 1-3 imposes a -1 penalty around once a scene, a wound of severity 4-7 imposes a -2 penalty once every minute, and any wound of a severity greater than 7 imposes a -4 penalty every round.
+
+##### Permanent Wounds
+Some wounds are permanent such as severed limbs and others only heal partially leaving a scar or lingering effects.
+In general wounds received by critically failing a defense or by not defending at all have a 50% chance to be permanent while wounds that heal have a 10% chance of leaving a scar or mark and a lesser chance of having lingering effects.
+
+##### Recovering Wounds
+Wounds heal slowly over time. Some wounds heal faster than others while some never heal. More serious wounds require a stricter regimene of rest than less serious wounds. At the end of each time period a character can attempt to recover from a wound. If they met the required rest for the wound's severity they make a con save against the wound's severity + 5. If they pass the severity reduces by 1. Once a wound's severity reaches 0 it is considered healed.
+
+| Wound Severity | Time to reduce severity | Rest Required |
+| -------------- | ----------------------- | ------------- |
+| Minor (1-3)    | 1 Day                   | Light Work    |
+| Moderate (4-7) | 1 Week                  | Low Stress    |
+| Severe (8+)    | 1 Month                 | Bed Rest      |
+
+#### Death, Dying, and the death score
+Each character has a base death score of 13. When their total wound scores reach that value they are dying. Dying characters are incapacitated and cannot move or act. Further they receive a wound called "Mortally Wounded" with a value of 1d6 each round they remain dying. When they reach a death score 10 over their base (23 by default) they die. A character with medicine can "Spare the dying" to try and stabalize a dying character and there exists some powerful magic that can stabalize or even restore a dying character.
+
+#### Fatigue
+
+There are instances where characters can not act at thier best -- perhaps they haven't eaten in a while, or they've been awake for too long, or maybe dark magic is sapping their vitality -- regardless we call those times fatigue. When a character suffers Fatigue their maximum stamina is reduced. If a character's maximum stamina ever reaches 0 they begin to die. In order to remove fatigue the underlying cause must be dealt with. If the fatigue is casued by starvation the character must eat, etc.
+    Mana Burn is another type of fatigue and works the same way except that it cannot be healed by anything but time.
+
+### Mana and Magic
+
+#### Mana
+Mana is a shorthand for the myriad magical powers that infuses the world and the beings who inhabit it. Each tradition has different names for mana -- vis, thanergy, will -- they all work fundamentally the same. Mana is a resource that regenerates over time and allows mortals to use magic and shape the world. For most characters their maximum mana is equal to their magic.
+Mana recovers by 1d4 every hour. Some items (such as tass) have the ability to restore mana on demand.
+
 ## Exploration and Navigation
 
 Exploration, being one of the three pillars of role playing games is fairly straight forward, but requires some understanding of terms.
 
-### The Exploration Turn
+### The Exploration Turn -- Travel and Delving
 
 There are two ways to track time while exploring, the Watch and the Turn.
-A turn is roughly 1 hour long while a watch, being the larger of the two, is roughly 4 hours long. This means most standard days break up into 6 watches or 24 turns.
-Turns are typically used to track durations and effects like spells and light sources while watches are typically used to track overland travel and exploration actions.
+Watches are used while traveling and can be thought of as "overworld" movement. They are roughly 4 hours long which means a standard day is broken up into 6 watches.
+Turns are used while "delving" or exploring an area in detail. This can be thought of as "dungeon" movement. Turns are roughly 1 hour long which means a standard day is broken up into 24 turns.
 
-While exploring the GM may roll lots of dice. This is nothing to worry about. Everything is perfectly fine. You're not about to get eaten by a Gru.
+It's important to remember that no method of keeping time is 100% accurate and some amount of leeway is generally understood. There are also actions that can take less than a turn or a watch, such as searching a room or landmark, in those cases the GM will arbitrate how time passes.
+
+#### Sidebar - Terms
+
+It may seem like a lot of terminology is used and it is. However, you don't have to remember it all. Just be aware of how the GM breaks time up.
+
+### Travel
+
+An average character or animal can travel 2 watches a day without much effort. Traveling a third risks Fatigue and traveling more than that gaurantees it.
 
 ## Social
 
