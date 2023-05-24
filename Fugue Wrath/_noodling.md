@@ -638,3 +638,301 @@ V: Volly. Attacks within 30ft suffer a -2 penalty to attack.
 | Pistol         |  1d12  | 30/60   | SS, AP     |  1   |
 | Blunderbus     |  3d10  | 15/30   | SS, AP     |  2   |
 |                |        |         |            |      |
+
+# Class System Overhaul
+Implement Job System. Have a Character Level and a Job Level
+Character Level progresses with exp. Job Level progresses with use/training
+Use Simple, Base, and Advanced Jobs.
+
+Simple (Core) Jobs
+    Adventurer
+    Fighter
+    Magic User
+    Expert
+Base Jobs
+    Gladiator
+    Pugalist
+    Murader
+    Rouge
+    Lancer
+    Conjurer
+    Thaumaturge
+    Archanist
+    Archer
+Advanced Jobs
+    Paladin
+    Warrior
+    Dark Knight
+    Gunbreaker
+    White Mage
+    Scholar
+    Astrologian
+    Sage
+    Monk
+    Dragoon
+    Ninja
+    Samurai
+    Reaper
+    Bard
+    Machinist
+    Dancer
+    Black Mage
+    Summoner
+    Red Mage
+    Blue Mage
+    High Mage
+    Necromancer
+    Shaman
+
+Switch back to AC and make saves static (ala 4E)
+
+## What DO I like?
+The magic system feels good
+Faith is good
+
+## What don't I like?
+The skill system seems basic and like an addon
+Defense is slow
+Stamina is too high?
+Never Used Luck Save
+
+3 resources (Stamina, MP, and Faith)
+3 roles (Tank, DPS, Support)
+
+## Action Economey
+Do 3 things a turn.
+    Casting Spells takes 3.
+    Unused Actions default to defend
+### Actions
+    Attack
+    Cast Spell (3)
+    Move
+        Stride
+        Stand
+        Crawl
+        Step
+    Aid
+    Interact
+        Use an Item
+    Defend
+        Increase AC
+    Raise Shield
+        Able to use a Shield
+    Seek
+        Increase Alertness
+    Take Cover
+        Drop Prone
+
+### Adjusted Skill List with Catagories - 22 Skills
+    Start with 20 points. Gain 2 per level.
+    Combat
+        Fight
+        Shoot
+        Cast
+            Applies as bonus to action (melee, ranged, spell cast)
+        Defend
+            Bonus to AC
+    Skill
+        Alertness
+            Initiative
+            Passive Alertness
+        Athletics
+        Know
+            Passive Knowledge
+        Leadership
+            Followers - Hiring, rally
+        Medicine
+            Diagnose Injuries
+            Treat Wounds
+        Navigate
+        Performance
+        Persuasion
+        Search
+        Stealth
+            Hide
+            Slieght of Hand
+        Research
+            Gather Information (Canvas)
+            Book Learning
+        Survival
+            Foraging
+            Surviving
+        Tracking
+            Following/ Shadowing/ Seeking
+    Passive
+        Carry
+            Bonus to encumbrance
+        Body
+            Bonus to Stamina and death score and healing
+        Magic
+            Bonus to MP, channeling, and mana recovery.
+        Faith
+            Bonus to FP, and Luck
+        Socialize
+            Passive Social
+
+# Characters
+## What Makes a Character
+### Skills
+### Saves
+### Armor Class
+### Stamina and Wounds
+### Mana
+### Attacks
+### Abilities
+### Languages, titles, and scars
+### Backstory
+## Creating Characters
+### Assign Skills
+### Derive Stats
+## Races
+### Human
+### Half Elf
+### Halfling
+### Half Orc
+### Tiefling
+### Elf
+### Dwarf
+### Dragonborn
+
+## Classes
+There are 3 Base Classes with each having a number of Advanced Classes associated with it. Finally there exist Expert Classes that combine different base classes or seriously altar gameplay. Advanced classes can be chosen at level 3 and enhance the base class. Expert Classes supplant the base class, essentially "rerolling" a character.
+
+### Level Progression
+
+#### Level Up Benefits
+
+Each level characters gain:
+    - 2 Skill points that can be spent on any skills.
+        The maximum value is listed on the Level Progression Table
+    - Gain 2 Stamina
+    - Add 1 to your Saves
+    - Recalculate any statistics that may have changed
+
+#### Level Progression Table
+| Level | Experience | Perk                             |
+| :---: | :--------: | :------------------------------- |
+|   1   |     0      | Maximum Skill is 5               |
+|   2   |    2000    |                                  |
+|   3   |    4000    | Able to Choose an advanced class |
+|   4   |    8000    | Maximum Skill is 7               |
+|   5   |   16000    |                                  |
+|   6   |   32000    |                                  |
+|   7   |   64000    |                                  |
+|   8   |   128000   | Maximum Skill is 9               |
+|   9   |   256000   |                                  |
+|  10   |   512000   |                                  |
+|  11+  |  +256000   | No Skill Maximum                 |
+
+### Fighter
+
+Class Ability: Killing Blow
+When a Fighter inflicts damage with any attack they may add their character level rounded up to the damage done.
+Class Abiilty: Veteran's Luck
+A fighter may spend an MP to turn any of their own missed attacks into a hit or any hit against them into a miss.
+
+#### Fighter's at Level 1
+
+    Starting Stamina is 20
+    Gain abilities Killing Blow and Veteran's Luck.
+    Gain +2 to Strike, Shoot, and Defence skills
+    Gain +4 to Fort Saves and +2 to Ref Saves
+
+##### Fighter Melee Weapons
+
+| Weapon Class | Damage |
+| :----------- | :----: |
+| Covert       |   d8   | 
+| Light        |   d8   | 
+| Heavy        |  d10   | 
+| Very Heavy   |  d12   | 
+| Reach        |   d8   | 
+
+
+#### Warrior
+
+Ability: Beast Within
+    Veteran's Luck always Critically Hits and attacks against you critically miss
+Ability: Thrill of Battle
+    Spend 1 MP to gain 10 Temporary Stamina and 2 Grit. Useable at any time. Temporary Stamina is lost first and does not stack.
+
+#### Samurai
+
+Ability: Sen
+    Whenever you deal damage or are dealt damage you gain 1 Sen point. You may have a maximum amount of sen equal to your faith.
+Ability: Iaijutsu
+    Expend all Sen to make a powerful strike that deals maximum damage times the number of sen spent minus one.
+Ability: Third Eye
+    May spend Sen to make attacks miss you with Veteran's Luck
+
+#### Monk
+
+Abiilty: Combo Strikes
+    With each strike, hit or miss, you change into a different stance.
+    Monkey Stance: Your unarmed and monk weapon attacks count as light and deal shock damage on a hit. Change to eagle Stance.
+    Eagle Stance: Your unarmed and monk weapon attacks count as Heavy and
+
+### Expert
+
+#### Bard
+#### Dancer
+#### Ninja
+
+### Magic User
+
+#### High Mage
+#### Necromancer
+#### Healer
+#### Shaman
+#### White Mage
+#### Sage
+#### Summoner
+
+### Advanced Classes
+
+#### Red Mage
+#### Magus
+#### Astrologian
+#### Druid
+#### Warlock
+#### Reaper
+#### Death Knight
+#### Death Warder
+#### Paladin
+
+## Skills
+
+### Combat Skills
+
+#### Fight
+#### Shoot
+#### Cast
+#### Defend
+
+### Professsion Skills
+
+#### Alertness
+#### Athletics
+#### Know
+#### Leadership
+#### Medicine
+#### Navigate
+#### Performance
+#### Persuasion
+#### Search
+#### Stealth
+#### Research
+#### Survival
+#### Tracking
+
+### Passive Skills
+
+#### Carry
+#### Body
+#### Magic
+#### Faith
+#### Socialize
+
+## Feats and Abilities
+
+### Materia and Skill Gems

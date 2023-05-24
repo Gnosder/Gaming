@@ -228,3 +228,9 @@ Rules: None
             White Mage
                 Magic User
                     Smite, Holy, Bless, Lay on Hands
+
+# Session 14
+
+Rules changes: none
+7/20
+    5 (partly Cloudy)

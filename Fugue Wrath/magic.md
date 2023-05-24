@@ -152,7 +152,8 @@ Elements
         Can ignite combustibles. Fires started this way burn for 1d6 damage (usually)
     Cold
         Can cause slowness and decrease initiative. Also brittle and shatter.
-    Lightning
+    Lightningbility: Monastic Training
+    Your unarmed and monk strikes
         Can jolt, gain bonus against conductive targets.
     Necrotic
         Wither's life, counter to radiant
