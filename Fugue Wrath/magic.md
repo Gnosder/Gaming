@@ -16,7 +16,7 @@ Spent mana recovers at a rate of 1d4 an hour, but never more than the environmen
 
 Mana Saturation: Magic is everywhere and in all things. In high concentrations it bleeds into the environment and is available for easy use by magic users. Mana Saturation refers to how much loose mana is available in the area, most cities on Algos have a Mana Saturation rating of 2, and the more natural areas can have a higher rating.
 
-If a caster uses more mana than they have they take resistant stamina damage equal to double the mana they need o spend. This damage lowers the character's maximum stamina until they are able to benefit from bed rest.
+If a caster uses more mana than they have they take resistant stamina damage equal to double the mana they need to spend. This damage lowers the character's maximum stamina until they are able to benefit from bed rest.
 
 A magic user may channel mana while casting a spell. They gain mana equal to the area's saturation rating each round they channel. This mana can only be spent on the spell being cast and is lost when the spell is cast or the caster's channeling is disrupted. While channeling a caster may not roll defense or reflex, failling all such saves automatically, further they must make a Will save (DC 11 + Mana Held) whenever they lose stamina. Failure means the channeling ends and the mana gained is lost.
 

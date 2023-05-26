@@ -771,6 +771,11 @@ Do 3 things a turn.
         Socialize
             Passive Social
 
+
+## Rounding
+
+If it helps you round up, otherwise round down.
+
 # Characters
 ## What Makes a Character
 ### Skills
@@ -796,7 +801,7 @@ Do 3 things a turn.
 ### Dragonborn
 
 ## Classes
-There are 3 Base Classes with each having a number of Advanced Classes associated with it. Finally there exist Expert Classes that combine different base classes or seriously altar gameplay. Advanced classes can be chosen at level 3 and enhance the base class. Expert Classes supplant the base class, essentially "rerolling" a character.
+There are 3 Base Classes with each having a number of Advanced Classes associated with it. Finally there exist Expert Classes that combine different base classes or seriously altar gameplay. Advanced classes can be chosen at level 3 and enhance the base class. Expert Classes supplant the base class, essentially "rerolling" a character. Both advanced and expert classes must be unlocked through play.
 
 ### Level Progression
 
@@ -827,15 +832,15 @@ Each level characters gain:
 ### Fighter
 
 Class Ability: Killing Blow
-When a Fighter inflicts damage with any attack they may add their character level rounded up to the damage done.
+When a Fighter inflicts damage with any attack they may add their character level to the damage done.
 Class Abiilty: Veteran's Luck
-A fighter may spend an MP to turn any of their own missed attacks into a hit or any hit against them into a miss.
+A fighter may spend an MP to turn any of their own missed attacks into a hit or any hit against them into a miss. Must be used before damage is rolled.
 
-#### Fighter's at Level 1
+##### Fighter's at Level 1
 
     Starting Stamina is 20
     Gain abilities Killing Blow and Veteran's Luck.
-    Gain +2 to Strike, Shoot, and Defence skills
+    Gain +2 to Strike, Shoot, and Body
     Gain +4 to Fort Saves and +2 to Ref Saves
 
 ##### Fighter Melee Weapons
@@ -848,50 +853,241 @@ A fighter may spend an MP to turn any of their own missed attacks into a hit or 
 | Very Heavy   |  d12   | 
 | Reach        |   d8   | 
 
+### Fighter Advanced Classes
 
 #### Warrior
 
 Ability: Beast Within
-    Veteran's Luck always Critically Hits and attacks against you critically miss
+    Veteran's Luck always Critically Hits and makes attacks against you critically miss.
 Ability: Thrill of Battle
     Spend 1 MP to gain 10 Temporary Stamina and 2 Grit. Useable at any time. Temporary Stamina is lost first and does not stack.
 
 #### Samurai
 
 Ability: Sen
-    Whenever you deal damage or are dealt damage you gain 1 Sen point. You may have a maximum amount of sen equal to your faith.
+    Whenever you deal damage or are dealt damage you gain 1 Sen point. You may have a maximum amount of sen equal to your faith. Unspent Sen points are lost each day at dawn.
 Ability: Iaijutsu
     Expend all Sen to make a powerful strike that deals maximum damage times the number of sen spent minus one.
 Ability: Third Eye
-    May spend Sen to make attacks miss you with Veteran's Luck
+    May spend Sen to make attacks miss you with Veteran's Luck. Can be used after damage is rolled.
 
 #### Monk
 
 Abiilty: Combo Strikes
-    With each strike, hit or miss, you change into a different stance.
+    With each strike, hit or miss, you change into a different stance. Return to Monkey Stance after combat ot 1 minute.
     Monkey Stance: Your unarmed and monk weapon attacks count as light and deal shock damage on a hit. Change to eagle Stance.
-    Eagle Stance: Your unarmed and monk weapon attacks count as Heavy and
+    Eagle Stance: Your unarmed and monk weapon attacks count as Heavy and . Change to Tiger Stance.
+    Tiger Stance: Your unarmed and monk weapon attacks count as very heavy and inflict bleeding 10. Change to Monkey Stance.
+Ability: Monastic Training
+    While Unarmored you gain a bonus to your defense equal to 3 + half your Strike Skill.
 
 ### Expert
 
+Class Ability: Quick Learner
+    If you have no points in a non-combat skill, your first point spent gives you a score of +2 rather than +1. Further, silver and time costs to receive training are reduced by 25%.
+Class Ability: Masterful Expertise
+    When using FP to reroll a failed non-combat skill check the FP is not spent if the second roll succeeds.
+Class Ability: Cunning Action
+    Once per round may spend 1 MP to make a non-attack action at any point
+        - Actions such as Stealth, Slieght of Hand, Disengage, Dash, etc.
+
+##### Experts at Level 1
+
+    Starting Stamina is 18
+    Gain the abilities Quick Learner, Masterful Expertise, and Cunning Action
+    Gain an extra 4 skill points to spend at level 1.
+    Gain +4 to Reflex and +2 to Will
+
+##### Expert Melee Weapons
+
+| Weapon Class | Damage |
+| :----------- | :----: |
+| Covert       |   d6   |
+| Light        |   d6   |
+| Heavy        |   d8   |
+| Very Heavy   |  d10   |
+| Reach        |   d8   |
+
+### Expert Advanced Classes
+
 #### Bard
+
+Ability: Inspire
+    Spend an MP and perform an art to grant all nearby allies advantage on skill checks for 1 minute.
+Ability: Power of Music
+    When using this action choose an effect, a range, and a duration. Spend MP equal to the total of the chosen modifiers.
+    Effect:
+        - [1] Targets are Facinatated, Confused, Sickened, Frightened.
+        - [2] Targets are put to sleep.
+    Range:
+        - [0] One target
+        - [1] All targets that can hear and see you.
+        - [2] All non-friendly targets that can hear and see you.
+    Duration:
+        - [0] One minute
+        - [1] One hour.
+Ability: Restful Repose
+    When you take a long rest, you and all alies gain +1 refresh.
+
 #### Dancer
+
+- Whats the difference between a Bard and a Dancer? Style and location, they are cut from the same cloth.
+Ability: Flourish
+    Once per round, When you succeed at a check all nearby allies receive +2 to that same check for 1 round.
+Ability: Closed Position
+    Designate one nearby ally as your dance partner. While that ally is within 10ft of you, any bonuses that effect you or your ally effect you both instead. If you or your ally would take damage or suffer a penalty you may split that damage or penalty in half and have it effect each of you.
+Ability: Restful Repose
+    When you take a long rest, you and all alies gain +1 refresh.
+
 #### Ninja
+
+    Ability: Ninjutsu
+        Learn 2 Ninjutsu Mudras and gain the abiilty to learn more.
+    Ability: Vanish
+        Spend 1 MP to Disappear in a cloud of smoke or flash of light gaining invisibiility for 2 rounds or until you take a combat action. Further, while invisible may spend 1 MP to teleport 15ft in any direction as a move action.
+
+#### Thief
+
+    Ability: Discerning Eye
+        Automatically appraise objects you can see to their average level.
+    Ability: Mug
+        When you deal damage to or interact with a target you can steal one item they are carrying but not activly holding. Targets effected by mug know they have been stolen from.
+    Ability: Distraction
+        When you create a distraction, targets have disadvantage to resist it.
 
 ### Magic User
 
-#### High Mage
-#### Necromancer
-#### Healer
-#### Shaman
-#### White Mage
-#### Sage
-#### Summoner
+Class Ability: Mana Efficiency
+    You gain a multiplier to your maximum MP equal to half your level rounded up.
+Class Ability: Channel Magic
+    You may channel magic from the world around you. As an action you can begin channeling and gain temporary MP equal to your magic. For each action you continue to channel you gain half as much MP (rounded up). You may end channeling at any point, but all temporary MP from this feature is lost. While channeling magic you cannot roll defense or reflex saves and can only take channel and cast actions. If you take damage or are greatly jostled all temporary MP from this feature is lost.
+    While you are channeling you may spend this temporary MP to cast spells.
+Class Ability: Spellcraft
+    You may learn, prepare, and cast spells and rituals.
 
-### Advanced Classes
+##### Magic Users at Level 1
+    Gain starting Stamina of 16
+    Gain class abilities Mana Efficiency, Channel Magic, and Spellcraft
+    Gain +2 to Cast, Magic, and Magecraft
+    Gain +4 to Will and +2 to Ref saves
+    Learn any 5 spells on the Magic User spell list.
+
+##### Magic User Melee Weapons Damage
+
+| Weapon Class | Damage |
+| :----------- | :----: |
+| Covert       |   d4   |
+| Light        |   d4   |
+| Heavy        |   d6   |
+| Very Heavy   |   d8   |
+| Reach        |   d6   |
+
+#### High Mage
+
+Ability: Defensive Channeling
+    When channeling mana, may make 1 defense or reflex save.
+Ability: Nimbus
+    When a high mage expends mana their aura breifly manefests around them, granting them one of the following effects:
+        - +2 to saves for the round
+        - Resistance to one elemental damage type until the end of the round.
+        - Recover half the mana spent (ignoring any mana held from channeling).
+        - Make a magic attack against a nearby target (15ft) for 1d4 force damage per force of the spell.
+        - Recover 1d4 stamina per force of the spell
+#### Necromancer
+
+Ability: Conversion
+    Whenever you lose at least 4 stamina, you gain 1d4 temporary mana that is lost after 1 minute and can be spent only on Necromancy spells.
+Ability: Life tap
+    Once per round, spend 8 stamina to gain 1d4 temporary mana that is lost after 1 minute and can be spent only on Necromancy spells. Additionally wounds you receive heal twice as fast. Life tap does not end channeling.
+Note: Mana gained from Conversion and Life tap stack with each other and with Channeling.
+
+#### Shaman
+
+Ability: Ancestral Force
+    May spend 1 FP to make a spell count as 2 force less for MP. Your magic is considered 2 higher for determining paradox.
+Ability: Imbue Totem
+    You may, as two actions, summon a totem that has one of the following effects, only one totem can exist at a time:
+        - Sustains one spell for you
+        - Adds 1d4 elemental damage to all nearby allies' attacks. Choose the element when you summon this totem (Ice, Fire, Wind,Earth)
+        - Terrain within 30ft of the totem becomes difficult to enemies
+        - Allies within 30ft of the totem make Will saves with advantage and gain one free save against any effects.
+        - When you heal or deal damage the totem deals half that healing or damage to the same target. Damage requires an attack roll.
+    Totems have 1 stamina, and have no reflex or Defense.
+
+#### Warlock
+
+Ability: Patron
+    An eldritch diety has granted you powers and, strangely, asked for little in return. You automatically know all the spells on your Patron's spell list. Further you learn the eldritch language R'lyehian.
+Ability: Curse of the Dreamer
+    Your connection to your patron has resulted in a strange curse. Your maximum FP is reduced by half, rounded down, but you may spend an unlimited amount of FP beyond your maximum drawn from your Patron. This may or may not be well received, your patron is often inscrutable.
+
+#### Priest
+
+Ability: Divine Power
+    You may use your Faith instead of your magic for determining your maximum MP. Additionally, when you use an FP you regain MP equal to your level.
+Ability: Divine Supplicant
+    You have pledged your devotion to a particular diety or religion. Choose a diety to follow; You know all the spells on your dieties' spell list and gain the listed ability; you also suffer from your dieties' bane.
+    
+
+### Expert Classes
+
+Expert classes are self contained.
+
+Each expert class lists:
+    Starting stamina
+    Bonus to saves (+6 total)
+    Abilities (4-5)
+    Bonus to skills (+6 or +4 is able to be chosen freely)
+    Melee weapon damage
+
+Starting Stamina:
+Saves:
+Skills:
+Melee Weapon Damage as 
 
 #### Red Mage
+Part Dualist part mage, the redmage is the answer to the question: what if the three musketeers were mages?
+
+Starting Stamina: 18
+Saves: +2 to Ref, Fort, Will
+Skills: +2 strike, +2 cast, +1 magic, +1 Body
+Melee Weapon Damage as Expert except Light weapon is d8.
+
+Ability: Versitile
+    Using magic while engaged does not provoke opportunity attacks.
+    Melee weapons can be used as magical foci and can be held while casting.
+    Wearing armor does not penalize spell casting.
+Ability: Acceleration
+    You may cast a spell as a free action by spending 2 mana per force of the spell in addition to its other casting costs. The accelerated spell cannot have a force greater than your magic.
+Ability: Manafication
+    When you cast a spell you gain a bonus to melee damage equal to the force of the spell for 2 rounds.
+Ability: Honor
+    Your reputation preceeds you, and even individuals that would not know of your reputation can still sense it.
+Ability: Mana Efficiency
+    You gain a multiplier to your maximum MP equal to half your level rounded up.
+Ability: Spellcraft
+    You may learn, prepare, and cast spells and rituals on the Red Mage spell list.
+Ability: Swashbuckle
+    Spend 1 FP to pull off a daring stunt the likes of which others could scarcely conceive.
+    
 #### Magus
+A mage that studied the sword and bonded to it.
+
+Starting Stamina: 18
+Saves: +3 Fort, +3 Will
+Skills: +2 strike, +2 magic, +2 body
+Melee Weapon Damage as Magic User except for Bound Weapon
+
+Ability: Bound Blade
+    A magus has created a bond to their weapon that transcends the physical and makes it an extention of their own body. A bound blade always does damage as a fighter. The magus can summon and dismiss their bound blade at will. An unsummoned blade merges with the magus' soul until it is summoned.
+Ability: Spell Strike
+    Some spells can be cast as part of an attack and are
+Ability: Mana Efficiency
+    You gain a multiplier to your maximum MP equal to half your level rounded up.
+Ability: Spellcraft
+    You may learn, prepare, and cast spells on the magus spell list.
+
+
 #### Astrologian
 #### Druid
 #### Warlock
@@ -899,6 +1095,10 @@ Abiilty: Combo Strikes
 #### Death Knight
 #### Death Warder
 #### Paladin
+    Combination Fighter and Cleric
+#### Summoner
+#### Sage
+#### White Mage
 
 ## Skills
 
@@ -915,6 +1115,7 @@ Abiilty: Combo Strikes
 #### Athletics
 #### Know
 #### Leadership
+#### Magecraft
 #### Medicine
 #### Navigate
 #### Performance
@@ -934,5 +1135,8 @@ Abiilty: Combo Strikes
 #### Socialize
 
 ## Feats and Abilities
+
+### Healer
+    As long as you have MP you may restore 2d6 stamina to a target you touch as an action.
 
 ### Materia and Skill Gems
