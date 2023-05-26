@@ -234,3 +234,5 @@ Rules: None
 Rules changes: none
 7/20
     5 (partly Cloudy)
+7/21
+    3 Cloudy

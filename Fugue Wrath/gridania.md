@@ -48,12 +48,12 @@ Mutants
             Ability: Hymm of Adventure -- Spend 1 MP to grant an ally +2 to any check. If they spend a FP on that check they get a +4 to their reroll.
         Pyros's Harp Bow (Short Bow)
             Hunter's Serenade -- Song: Attacks with this weapon gain a bonus to attack rolls equal to your performance skill. 
-            Adder's Sting -- Song: Attacks with this weapon poison targets on hit. The poison DC is equal to 10 + performance; imposes disadvantage.
+            Adder's Sting -- Song: Attacks with this weapon poison targets on hit. The poison DC is equal to 10 + performance; imposes disadvantage. Poisoned targets take 2 damage per round.
     Loot: Pyros's Bow
 
 ### 8 - Westshore Pier
     Wrath Infused Water Elemental
-    Loot: Folding Boat, damaged but still operable.
+    Loot: Folding Boat, damaged but still operable, Cap of water Breating,
 
 ### 9 - Shaded Bower
     Empty
@@ -84,7 +84,7 @@ A small cave beneath the falls contains a shimmering portal into a cistern. A Vo
     Light: Well lit by 4 magical orbs on the walls
     The void sent Maladragus has created a funnel it is using to siphon power from the elements in the area.
     Enemies: Maladragus and wrath hydras
-    Loot: Wrath Heart, Void Crystal, Elemental hearts (6), Cap of water Breating, Cloak of Displacement
+    Loot: Wrath Heart, Void Crystal, Elemental hearts (6),  Gloves of Missile SNaring, Cloak of Displacement
 
 ### Area 5 - 
     Light: None
@@ -97,7 +97,7 @@ A small cave beneath the falls contains a shimmering portal into a cistern. A Vo
 ## Enemies
 
     Maladragus
-        HD: 10, AC 16, Atk 19 x2, DMG 12, SHK 4/10, MV 40' Flight, MV' 10' Teleport, ML 10, Inst 4, Skill +4, Save 14
+        HD: 10, AC 16, Atk 19 x2, DMG 12, SHK 4/20, MV 40' Flight, MV' 10' Teleport, ML 10, Inst 4, Skill +4, Save 14
         Lair Action: 3 per round 
             Summon Wrath Hydra  
             Void Nova: Centered on Altar, Will vs 15 or confused 1
@@ -129,10 +129,20 @@ Bowl of Command Water Elemental
 
 Cloak of Displacement
     Attacks agaisnt target have disadvantage, deactivates when taking damage, reactivate on turn for 1 mana.
+    A black cloak with two tenacles
 
 Cap of Water Breathing
     Leather Cap adorned with sea shells. Wearer can breath underwater while wearing the cap.
 
+Gloves of Missile Snaring
+    Once per round can attempt to catch a missile fired at you. When pass defense catch the missle or reduce damage dealt by 1d10 + Dex.
+
+
 Wrath Heart: 24k (larger and more pure than normal)
 Elemental Heart: 1K each (can be used in rituals and crafting to increase force)
 Void Crystal: Value unknown (10k?)
+
+# Treasure Vault
+Picked over, but a side room is hidden by debris. In the side room is a Jug of Alchemy, Glass jug, a vial of clairvoyance, 2 masterwork leather plate
+
+https://5emagic.shop/spellbook/grim-grimoire-of-the-covenant-418524e37
