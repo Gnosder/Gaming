@@ -1071,17 +1071,19 @@ Ability: Swashbuckle
     Spend 1 FP to pull off a daring stunt the likes of which others could scarcely conceive.
     
 #### Magus
-A mage that studied the sword and bonded to it.
+A mage that studied the sword and bonded to it. As per that one magi in the Mummy.
 
 Starting Stamina: 18
 Saves: +3 Fort, +3 Will
-Skills: +2 strike, +2 magic, +2 body
+Skills: +2 strike, +2 magic, +2 magecraft
 Melee Weapon Damage as Magic User except for Bound Weapon
 
 Ability: Bound Blade
     A magus has created a bond to their weapon that transcends the physical and makes it an extention of their own body. A bound blade always does damage as a fighter. The magus can summon and dismiss their bound blade at will. An unsummoned blade merges with the magus' soul until it is summoned.
 Ability: Spell Strike
-    Some spells can be cast as part of an attack and are
+    The magus learns Strike spells that can be cast as part of an attack. Casting a strike spell requires 1 action and does not provoke attacks of opportunity. Strike spells last for 1 minute or unti discharged (typically via a successful strike).
+Ability: Curse Breaker
+    You have advantage to break wards and curses. Further you gain a +2 to strike against targets with mostly magical defenses.
 Ability: Mana Efficiency
     You gain a multiplier to your maximum MP equal to half your level rounded up.
 Ability: Spellcraft
@@ -1089,11 +1091,77 @@ Ability: Spellcraft
 
 
 #### Astrologian
+A starbound mystic
+
+Starting Stamina: 16
+Saves: +4 Will, +1 Fort, +1 Ref
+Skills: +2 cast, +2 Magecraft, +2 Magic
+Melee Weapon Damage as Magic User
+
+Ability: Astrodyne
+    When ever you cast a spell you may draw a card from your celestrial omens deck (typically a tarot deck) which you may play instantly. Otherwise, for the next minute, as an action you can play the drawn card for an effect based on its suit targeting yourself or an ally within 60ft:
+        - Cups: The target gains 1d6 MP
+        - Staves: The target's next spell with force less than your magic costs no MP
+        - Coins: The target gains 1 FP
+        - Swords: The target's next physical attack or skill gains a +2 bonus
+        - Major Arcana: Choose one of the above and cast a spell at force 1 instantly and for free.
+    The deck should be reshuffled when it runs out or after at least an hour, though it can be reshuffled at will.
+Ability: Clarifying Draw
+    Spend 1 action to discard your drawn card to your deck and draw again.
+Ability: Divination
+    You may consult your celestrial omens deck to attempt to divine the future. Ask the deck a question and make a secret magecraft check against a DC set by the GM (based on the question asked and how clear it is). 
+        Critical Success: You get a yes or no response.
+        Success: You get a yes or no response, your divination checks gains a cumlative -1 penalty for the rest of the day.
+        Failure: The cards are unclear, your divination checks gains a cumlative -1 penalty for the rest of the day.
+        Critical Failure: You get a yes or no response that is wrong and do not know you failed, your divination checks gains a cumlative -1 penalty for the rest of the day.
+Ability: Mana Efficiency
+    You gain a multiplier to your maximum MP equal to half your level rounded up.
+Ability: Spellcraft
+    You may learn, prepare, and cast spells on the Astrologian spell list.
+
 #### Druid
-#### Warlock
+
+Ability: Wild Shape
+    You take the shape of a beast with which you are familiar.
+    As an action you shapeshift into a beast gaining its abilities and losing your own unless otherwise specified. Each beast has different stregnths and weaknesses. A few sample beasts are listed here, but most follow the format shown below.
+        You have 3 points to spend:
+        | Ability     | Cost |
+        | :---------- | :--: |
+        | Flying      |      |
+        | Swimming    |      |
+        | Size: Tiny  |      |
+        | Size: Small |      |
+        | Size: Large |      |
+        | Pounce      |      |
+        | Gore        |      |
+        | Tough       |      |
+        | Fast        |      |
+        | Frail       |      |
+        | Weak        |      |
+        | Strong      |      |
+    Wild Shape lasts indefinetly but can be ended at will and ends automatically if you are wounded.
+Ability: Wild Spell
+    You may cast spells while under the effects of wild shape, however they count as 1 force higher without offering any benefits.
+Ability: Druidic Mastery
+    You learn all the spells on the Druid Spell list and learn the Drudic secret language which allows you to commune with beasts and cannot be taught to non-druids.
+Ability: Mana Efficiency
+    You gain a multiplier to your maximum MP equal to half your level rounded up.
+
 #### Reaper
+Hunters of Voidsent
+
+Ability: Avatar of the Void
+    You have bound unto yourself a voidsent which serves you without question. Your avatar is immune to damage and can be commanded to attack a target within 30ft of you and uses your statistics. You may spend 2 actions on your turn to switch places with your avatar.
+    Further, you can have your avatar inhabit your weapon causing it to deal an extra die of damage.
+Ability: Seal Voidsent
+    Any voidsent killed by you is sealed into a crysal which falls to the ground where the voidsent was. Voidsent sealed this way are effectivly dead, but are released if the crystal is ever destroyed.
+Ability: Reap
+    When you kill a living being or destroy an animated corpus you gain temporary stamina equal to its HD.
+Ability: Enshroud
+    Expend all your MP to merge with your avatar. You become insubstantial and gain a fly speed equal to your movement. Enshroud lasts 1 minute per MP spent.
+
 #### Death Knight
-#### Death Warder
+
 #### Paladin
     Combination Fighter and Cleric
 #### Summoner
@@ -1105,6 +1173,7 @@ Ability: Spellcraft
 ### Combat Skills
 
 #### Fight
+Your ability to fight.
 #### Shoot
 #### Cast
 #### Defend
