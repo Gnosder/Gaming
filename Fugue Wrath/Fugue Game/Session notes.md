@@ -247,3 +247,11 @@ Plan:
 7/21
     3 Cloudy
     Evening
+8/2
+    1 Partly Cloudy
+8/5
+    1 Partly Cloudy
+8/19
+    1 Partly Cloudy
+8/26
+    5 (Partly Cloudy)

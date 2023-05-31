@@ -84,7 +84,7 @@ A small cave beneath the falls contains a shimmering portal into a cistern. A Vo
     Light: Well lit by 4 magical orbs on the walls
     The void sent Maladragus has created a funnel it is using to siphon power from the elements in the area.
     Enemies: Maladragus and wrath hydras
-    Loot: Wrath Heart, Void Crystal, Elemental hearts (6),  Gloves of Missile SNaring, Cloak of Displacement
+    Loot: Wrath Heart, Void Crystal, Elemental hearts (6),  Gloves of Missile Snaring, Cloak of Displacement
 
 ### Area 5 - 
     Light: None
@@ -123,9 +123,10 @@ A small cave beneath the falls contains a shimmering portal into a cistern. A Vo
 
 ## Loot
 
-Bowl of Command Water Elemental
+Bowl of Summon Water Elemental
     Once per day summon a water elemental ally of HD equal to your level for 1 hour
     Spend 2 mana summon a HD 1 water elemental for 1 hour
+    Speak with Water Elementals
 
 Cloak of Displacement
     Attacks agaisnt target have disadvantage, deactivates when taking damage, reactivate on turn for 1 mana.
