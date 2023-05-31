@@ -175,6 +175,7 @@ Necromatic Schools
 ## Spell Lists:
 
 ### High Mage
+#### Force 1
     Bolt
     Light
     Friends
@@ -184,6 +185,7 @@ Necromatic Schools
     Minor Illusion
     Prestidigitation
     Unerring Action
+#### Force 2
     Alarm
     Charm
     Spray
@@ -203,7 +205,12 @@ Necromatic Schools
     Arcane Servent
     Floating Disk
     Blast Wave
+#### Force 3
     Fireball*
+
+#### Force 4
+
+#### Force 5
 
 ### Necromancer
     Death Sight
@@ -476,7 +483,7 @@ Force 1:
         Duration: Instant
 
         When learned choose one elemental damage type (Force, Fire, Cold, Lightning, Acid, Necrotic, Radiant), this choice may not be changed, but the spell may be learned multiple times and different elements can be chosen each time.
-        You create a 10ft burst centered on you of the chosen element dealing 1d6 damage on a hit to all targets caught in it and pushing them 10ft away from you. Creatures effected by this spell may make a reflex saving throw for half damage and are not pushed.
+        You create a 10ft burst centered on you of the chosen element dealing 2d6 damage on a hit to all targets caught in it and pushing them 10ft away from you. Creatures effected by this spell may make a reflex saving throw for half damage and are not pushed.
         Higher Forces: At force 3 the damage of this spell increases to 1d10, gains elemental effects, and gains 1d10 damage per force after the third.
 
     Death Sight
@@ -511,6 +518,22 @@ Force 2:
         Higher Forces: Can effect an additional target per force after the second.
     
     Fireball* (working title)
+
+
+    [Name]
+        Force:
+        Range: 
+        Components: 
+        Duration: 
+
+    Fan
+        Force: 1
+        Range: 15ft Cone
+        Components: V,S
+        Duration: Instant
+    When learned choose one elemental damage type (Force, Fire, Cold, Lightning, Acid, Necrotic, Radiant), this choice may not be changed, but the spell may be learned multiple times and different elements can be chosen each time.
+    You expell a thin sheet of the chosen element out of your hands in a 15ft cone before you. The cone does 2d6 damage and is resisted by Reflex.
+    Higher Forces: At force 2 the damage dice becomes d10. At force 3 the spell gains elemental effects and increases by 1d10 damage per force above 2.
 
 ## Disciplines
 

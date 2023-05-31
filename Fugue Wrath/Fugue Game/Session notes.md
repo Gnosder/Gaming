@@ -236,3 +236,14 @@ Rules changes: none
     5 (partly Cloudy)
 7/21
     3 Cloudy
+    Completed Apkallu Falls cistern
+
+# Session 15
+
+Rules: None
+Pregame:
+Plan:
+
+7/21
+    3 Cloudy
+    Evening
