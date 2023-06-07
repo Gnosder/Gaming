@@ -208,7 +208,7 @@ Vehicles like carts and wagons need to be pulled by a creature and increase its 
 | Item                      | Price         | Time             |
 | ------------------------- | ------------- | ---------------- |
 | Skill 0 -> 1              | 250sp         | 3 Days           |
-| Skill 1 -> 3              | 1000sp        | 8 Days           |
+| Skill 1 -> 4              | 1000sp        | 8 Days           |
 | Skill 4+                  | 1500sp        | 14 days          |
 | Language                  | 300sp         | 22 days          |
 | Retrain Class             | Level x 500sp | 4 days per level |

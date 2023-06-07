@@ -255,3 +255,14 @@ Plan:
     1 Partly Cloudy
 8/26
     5 (Partly Cloudy)
+
+# Session 16
+
+Rules: None
+Pregame: At the capital city. Robbing Graves. Two questions: How do you get into the Coils of Hightower? Where are the books you removed from the library? Is it guarded or protected? 
+Plan: Plans exsist?
+To Do: Create Timeline
+
+8/27
+    5 (Partly Cloudy)
+    In the capital of Gaxton, with bones of Rolf. Meet with Murler.
