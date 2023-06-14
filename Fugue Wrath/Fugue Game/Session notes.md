@@ -266,3 +266,8 @@ To Do: Create Timeline
 8/27
     5 (Partly Cloudy)
     In the capital of Gaxton, with bones of Rolf. Meet with Murler.
+
+# Sesson 17
+
+Rules: None, but looking at Cypher-like
+Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his containment shrank when the moon fell and was damaged which is allowing the wrath to leak out of him. Getting into the coils will take an Allagan key which can be found in Mach or Azys Lla; which has been slowly floating over to the mountain and is currently high above the Black Shroud)

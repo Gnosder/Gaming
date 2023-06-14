@@ -13,3 +13,5 @@ If a creature has to make a check or saving throw, and should be good at the rol
 """
 
 Ran the start of Horde of the Dragon Queen, ended right outside the mill.
+
+Quick XP
