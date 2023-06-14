@@ -267,7 +267,34 @@ To Do: Create Timeline
     5 (Partly Cloudy)
     In the capital of Gaxton, with bones of Rolf. Meet with Murler.
 
+Post Session: Mot went to school, tried to steal book -- didn't work, Mot is member of mage circle. Learned about Coils of Hightower. Spoke with Rolf's ghost.
+
+Bruccia Nerva - First Saint of High Tower
+Hegio Livigneus - Former High Mage of Hightower and Speaker of the Circle. Killed after a coup against King Rolf
+Callum Watson - Current Speaker and Hegio's apprentice
+
+Jude Riley - 
+Brandon Wood -
+Ryan Pierce - 
+
 # Sesson 17
 
 Rules: None, but looking at Cypher-like
-Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his containment shrank when the moon fell and was damaged which is allowing the wrath to leak out of him. Getting into the coils will take an Allagan key which can be found in Mach or Azys Lla; which has been slowly floating over to the mountain and is currently high above the Black Shroud)
+Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his containment shrank when the moon fell and was damaged which is allowing the wrath to leak out of him. Getting into the coils will take an Allagan key which can be found in Mach or Azys Lla; which has been slowly floating over to the mountain and is currently high above the Black Shroud).
+
+8/27
+    3 (Cloudy, minor)
+    Started at Murler's Estate.
+
+
+    Loot:
+        Bag of Holding (II) (5000 gp)
+        Light Mace (Small) (+1 weapon) (2305 gp)
+        Ring of Evasion (25000 gp)
+        Ring of Protection (+1) (2000 gp)
+        Ring of X-ray Vision (25000 gp)
+        Scimitar (Medium) (+1 weapon) (sheds light) (2315 gp)
+        Wand of Charm Person
+        Wand of Color Spray
+        Wand of Darkness
+        Wand of Silence

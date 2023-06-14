@@ -16,7 +16,9 @@ Dreams of Amdapor
 Allagns in the Sky
     Breadcrumbs/signposts: Hightower control room pointing to floating insallation
     The floating lab of Izis Lla has been  trying to establish a connection with Dalamur since it was destroyed. It is floating high above the black shroud. It was researching containing Eikons (Dalamur was the product of that research) and holds the key to the Coils.
-
 Wrath of the Tower
     Hive are assaulting the Hollowed Bastion and also marching on Gaxton. Izis Lla is in standby as it cannot make contact with Dalamur Prison. Diablos is imprissoned in Amdapor but wants to devour the Shdowqueen Queen, Scathach, and usurp her.
     In amdapor Diablos will be freed, either by PCs or Hive.
+
+Book of Hegio Livigenus
+    A history of Hegio Livigenus, High Mage of Hightower and Speaker of the Circle. Killed after a coup against King Rolf who he helped. Sealed Bruccia Nerva's tomb and hid the "profane" books of Hightower. The tomb has a command node for the coil.
