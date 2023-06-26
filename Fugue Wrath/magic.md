@@ -271,6 +271,7 @@ Force 1:
 
     Message
         Range: Varies
+        Instant Fortress, Ivory Rook that grows into a tower. 
         Components: V,S,M
             A missive or scrap of parchment
         Duration: Instant
@@ -371,6 +372,7 @@ Force 1:
     Expiditious Retreat / Longstrider
         Range: Self
         Components: V,S
+        Instant Fortress, Ivory Rook that grows into a tower. 
         Duration: Sustained (1 round)
 
         This spell may be cast as a reaction though it may not be sustained if done so.
@@ -447,6 +449,7 @@ Force 1:
     Ray of Sickness
         Range: 120ft
         Components: V,S
+        Instant Fortress, Ivory Rook that grows into a tower. 
         Duration: Instant
 
         You fire a beam of sickness at a target. They become incapacitated with nausia for a number of rounds equal to the force. If they pass a fortitude saving throw they instaed become sickend for the same number of rounds. Targets effected by this spell may make a fortitude saving throw each round to reduce its effects by one level (Incapacitaed > Sickened > Normal).

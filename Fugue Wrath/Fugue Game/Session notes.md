@@ -298,3 +298,15 @@ Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his cont
         Wand of Color Spray
         Wand of Darkness
         Wand of Silence
+
+# Session 18
+    Corvax has an Allagan Drone (Ghost).
+    9/2
+        5 Cloudy
+    9/5
+        7 Partly Cloudy
+        Ivory Rook that can create a safe space to rest. Pocket Diminsion. 1 Use per day or so.
+        Went towards Amdapor Keep arrive on or after 9/12
+    9/6
+        Assassin vine, destroyed by mot (violently)
+        Skeletal Wolves defeated
