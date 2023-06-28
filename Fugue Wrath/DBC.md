@@ -117,30 +117,30 @@ All jobs have 6 tiers. At each tier they gain a number of abilities (4,2,3,2,3,2
 
 ### Bard
 #### T1
-    Burst Shot - Speed 1, If the attack hits may make a second attack that deals 1 less damage.
+    Burst Shot - Speed 1, If the attack hits may make a second attack that deals 2 less damage.
     Adders's Ballard - Speed 2, Deal damage and increase all allied damage by 1 for 1 round.
     Battle Voice - Will 4, Ease all allies attack actions for 3 rounds.
-    Inspiring Refrain - Will 1, Grant an ally an asset on their next action.
+    Inspiring Refrain - Int 1, Grant an ally an asset on their next action.
 #### T2
-    Barrage - Speed 2, Make 3 attacks against a target that do one less damage each.
-    Nature's Minnie - All recovery rolls that take place near a Bard gain +2.
+    Archer's Prowess - Trained in medium ranged weapons. Enabler.
+    Nature's Minnie - All resting recovery rolls that take place near a Bard gain +2.
 #### T3
-    Adder's Bite - Speed 2, Make a normal attack, on a hit the target is envenomed.
-    Warden's Paean - Will 2, Cure an ally of 1 enfeeblement.
-    Radiant Finale - When an enemy is defeated you may spend 2 speed to grant an ally an action.
+    Adder's Bite - Speed 2, Make a normal attack, on a hit the target is envenomed taking a -3 penalty to their attacks and defense.
+    Applying Your Knowledge: When you help another character undertake any action that you’re untrained in, you are treated as if you are trained in it. Action. 
+    Radiant Finale - Once per round, When an enemy is defeated you may spend 4 speed to grant an ally an action.
 
 ### Machinist
 #### T1
     Crossbow Turret - Will 3, Deploy an automated crossbow turret that can attack a target of your choice. Lasts for 3 rounds.
-    Gauss Round - Speed 2, the attack deals damage as though the target's armor was 2 less.
+    Marksman - You are trained in medium ranged weapons
     Pinning Shot - Speed 2, If the attack hits the target is immobalized. 
     Wildfire - Speed 3, throw an alchemically unstable mixture that bursts into sticky flames when it stikes a hard surface.
 #### T2
-    Battle Tinker - Will 2, rapidly engineer a prototype cypher. The cypher has an effect you choose, but a drawback chosen by the GM. The cypher only lasts until it is used once or for 1 minute.
+    Cypher Tinker - Will 2, rapidly engineer a prototype cypher. The cypher has an effect you choose, but a drawback chosen by the GM. The cypher only lasts until it is used once or for 1 minute.
     B.O.S.T.E.R. (Bo's Original Self Taught Engineering Robot) - A small mechano-magical drone that grants an asset to any check it could aid with.
 #### T3
-    Hypercharge - Will 3, when you use a cypher, increase it's effect by 50%.
-    Queen Drive - Will 4+, BOSTER enters a combat form for 2 rounds plus 1 for any extra Will expended. It makes attacks with a light weapon each round that it is trained in. BOSTER can only enter queen drive once ever 10 minutes.
+    Expert Crafter - 
+    Queen Drive - Will 4+, BOSTER enters a combat form for 2 rounds plus 1 for any extra Will expended. It makes attacks with a light weapon each round that it is trained in. BOSTER can only enter queen drive once ever 10 minutes. Armor 1, trained in defense, 8 HP
     Flame Thrower - Speed 4, Make a heavy weapon attack against all enemies within close range.
 
 ### Warrior
@@ -160,14 +160,13 @@ All jobs have 6 tiers. At each tier they gain a number of abilities (4,2,3,2,3,2
 
 ### Black Mage
 #### T1
-    Writ of the Black - Learn 3 spells of the black mage spell list
+    Writ of the Black - Learn 3 spells of the black mage spell list, prepare 3 spells
     Codex of Destruction -  Gain the ability to learn rituals and improvise risky spells.
     Ley Lines - Will 4, Connect to a nature ley line to create circle of power. The circle lasts for 1 minute. While inside the circle your effort increases by 1 and your Will edge increases by 2.
     Lucid Dreaming - If your will is below 50% your recover twice as much will from recovery rolls.
 #### T2
-    Manafont - Gain 1 extra recovery roll each day that can only be used to recover Will. This recovery takes 10 minutes.
+    Spells - Prepare 4 spells
     Enochian - You know Enochian, the language of angels and devils that spells ruin for those that hear it. Whenever you cast a spell you may speak Enochian which increases the spells potency by 1. However when you speak Enochian all creatures within long range can clearly hear you and understand, at least at a base level, what you are doing and to whom.
 #### T3
+    Spells - prepare 5 spells
     Aetherial Manipulation - Will 2, target an ally within long range and dash to their side. During the dash your form coalesses into an Aetherial mote. This does not provoke attacks of opportunity or be interrupted, however your movement can be seen. This may be done as a reaction as part of a speed defense.
-    Paradox Reversal - Will 2, When you generate paradox you may instead impose its negative effect on a target within range. If the target is unwilling you must make an attack roll against it. If you fail you suffer the effects as normal.
-    Sharpcast - Will 2, Elemental effects of spells trigger regardless of the number rolled by the die.
