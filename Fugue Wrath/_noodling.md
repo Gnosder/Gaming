@@ -1198,9 +1198,12 @@ Your ability to fight.
 ### Passive Skills
 
 #### Carry
+    +1 bulk per point
 #### Body
+    +2 Stamina per point
 #### Magic
 #### Faith
+    +1 fate per point
 #### Socialize
 
 ## Feats and Abilities

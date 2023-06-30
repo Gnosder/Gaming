@@ -49,12 +49,14 @@ Keep of Amdapor
 
     Site 1 - the Ruins of Amdapor
     Once a city, now a swamp. Even finding the city is no easy feat as it is hidden by the Elementals of the Twelveswood. However with the blessing of Kan-E-Senna the heroes are able to penetrate the protective glamor and find the city.
-    Hazards - Wrath Touched plants Ochu and Morbol
-    A large area, but dominated by a central tower. The ruins shows evidence of disipation as the magic that built them is being consumed. Wrath touched plants cluster around a hole in the tower, feeding on the magical energy that leaks out.
+    Hazards - Wrath Touched plants Ochu (4) and Morbol (6)
+    A large area, but dominated by a central tower. The ruins shows evidence of disipation as the magic that built them is being consumed. Wrath touched plants cluster around a hole in the tower, feeding on the magical energy that leaks out. 
+    
     Site 2 - Into the Keep
     Hazards - Voidsent (Ooze, Gargoyle)
         Boss - Ferdiad
     In the entryway of the Keep, before the sanctum, the Voidsent Ferdiad is attempting to corrupt the guardian. He summons 2 waves of voidsent before entering battle himself. He does not allow himself to be killed, instead he allows the heroes to think him dead and the wards on the sanctum broken.
+
     Site 3 - The Sanctum of the White
     Boss - Guardian
     The guardian rises to defend the Sanctum against intruders. Ferdiad weakened him, but was not willing to engage him fully. When the guardian is defeated the wards fully break and Diablos is released who empowers the fallen guardian, reviving it to buy him time to escape.

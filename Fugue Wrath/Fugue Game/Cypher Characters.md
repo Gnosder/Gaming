@@ -202,29 +202,100 @@ Equipment
 
 # Bob, Mighty Stalwart and Warrior of the Inner Beast
 Tier 3b
-Effort 
+Effort 3
 XP 14750
-Might
-Speed
-Intelligence
-Armor
+Might 24/3
+Speed 12/0
+Intelligence 10/0
+Armor 4
 Skills
+    Light, Medium, Heavy Melee Weapon +3
+    Breaking inanimate object +3
+    Jumping +3
+    Climbing +3
+    Perception +3
+    Swimming +3
+
 Abilities
-Cyphers and Materia
+    - Practiced in Armor: You can wear armor for long periods of time without tiring and can compensate for slowed reactions from wearing armor. You reduce the Speed cost for wearing armor by 1. You start the game with a type of armor of your choice. Enabler. 
+    - Successive Attack- 2 speed, If you take down a foe, you can immediately make another attack on that same turn against a new foe within your reach. The second attack is part of the same action. You can use this ability with melee attacks and ranged attacks. Enabler. 
+    - Experienced in Armor: The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed cost by 2. Enabler. 
+    - Berserk - Might 2, your attack deals damage as though you rolled an 18 (+2 damage).
+    - Thrill of Battle - Your might edge increases by 1 for each round you are in combat after the first.
+    - Armor of Scars - You gain +1 armor. Eabler.
+    - Storm's Eye - Might 2, make an attack and if it hits your attacks deal an extra 1 damage for 4 rounds.
+    - Weapon Master - You are trained in all melee weapons. Enabler.
+    - Onslaught - Speed 2 - Charge a target within range and make an attack against them.
+    - Holmgang - Int 4, for the next 3 rounds your might and speed may not be reduced below 1. You may not spend might or speed if doing so would reduce you below 1.
+    - Fell Cleave - Might 6, when you roll a natural 19 or 20 you may make a bonus attack with 2 free levels of effort.
+    - Nasent FLash - Int 2, for the next round any time you deal damage to a target you gain might equal to the damage delt.
+
+Cyphers and Materia (3)
+    - Expert Onslaught (Materia) - Expend a level of effort to make a second attack on the target of your charge.
+    - Whetstone of Banishing - Level 1, For the next day, each time the user strikes a solid creature or object, it generates a burst of energy that teleports the creature or object an immediate distance in a random direction (not up or down). The teleported creature’s actions (including defense) are hindered on its next turn.
+
 Equipment
+    Masterwork Ironwood Heavy Armor
+    Great Sword (6 damage)
+    MW Mace (+1 to hit, 4 damage)
+    Shield (+1 armor)
+    X-Ray Ring
+
 
 # Gene, Hardy Stalwart and Paladin of the Elemental Chorus
 Tier 3c
 Effort 3
 XP 20254
-Might
-Speed
-Intelligence
-Armor
+Might 24/2
+Speed 12/1
+Intelligence 20/1
+Armor 3 (4)
 Skills
+    Might Defense +3
+    Intellect Defense +3
+    Speed Defense +3
+    Moving, breaking, or bending -3
+    Knowledge or figuring out -3
+    Carrying +3
+    Medicine +3
+    Perception +3
+
 Abilities
+    - Resistant: +2 to your Might Pool, and +2 to your Intellect Pool.
+    - Recover: You can make an extra recovery roll each day. This roll is just one action. So you can make two recovery rolls that each take one action, one roll that takes ten minutes, a fourth roll that takes one hour, and a fifth roll that requires ten hours of rest.
+    - Skill: You are trained in Might defense tasks.
+    - Skill: You are trained in Intellect defense tasks.
+    - Inability: You’re hardy but not necessarily strong. Any task involving moving, bending, or breaking things is hindered.
+    - Inability: You have a lot of willpower and mental fortitude, but you’re not necessarily smart. Any task involving knowledge or figuring out problems or puzzles is hindered.
+    - Cover - (Might 2) If the targeted ally is in range and takes damage you may take that damage instead. Reaction.
+    - Smite - (Might 4) You imbue your weapon with Light that can penetrate any armor. You attacks ignores armor. If a target is vulnerable to light they take x4 damage instead of x2. The weapon remains imbued until it strikes a target or for 1 minute. Action.
+    - Sheltron - (Intellect 2) your armor is increased by 2 for 1 round, each level of effort increases this by 2. Reaction.
+    - Iron Will - When you strike a target that target is marked for 1 round.
+    - Lay on Hands - (Intellect 6) If a target is below half their total might or speed, they regain all their lost might or speed. Intellect cost increases by 2 each time it is used in a day.
+    - Consecration - (Intellect 2) you bless the ground beneath you. For the next minute all allies standing on consecrated ground gain +1 armor and all enemies are marked by you.
+    - Judgement - (Might 1) you hurl a hammer of divine light at a target. Make a light attack within long range. That target is marked by your for 3 rounds. While marked this way you can sense the target within 60ft even if it has cover or concealment. Only one target can be marked like this at a time. Action
+    - Retribution - When an ally in close range of you is reduced to 0 in a single pool you may spend 2 Might to gain an action. Enabler.
+    - Blessing of Freedom - (Intellect 2) A target you can see may move through difficult terrain as though it were not for one round. Further an immobalized or grappled target is no longer immobalized or grappled. Action.
+    - Improved Edge - Choose one of your Edge stats that is 0. It increases to 1. Enabler
+    - Skill With Defense - Choose one type of defense task in which you are not already trained: Might, Speed, or Intellect. You are trained in defense tasks of that type. Enabler. 
+    - Vigilance - (2 Intellect points): You take a cautious approach to combat, focusing more on protecting yourself than on hurting your opponents. While this ability is active, you gain an asset on Speed defense rolls against melee and ranged attacks, and your melee and ranged attacks are hindered. This effect lasts for as long as you wish, but it ends if no combat is taking place within range of your senses. Action to initiate. 
+
 Cyphers and Materia
+    Die-hard (materia) - Increase all pools by 2 and all recovery rolls by 2.
+    Scabbard of Disruption - Level 6, For the next day, each time the user strikes a solid creature or object, the attack generates a burst of disrupting light that assaults a target's life force. The target takes 1 additional point of damage. If the target’s level is less than 6, it loses its next action; otherwise its next action is hindered.
+
 Equipment
+    +1 Scimitar
+    Shield
+    Masterwork Ironwood Full Plate
+    Heavy Repeating Crossbow
+    Gloves of Missle Catching
+    Cap of Water Breathing
+    Falcon Familiar Ring
+    Bowl of Command Water Elemental
+    Wrath Braclet
+    Elemental Sigil
+    Water Elemental Gem
 
 # Spells
 ## Combat

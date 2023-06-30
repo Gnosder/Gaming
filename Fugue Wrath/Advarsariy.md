@@ -107,3 +107,24 @@ NOTE: Fire ignites targets and void causes confusion (20% chance to lost turn)
 ### Elementals
 
 #### Enraged Elementals
+
+
+
+# Cypher Enemies
+
+Morbol
+Ochu
+Voidsent Ooze
+Voidsent Gargoyle
+Ferdiad
+Amdapor Guardian
+Corrupted Amdapor Guardian
+Void Rays
+Cuchulain
+Enchidna
+Arachne Eve
+Ozma
+Califisteri
+Ferdiad
+Scathatch
+Diablos

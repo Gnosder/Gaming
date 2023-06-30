@@ -147,16 +147,16 @@ All jobs have 6 tiers. At each tier they gain a number of abilities (4,2,3,2,3,2
 #### T1
     Berserk - Might 2, your next attack deals damage as though you rolled an 18 (+2 damage).
     Thrill of Battle - Your might edge increases by 1 for each round you are in combat after the first.
-    Armor of Scars - You gain +1 armor.
+    Armor of Scars - You gain +1 armor. Eabler.
     Storm's Eye - Might 2, make an attack and if it hits your attacks deal an extra 1 damage for 4 rounds.
 
 #### T2
-    Onslaught - Might 2, Charge a target and make 2 attacks against them.
-    Vengence - Might 3, When you take damage you can make an attack against the creature that attacked you.
+    Weapon Master - You are trained in all melee weapons. Enabler.
+    Onslaught - Speed 2 - Charge a target within range and make an attack against them.
 #### T3
-    Holmgang - Will 4, for the next 3 rounds your might and speed may not be reduced below 1.
+    Holmgang - Int 4, for the next 3 rounds your might and speed may not be reduced below 1. You may not spend might or speed if doing so would reduce you below 1.
     Fell Cleave - Might 6, when you roll a natural 19 or 20 you may make a bonus attack with 2 free levels of effort.
-    Nasent FLash - Will 2, for the next round any time you deal damage to a target you gain might equal to the damage delt.
+    Nasent FLash - Int 2, for the next round any time you deal damage to a target you gain might equal to the damage delt.
 
 ### Black Mage
 #### T1
