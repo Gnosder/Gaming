@@ -30,3 +30,6 @@ Masterful Expertise: When using FP to reroll a failed non-combat skill check the
 
 Hide in Plain Sight: Can attempt to hide even if there is nothing around to hide in.
 
+XX
+
+XX

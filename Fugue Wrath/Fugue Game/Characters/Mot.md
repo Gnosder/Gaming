@@ -24,13 +24,13 @@ Mana: 41
 
 ## Abilities
 
-Mana Efficiency: You gain a multiplier to your maximum MP equal to half your level rounded up.
+Mana Efficiency: You gain a multiplier to your maximum MP equal to half your level rounded up. Further whenever you rest you may recover 1d6 + Magic mana. Enabler.
 
-Ley Lines: Spend 4 mana to connect to a natural ley line and create circle of power at your location. The circle lasts for 1 minute. While inside the circle you gain +2 to cast and spells cost 1 less mana. (2 actions)
+Ley Lines: Spend 5 mana to connect to a natural ley line and create circle of power at your location. The circle lasts for 1 minute. While inside the circle spells you cast may be augmented once for free. (2 actions)
 
-Lucid Dreaming - If your mana is below 50% you recover twice as much mana from recovery rolls.
+Lucid Dreaming - If your mana is below 50% you recover twice as much mana from recovery rolls. Enabler.
 
-Enochian - You know Enochian, the language of angels and devils that spells ruin for those that hear it. Whenever you cast a spell you may speak Enochian which increases the spell's effcet by 1 level. However when you speak Enochian all creatures within long range can clearly hear you and understand, at least at a base level, what you are doing and to whom.
+Enochian (e-noh-ke-en) - You know Enochian, the language of angels and devils that spells ruin for those that hear it. Once per rest, when you cast a spell you may speak Enochian which augments the spell once for free. However when you speak Enochian all creatures within long range can clearly hear you and understand, at least at a base level, what you are doing and to whom. Action.
 
 ## Spells
 

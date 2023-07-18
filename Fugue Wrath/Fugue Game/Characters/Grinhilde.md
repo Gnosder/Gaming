@@ -24,13 +24,17 @@ Mana: 28
 
 ## Abilities
 
-Mana Efficiency: You gain a multiplier to your maximum MP equal to half your level rounded up.
+Mana Efficiency: You gain a multiplier to your maximum MP equal to half your level rounded up. Further whenever you rest you may recover 1d6 + Magic mana. Enabler.
 
-Ossified Will: Necromanctic constructs you create and control retain a shard of your knowledge. They are considered intelligent constructs instead of brute constructs.
+Ossified Will: Necromanctic constructs you create and control retain a shard of your knowledge. They are considered intelligent constructs instead of brute constructs. Enabler.
 
-Healing Touch: Touch a creature to heal 2d6 stamina, this cannot take a creature above half their maximum stamina (you can spend 3 mana to ignore this restriction).
+Healing Touch: Touch a creature to heal 2d6 stamina, this cannot take a creature above half their maximum stamina (you can spend 3 mana to ignore this restriction). Action.
 
-Bad Touch: Touch a creature to deal 4 Shadow damage to them. Ignoring armor.
+Bad Touch: Touch a creature to deal 4 Shadow damage to them. Ignoring armor. Can be augmented like a spell. Action.
+
+Spells: You can learn and cast spells. Spells you learn are stored in a grimoire, tome, or necromantic vessel. 
+    Prepre: Each day you can prepare a number of spells equal to double your magic.  Some spells count as more than one when preparing them (these spells are typically versitile and/or custumizable).
+    Cast: You may cast prepared spells by using 2 actions and expending the required amount of mana to do so. Rituals may be cast as such and do not need to be prepared, although your grimoire must be at hand. Most spells can be augmentd to increase their potency at the cost of more mana. Some spells allow augments to their base charatistics or more.
 
 ## Spells
 

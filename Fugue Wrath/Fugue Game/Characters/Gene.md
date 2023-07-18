@@ -24,12 +24,12 @@ Mana: 15
 
 ## Abilities
 
-Challenge: Spend an action to challenge a target. The challenged target takes -4 on all attacks that do not target you. The target remains challenged until you use this ability again. Only one target can be challenged at a time.
+Challenge: Spend an action to challenge a target. The challenged target takes -4 on all attacks that do not target you. The target remains challenged until you use this ability again. Only one target can be challenged at a time. Action.
 
-Die Hard: Ignore wound penalties. Spend 3 mana to turn a critical attack against you into a normal attack.
+Die Hard: Ignore wound penalties. Spend 3 mana to turn a critical attack against you into a normal attack. Enabler / Reaction.
 
-Killing Blow: Deal 1/2 your level (rounded up) extra damage on melee attacks.
+Killing Blow: Deal 1/2 your level (rounded up) extra damage on melee attacks. Enabler.
 
-Lay on Hands: Spend 10 mana and touch a target to instantly restore them to full stamina.
+Lay on Hands: Spend 10 mana and touch a target to instantly restore them to full stamina. Action.
 
-Smite: Spend 3 mana to empower your melee weapon with Light. Until it strikes a target or for 1 minute it deals +2 damage and ignores armor. Smite deals an extra x2 damage against targets vulnerable to Light.
+Smite: Spend 3 mana to empower your melee weapon with Light. Until it strikes a target or for 1 minute it deals +2 damage and ignores armor. Smite deals an extra x2 damage against targets vulnerable to Light. Action.
