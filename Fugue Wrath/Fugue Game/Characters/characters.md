@@ -228,6 +228,40 @@ Spells cost mana equal according to their force to cast. The cost is shown in th
     |   9   |  13  |
 Spells can be augmented as stated in the spell text. Damage spells do a extra damage per force (multiply base damage by force).
 
+### Spell List
+Alarm
+Animate Objects
+Arcane Eye
+Arcane Lock
+Blade Ward
+Bolt, Acid
+Bolt, Spirit
+Clairvoyance
+Cloud Kill
+Comprehend Languages
+Cone of Cold
+Cure Wounds
+Dancing Lights
+Dark Vision
+Diguise Self
+Dispel Magic
+False Life
+Fireball
+Friend
+Knock
+Light
+Locate Object
+Mending
+Minor Illusion
+Prestidigitation
+Read Magic
+Speak with Dead
+Spider Climb
+Summon Skeleton
+Telekinesis
+Web
+
+
 # Lola
 
 ## Stats
