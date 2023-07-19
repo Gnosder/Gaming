@@ -214,54 +214,6 @@ Spells: You can learn and cast spells. Spells you learn are stored in a grimoire
 
 ## Spells
 
-Spells cost mana equal according to their force to cast. The cost is shown in the table below.
-    | Force | Cost |
-    | :---: | :--: |
-    |   1   |  2   |
-    |   2   |  3   |
-    |   3   |  5   |
-    |   4   |  6   |
-    |   5   |  7   |
-    |   6   |  9   |
-    |   7   |  10  |
-    |   8   |  11  |
-    |   9   |  13  |
-Spells can be augmented as stated in the spell text. Damage spells do a extra damage per force (multiply base damage by force).
-
-### Spell List
-Alarm
-Animate Objects
-Arcane Eye
-Arcane Lock
-Blade Ward
-Bolt, Acid
-Bolt, Spirit
-Clairvoyance
-Cloud Kill
-Comprehend Languages
-Cone of Cold
-Cure Wounds
-Dancing Lights
-Dark Vision
-Diguise Self
-Dispel Magic
-False Life
-Fireball
-Friend
-Knock
-Light
-Locate Object
-Mending
-Minor Illusion
-Prestidigitation
-Read Magic
-Speak with Dead
-Spider Climb
-Summon Skeleton
-Telekinesis
-Web
-
-
 # Lola
 
 ## Stats
@@ -337,16 +289,35 @@ Enochian (e-noh-ke-en) - You know Enochian, the language of angels and devils th
 
 ## Spells
 
-Spells cost mana equal according to their force to cast. The cost is shown in the table below.
-    | Force | Cost |
-    | :---: | :--: |
-    |   1   |  2   |
-    |   2   |  3   |
-    |   3   |  5   |
-    |   4   |  6   |
-    |   5   |  7   |
-    |   6   |  9   |
-    |   7   |  10  |
-    |   8   |  11  |
-    |   9   |  13  |
-Spells can be augmented as stated in the spell text. Damage spells do a extra damage per force (multiply base damage by force).
+### Spell List
+Alarm
+Animate Objects
+Arcane Eye
+Arcane Lock
+Blade Ward
+Bolt, Acid
+Bolt, Spirit
+Clairvoyance
+Cloud Kill
+Comprehend Languages
+Cone of Cold
+Cure Wounds
+Dancing Lights
+Dark Vision
+Diguise Self
+Dispel Magic
+False Life
+Fireball
+Friend
+Knock
+Light
+Locate Object
+Mending
+Minor Illusion
+Prestidigitation
+Read Magic
+Speak with Dead
+Spider Climb
+Summon Skeleton
+Telekinesis
+Web
