@@ -51,7 +51,7 @@ Keep of Amdapor
     Once a city, now a swamp. Even finding the city is no easy feat as it is hidden by the Elementals of the Twelveswood. However with the blessing of Kan-E-Senna the heroes are able to penetrate the protective glamor and find the city.
     Hazards - Wrath Touched plants Ochu (4) and Morbol (6)
     A large area, but dominated by a central tower. The ruins shows evidence of disipation as the magic that built them is being consumed. Wrath touched plants cluster around a hole in the tower, feeding on the magical energy that leaks out. 
-    
+
     Site 2 - Into the Keep
     Hazards - Voidsent (Ooze, Gargoyle)
         Boss - Ferdiad
@@ -61,6 +61,7 @@ Keep of Amdapor
     Boss - Guardian
     The guardian rises to defend the Sanctum against intruders. Ferdiad weakened him, but was not willing to engage him fully. When the guardian is defeated the wards fully break and Diablos is released who empowers the fallen guardian, reviving it to buy him time to escape.
     Though Diablos escaped with the Key, the Sanctum still holds many treasures of great value. Total Value around 8k each character.
+    Loot: 6k
 
 The Void Ark
     Diablos entered the Void Ark and began to free the imprissoned Voidsent to weaken the wards and open the way to Scathach.
@@ -74,6 +75,7 @@ The Void Ark
     Site 3 - Sepulcure of the Shadow Queen
         Boss - Echidna
     Loot: 8k each
+
 Mach
     With Scathach's coffin in his grasp Diablos flees to Dun Scaith, however Cait Sith directs the heroes to Mach to find the Nullstone, an artifact that could destroy and thus control voidsent.
     Site 1 - Peat Bogs
@@ -92,6 +94,10 @@ Dun Scaith
     Site 3 - The Spire of Mach
         Boss - Diablos Hallow
     Loot: 12k each
+
+Azis Lla
+    Aetheric Chemical Research Plant. Tiamat trapped. Warring Triad? Nah. Hive assault.
+
 
 
 This act ends when they aquire a key that can open the coils.

@@ -308,5 +308,17 @@ Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his cont
         Ivory Rook that can create a safe space to rest. Pocket Diminsion. 1 Use per day or so.
         Went towards Amdapor Keep arrive on or after 9/12
     9/6
+        4 Partly Cloudy (w/rain)
         Assassin vine, destroyed by mot (violently)
         Skeletal Wolves defeated
+    9/10
+        4 Partly Cloudy (w/rain)
+    9/11
+    9/12
+        14 Bright Sun
+        Arrived in Amdapor
+        Killed Morbol, took sleep in chess peice.
+    9/13
+        6 Partly Cloudy w/rain
+    9/20/1190
+        Arrive at Frayed mountain
