@@ -32,4 +32,4 @@ Killing Blow: Deal 1/2 your level (rounded up) extra damage on melee attacks. En
 
 Lay on Hands: Spend 10 mana and touch a target to instantly restore them to full stamina. Action.
 
-Smite: Spend 3 mana to empower your melee weapon with Light. Until it strikes a target or for 1 minute it deals +2 damage and ignores armor. Smite deals an extra x2 damage against targets vulnerable to Light. Action.
+Smite: Spend 3 mana to empower your melee weapon with Light, make an attack. Until it strikes a target or for 1 minute it deals +2 damage and ignores armor. Smite deals an extra x2 damage against targets vulnerable to Light. Action.

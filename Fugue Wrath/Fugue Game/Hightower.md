@@ -101,7 +101,7 @@ Azis Lla
 
     The hive assault Azys Lla attempting to aquire the key to the Coils.
         Thrall - L1 (minion)
-        Acolyte - L2 (minio)
+        Acolyte - L2 (minion)
         Knight - L4
         Wizard - L8
         Ogre - L6

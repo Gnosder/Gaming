@@ -29,7 +29,7 @@ Quick Learner: If you have no points in a non-combat skill, your first point spe
 
 Masterful Expertise: When using FP to reroll a failed non-combat skill check the FP is not spent if the second roll succeeds. Enabler.
 
-Inspiring Refrain - Spend 1 mana to grant an ally +2 on their next action, if they spend an FP this bonus increases to +4. Action.
+Inspiring Refrain - Spend 1 mana to grant an ally +2 on their next action, if they spend an FP this bonus increases to +4. Action. Reaction.
 
 Radiant Finale - Once per round, When an enemy is defeated you may spend 5 mana to grant an ally an action. Reaction.
 
