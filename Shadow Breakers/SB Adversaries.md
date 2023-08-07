@@ -1,0 +1,1 @@
+Adversaries and hazards
