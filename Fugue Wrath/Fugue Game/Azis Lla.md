@@ -42,3 +42,43 @@ The islands hold a number of experiments that have bred true in the past ages. T
 
 See Map "1 Aetheric Chemical Research Plant"
 
+Dungeon Tags: Sterile, Allagan Tech, Cloning 
+
+Room by room
+
+1 - Entry
+2 - Display Tubes
+3 - Laboratory w/ Hive Spore
+4 - Laborartoy Specimen Security Check
+5 - Cloning Banks 1
+6 - Cloning Banks 2
+    Encounter Tempered
+    Tempered - L3, 6 cultists break free from their stasis.
+        HP 9, Att 15, dmg 4 / 6
+    Loot:
+    (Weapons found on Clones)
+    Rifle of the Myriad (rifle, +2 auto-loading, can expend 3 MP to make an attack against upto 4 targets)
+    Sword of Victory (found on cultists around Zurvan; +2 Vorpal Broadsword)
+7 - Laboratory Mechanical and Maintenence
+8 - Laboratory Control Room
+    After power restored, can access data bank so long as power lasts. If Zurvan is defeated the emergency power will last 3 days.
+9 - Eikon Battery
+    Encounter Zurvan, the Demon
+    Zurvan L10 - (Eikon of Eternal Victory)
+        HP 0/20/30, Att 20, dmg 6 Biting Halberd / 8 Flare Star / 16 Tyrfing (att, att, Fira)
+    Tempered Cultists L3 (2 at a time)
+    Phase 1: Trapped, spawns adds
+    Four cultists, 2 at a time, break free from their stasis prisons around the arena. At init 1, Zurvan makes a biting halberd attack. Each time a cultist dies, he summons a Flare Star above a random enemy that falls on that cultists next turn.
+    Phase 2: Limit Break
+    When the cultists are dead Zurvan breaks his chains and begins charging a powerful attack. The attack will do 2 damage per round he is allowed to charge.
+    Phase 3: The Demon Unleashed
+    Zurvan is free and attempts to kill. He can use Tyrfing once every 3 rounds; he targets a player and at init 0 he attacks them, tauting or marking him switches target. Otherwise he attacks twice with Biting Halberd and summons a Flare Star that will fall at init 1.
+    
+    Loot:
+    (Weapons found on Cultists)
+    (Other Found on Shrine)
+    2 Swords of Victory (found on cultists around Zurvan; +2 Vorpal Broadsword)
+    12k Alagan silver coins
+    4 platnium Metal bars worth ~3k each.
+    Immoveable Rod
+    Staff of Power (found on cultist around Zurvan; +2 Spellfire staff that can hold 12 mana)
