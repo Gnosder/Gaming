@@ -324,4 +324,6 @@ Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his cont
         Arrive at Frayed mountain
         Kann-e-senna is working on the crystal.
         Corvax has finished working on the manacutters. Docked on the frayed mountain, ~1k miles range, only charge at the mt.
-        
+    9/21/1190
+        Azis Lla
+        Zlatan Drangrov -- Meracydian Tempered

@@ -54,10 +54,10 @@ Room by room
 6 - Cloning Banks 2
     Encounter Tempered
     Tempered - L3, 6 cultists break free from their stasis.
-        HP 9, Att 15, dmg 4 / 6
+        HP 9, AC 9/0, Att 15, dmg 4 / 6
     Loot:
     (Weapons found on Clones)
-    Rifle of the Myriad (rifle, +2 auto-loading, can expend 3 MP to make an attack against upto 4 targets)
+    Rifle of the Myriad (rifle, +2 auto-loading, can expend 3 MP to make an attack against upto 3 other targets, 6/4)
     Sword of Victory (found on cultists around Zurvan; +2 Vorpal Broadsword)
 7 - Laboratory Mechanical and Maintenence
 8 - Laboratory Control Room
@@ -78,7 +78,17 @@ Room by room
     (Weapons found on Cultists)
     (Other Found on Shrine)
     2 Swords of Victory (found on cultists around Zurvan; +2 Vorpal Broadsword)
+        Vorpal +9 damage on crit, behead on crit kill
     12k Alagan silver coins
     4 platnium Metal bars worth ~3k each.
     Immoveable Rod
     Staff of Power (found on cultist around Zurvan; +2 Spellfire staff that can hold 12 mana)
+        +2 to spell att, all spells do Arcane Fire damge/ignite
+
+    Materia Crafting:
+    Enchanting:
+
+    10k exp
+    Everyoe gets magic item
+        Lola - Cozy Campfire -- Each member of the party gains an extra 10 min rest each day.
+    
