@@ -327,3 +327,20 @@ Plan: The coils of hightower (UCOB but with Sephirot causing the wrath, his cont
     9/21/1190
         Azis Lla
         Zlatan Drangrov -- Meracydian Tempered
+        Killed Tempered, refroze Eikon
+        Unlocked Lore Dump
+        Freed Tiamat
+        Parlay w/ Hive
+
+# Session 19
+
+Pre-session: Loose map of Azis Lla, Hive parlay plan, reward for freeing Tiamat
+    Reward: Materia to each
+        Lola: Second Breakfast -- all party members receive a second 10 minute rest each day.
+        Gene: Dancing Waves -- Freedom of Movement in water, reserve 2 mana to grant to another person (no max)
+        Grinhilda: Profane Ossuary -- (Eris Morne) A relic from a Zratchan Necromancer, a calcified dragon bone in a glowing green orb of energy. Said to contain the knowledge of Al'kazir who sailed the river. The relic grants increased potency to necromantic rituals, granting a free +1 effort.
+        Mot: Shocking Resistance -- When you take damage you may take damage to your mana instead. Each point of mana lost this way deals 1 damage to the attacker.
+        Bo: Smoke Bomb -- If you would get hit by a melee attack you may spend 3 mana to switch places with an ally within 30ft. They are hit by the attack instead.
+        Bob: Holmgang -- Expend all of your mana and suffer a wound. For the next minute you cannot be reduced below 1 HP save for massive damage. Further, a target you choose is magically taunted for the duration (Will save to negate for a round).
+    Hive Parlay: Hashladûn wants access to the coils, she wants the key. She is willing to trade powerful Alagan and Hive artefacts for it. She also promises peace to the people of Gaxton. (She is tempered though she does not make it obvious).
+    Map of Azis Lla: See map.

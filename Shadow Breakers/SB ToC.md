@@ -29,6 +29,9 @@
     - Combat
     - Social
     - Downtime
+7. Appendex and Additional Rules
+    - Mission Table
+    - Crafting
 // Gm facing
 - Adversaries
 - Running the Game
