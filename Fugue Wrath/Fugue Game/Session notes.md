@@ -350,3 +350,26 @@ Pre-session: Loose map of Azis Lla, Hive parlay plan, reward for freeing Tiamat
 
 9/24/1190
     Hive leader Hashladûn arrived at the frayed mountain to parlay. It started good, but when she realized the party knew more than she thought they did she shifted tactics. She has threatened to march the Hive against Gaxton unless they give her the key to the coils. (She will also spy on them with scrying magic to see if they go to the coils; she can get in, but she does not know where they are.)
+
+Pre-Session:
+    King Gundolf Hightower has learned of the agency and is willing to help, though he is not pleased, he knows of Sephirot and that he is the cause of the wrath. He also knows that some legendary knights from the 3rd age assulted the coils, but never returned.
+
+    The entry way into the coils is through the sepalcure, the bottom room where they fought the banshee (Bruccia Nerva). Wall melts away.
+
+The Coils: Allagan, damaged, limited self repair, steril
+    Entry way, signs of battle, bodies of knights (all by 3 accounted for). Leads to the battle of the Holy Trinity (3 knights, tempered, immortal, must all be killed at the same time or they come back to life)
+
+    Holy Trinity
+        25hp, att 18, damage 6
+            Tibebu, the Axe
+                When he strikes a taunted target he deals double damage.
+            Yideg, the Keeper
+                Deals 4 damage and taunts hit target. Deals 2 damage every time he is struck in melee.
+            Mikias, the Blade
+                When an attack misses him, he teleports to the attacker and makes an attack of his own.
+            Whenever one of them is brought to zero HP one of the others begins to channel resurrection. Takes 2 rounds. If successful the dead knight returns with full HP.
+
+    Loot:
+        Boots of Vengence - When an attack misses the wearer, teleport 30ft and gain an action (once per encounter)
+        Coif of Insight - Wearer gains the effect of Detect Lies
+        Spike of Restoration - (spring loaded syringe) Can be used to restore 3d6 HP, but costs the user 1d6 HP. HP lost this way cannot be restored save by resting.
