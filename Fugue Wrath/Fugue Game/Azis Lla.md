@@ -77,12 +77,12 @@ Room by room
     Loot:
     (Weapons found on Cultists)
     (Other Found on Shrine)
-    2 Swords of Victory (found on cultists around Zurvan; +2 Vorpal Broadsword)
+    1 Swords of Victory (found on cultists around Zurvan; +2 Vorpal Broadsword)
         Vorpal +9 damage on crit, behead on crit kill
     12k Alagan silver coins
     4 platnium Metal bars worth ~3k each.
     Immoveable Rod
-    Staff of Power (found on cultist around Zurvan; +2 Spellfire staff that can hold 12 mana)
+    XX Staff of Power (found on cultist around Zurvan; +2 Spellfire staff that can hold 12 mana)
         +2 to spell att, all spells do Arcane Fire damge/ignite
 
     Materia Crafting:

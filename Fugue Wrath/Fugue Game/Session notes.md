@@ -344,3 +344,11 @@ Pre-session: Loose map of Azis Lla, Hive parlay plan, reward for freeing Tiamat
         Bob: Holmgang -- Expend all of your mana and suffer a wound. For the next minute you cannot be reduced below 1 HP save for massive damage. Further, a target you choose is magically taunted for the duration (Will save to negate for a round).
     Hive Parlay: Hashladûn wants access to the coils, she wants the key. She is willing to trade powerful Alagan and Hive artefacts for it. She also promises peace to the people of Gaxton. (She is tempered though she does not make it obvious).
     Map of Azis Lla: See map.
+
+
+Donations to haversford (14250sp)
+2k sp to sewer reno
+5k sp to hospital in haverfjord
+Endownment for frontier magic in haersfjord; 5k sp
+1.5k sp pub on mainstreet
+750sp endownment for music
