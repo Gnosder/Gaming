@@ -67,10 +67,10 @@ Flying Fish Inn -- Inn in Haversfjord
 Evert — Coachman of House Gerard
 Frayed Mountain —
 Gaxton — The Kingdom and capital of the campaign
-Ghaul —
+Ghaul — Dragon
 Gridania —
-Haversfjord —
-Heilda — 
+Haversfjord — Town by House Girard
+Heilda — Necromancer
 Hollowed Bastion— 
 Kahi Akarana -- Necromancer, soul locked in the book. Not bad, but not great either.
 King Gundolf Hightower —
@@ -81,9 +81,9 @@ Lord Bell
 Lady Hall
 Lord Campbell
 Mason Shepard -- accountant of house Girard
-Mayor Wighelm Tollar —
+Mayor Wighelm Tollar — Mayor of Haversfjord
 Mhach —
 Mt. High Tower —
 Scav — Tree dude, dead, half of the soul of Kahi
-Sepechre of the Hightower -- Burial place of the Hightower dead
+Sepalcure of the Hightower -- Burial place of the Hightower dead
 Viggo — Usher of House Gerard
