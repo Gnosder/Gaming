@@ -67,3 +67,28 @@ People tend to like crafting. Being able to make your own items is cool. Gatheri
 
 Planning Table?
 Essentially taking the war tables from WoW (sending followers out on quests) and implementing them in an RPG. Followers would have a Tier, a Rating, a Role, and an ability. They would also require downtime between missions. You would send a handful of followers on a mission (along with some gold for supplies and wages) and they would report back (if they survive).
+
+
+Die rolling and levers
+    "Rolls: 2d6 + stat | stat == skill (1-3/+2) + Equipment (1-3/+x)
+    Skills are rated 1-3 and can have specialties
+    Equipment are rated at 1-3 and can have bonues based on craftsmanship and magic
+        Weapons are rated at +1/2/3 based on tier
+        Gear is rated at +1/2/3 based on appropriateness?"
+    
+    This means skills are rated at 0-3 (+2) for specialty and equipment is rated at 0-3. Penalties would be 0-(-6). Dis/advantage would be +1d6 H/L. Magic bonus 0-3.
+
+    Rolls are 3d6 + (-6) - 11 H/L add Hero Die for certain actions (d8)
+
+    Change die dize to d10 (d12 hero die), bonuses from  skill: 0-5(+2), item 0-5, Magic 0-5, penalty 0-10
+    This gives 2d10 -10 to +17 (w/o hero == max 37, w/ hero == max 49)
+        Early game: +4 / base DC 14
+        Mid game: +8 / 18
+        End game: +15 / 25
+    Crit on 18+ (~6%, ~ 14%, ~1%)
+
+Compare system levers:
+    WoD: dice pool, att (1-5) + skill (-3-5) + item + Merit + Misc
+    Shadowrun: dice pool, att(1-9) + skill(1-7) + item + misc
+    DnD5: d20 + att (-1-5) + Prof (2-5) + magic (0-3)
+    pathfinder: d20 + att (-1-11) + skills (0-23) + magic (0-11)

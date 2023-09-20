@@ -344,3 +344,9 @@ Pre-session: Loose map of Azis Lla, Hive parlay plan, reward for freeing Tiamat
         Bob: Holmgang -- Expend all of your mana and suffer a wound. For the next minute you cannot be reduced below 1 HP save for massive damage. Further, a target you choose is magically taunted for the duration (Will save to negate for a round).
     Hive Parlay: Hashladûn wants access to the coils, she wants the key. She is willing to trade powerful Alagan and Hive artefacts for it. She also promises peace to the people of Gaxton. (She is tempered though she does not make it obvious).
     Map of Azis Lla: See map.
+
+9/23/1190
+    Flew to Gaxton. Checked in with Vigo. Learned fish business is booming. Started a kennel. Donated lots of money to Haversfjord and started a frontier mage college extension.
+
+9/24/1190
+    Hive leader Hashladûn arrived at the frayed mountain to parlay. It started good, but when she realized the party knew more than she thought they did she shifted tactics. She has threatened to march the Hive against Gaxton unless they give her the key to the coils. (She will also spy on them with scrying magic to see if they go to the coils; she can get in, but she does not know where they are.)
