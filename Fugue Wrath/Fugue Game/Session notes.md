@@ -695,6 +695,13 @@ Pre-session: Loose map of Azis Lla, Hive parlay plan, reward for freeing Tiamat
 9/23/1190
     Flew to Gaxton. Checked in with Vigo. Learned fish business is booming. Started a kennel. Donated lots of money to Haversfjord and started a frontier mage college extension.
 
+    Donations to haversford (14250sp)
+    2k sp to sewer reno
+    5k sp to hospital in haverfjord
+    Endownment for frontier magic in haersfjord; 5k sp
+    1.5k sp pub on mainstreet
+    750sp endownment for music
+
 9/24/1190
     Hive leader Hashladûn arrived at the frayed mountain to parlay. It started good, but when she realized the party knew more than she thought they did she shifted tactics. She has threatened to march the Hive against Gaxton unless they give her the key to the coils. (She will also spy on them with scrying magic to see if they go to the coils; she can get in, but she does not know where they are.)
 
@@ -707,22 +714,33 @@ The Coils: Allagan, damaged, limited self repair, steril
     Entry way, signs of battle, bodies of knights (all by 3 accounted for). Leads to the battle of the Holy Trinity (3 knights, tempered, immortal, must all be killed at the same time or they come back to life)
 
     Holy Trinity
-        25hp, att 18, damage 6
+        25 hp, att 18, AC 18, damage 6
             Tibebu, the Axe
                 When he strikes a taunted target he deals double damage.
             Yideg, the Keeper
                 Deals 4 damage and taunts hit target. Deals 2 damage every time he is struck in melee.
+                2 AC
             Mikias, the Blade
                 When an attack misses him, he teleports to the attacker and makes an attack of his own.
             Whenever one of them is brought to zero HP one of the others begins to channel resurrection. Takes 2 rounds. If successful the dead knight returns with full HP.
 
-Donations to haversford (14250sp)
-2k sp to sewer reno
-5k sp to hospital in haverfjord
-Endownment for frontier magic in haersfjord; 5k sp
-1.5k sp pub on mainstreet
-750sp endownment for music
     Loot:
         Boots of Vengence - When an attack misses the wearer, teleport 30ft and gain an action (once per encounter)
-        Coif of Insight - Wearer gains the effect of Detect Lies
+        Coif of Insight - Wearer gains the effect of Detect Lies and see invisibility
         Spike of Restoration - (spring loaded syringe) Can be used to restore 3d6 HP, but costs the user 1d6 HP. HP lost this way cannot be restored save by resting.
+
+    Dream of the Dead
+        You find yourself on the deck of a wide river boat. It is richly decorated with gold embossed bones. A hawkish man with a pale complextion stands at the bow, a scythe made of bone at his side, his eyes scan the horizon. You know him insticivly, Thanatos God of death and son of Nyx. Standing at the helm of the boat is a cloaked figure, stoic and inevitable, Charon, the ferryman of the dead. You look around you, and realize you are not sailing on a rive so much as your sailing in it. Souls flow around the boat twisting in the churning eddy of the river around you. With a start you awaken.
+    
+    Watches:
+        2-6 Dawn,  6-10 Morning, 10-2 Noon, 2-6 Evening, 6-10 Night, 10-2 Dark Night
+
+9/24/1190
+    Evening: Flew to Ais Lla and attuneded. Head back to mt.
+
+9/25/1190
+    T -10
+    Dawn: Slept
+    Morning: Fly to Gaxton, the Agency's secret HQ. Lumber mill w/ buildings. Pierce, Tiamat, Kan-e-Senna.
+    Noon: Fly to Gaxton (Captial). Lord Murler's Estate. Entered the Coils, killed the trinity. Grin has 17 skelebros, they're a bit strong? Easy to kill. 5+# of skele to hit, 2+# of skele to damage.
+    Night:
