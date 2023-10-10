@@ -744,3 +744,50 @@ The Coils: Allagan, damaged, limited self repair, steril
     Morning: Fly to Gaxton, the Agency's secret HQ. Lumber mill w/ buildings. Pierce, Tiamat, Kan-e-Senna.
     Noon: Fly to Gaxton (Captial). Lord Murler's Estate. Entered the Coils, killed the trinity. Grin has 17 skelebros, they're a bit strong? Easy to kill. 5+# of skele to hit, 2+# of skele to damage.
     Night:
+
+9/24/1190 part 2
+Defeated the trinity.
+The next 2 bosses Ooze of Pallags, Living Grease and Beremus the Overgrowth, Tempered Genesaur
+
+Ooze of Pallags
+The room is clear save for a thick grayish grease that coats the floor and consoles. It looks like it seeped from the walls and condensed in the room. The grease is alive and will animate and attack.
+Phase 1 -- The blob
+The ooze remains in a puddle and manifests appendages, tendrils of ooze that attack. Every other round it will manifest an eye to see what is happening. The ooze absorbs fire damage and releases a cold nova.
+    HP 60, Def 9, Armor 7
+        Tendril (n+1) -- Att 17 damage 6
+        Eye -- Takes double damage, Def 15, Armor 0
+Phase 2 -- Living Grease
+The ooze collects into the shape of a monsterous bipedal creature. It attacks with a spiked club and hurls globs of itself around the room.
+    HP 70, Def 9, Armor 9
+        Club Slam -- Att 19, damage 12, AoE
+        Hurl Ooze -- Att 17, damage 6, Slow (-1 action)
+        Charge -- telegraph att 17, damage 16, random target not engaged ignore taunt
+
+Phase 3 -- Heart of the Ooze
+The ooze explodes, covering the room and everything in it in grease. It begins to recongeal in random places while summoning lesser slimes and tendrils to attack.
+    Transformation att 15 for half, damage 12, slow and slick (ref when moving or fall prone)
+    Summon 2 slimes + one per turn, att with 3 tenrils + 1 per 5 HP lost
+    HP 50, def 9, Armor 5
+        Tendril -- att 17, damage 6
+        Ooze -- att 15, damage 3 engulf (grapple on hit, pin on second hit)
+
+Loot: Allagan something
+
+Beremus the Overgrowth
+A large creature rests in the center of this room, it appears to be channeling something. The room is covered in foliage and brambles.
+Phase 1 -- Fury of the Ancints
+    HP 50, def 11, armor 9
+    Goring Charge -- telegraph att 17, damge 16, random target ignore taunt
+    Shockwave Stomp -- AoE att 17 (ref) damage 8 ignore armor, (knocked prone)
+    Tusk Swipe -- att 19 damage 12
+Phase 2  -- Intermission
+    Summons adds and wraps self in a coccoon.
+    Dryad Ranger x2 HP 12, armor 1, att 15 damage 6, ranged (+1 effort to att or dmg)
+    Dryad Guardian x2 HP 24, armor 3 att 15 damage 4
+Phase 3 -- Heart of the Genesaur
+    Coccoon falls away to reveal the genesaur has regenerated its wounds and drips venom and nature magic
+    HP 50, def 9, armor 5, regen 5 (fire)
+    Atts same as phase 1, add 4 nature damage that ignores armor
+    Summon Venomspore -- a plant that shoots envenomed thorns. att 15, damage 4 + venom (con or 6 damage and slow)
+
+Loot: Regenerating Wooden Shield
