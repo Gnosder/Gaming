@@ -745,7 +745,7 @@ The Coils: Allagan, damaged, limited self repair, steril
     Noon: Fly to Gaxton (Captial). Lord Murler's Estate. Entered the Coils, killed the trinity. Grin has 17 skelebros, they're a bit strong? Easy to kill. 5+# of skele to hit, 2+# of skele to damage.
     Night:
 
-9/24/1190 part 2
+9/25/1190 part 2
 Defeated the trinity.
 The next 2 bosses Ooze of Pallags, Living Grease and Beremus the Overgrowth, Tempered Genesaur
 
@@ -791,3 +791,7 @@ Phase 3 -- Heart of the Genesaur
     Summon Venomspore -- a plant that shoots envenomed thorns. att 15, damage 4 + venom (con or 6 damage and slow)
 
 Loot: Regenerating Wooden Shield
+
+9/25/1190 part 3
+
+Sephirot the Fiend
