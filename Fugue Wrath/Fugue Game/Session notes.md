@@ -795,3 +795,58 @@ Loot: Regenerating Wooden Shield
 9/25/1190 part 3
 
 Sephirot the Fiend
+
+Phase 1
+    HP 100, def 13, armor 2
+    Pick 2:
+    Assuming Control - DC 17 will vs take a single action against a target of sephirot's choice. Must take 2 levels of effort.
+    Triple Trial - Telegraphed tank buster. att 19, 27 damage, half on miss.
+    Tieferet - Roll luck, odd rolls take 20 damage split evenly.
+    Fiendish Rage - Heal 30 HP -10 for each enemy that hit him since his last turn
+    Ain - Leap on a random target and then charge a different target. Att 17, att 18; 12 damage, 18 damage.
+
+Phase 2 - Adds
+    HP 50
+    3 Dryad Rangers spawn around the platform
+
+Phase 3 - Ein Sof Ohr
+Leaps off platform and grows to massive size.
+    HP 100
+    Fiendish Wail - Slam the ground and summon 2 pillars for 3 rounds. Gain +1 free effort to each action per pillar. Collapse if an enemy touches it/ blocks it. Only 2 pillars can exist at one time.
+    Earth Shaker - AoE DC 17 ref or fall prone.
+    Malkuth - Clap and blow all players around. DC 17 Ref.
+
+
+Hashladûn, Mother of the Hive
+
+HP 150, def 11, armor 0
+After taking 50 damage, teleports to new location and releases a death wail. At start summon 1 Shreiker, 2 ogres, 2 knights, 4 Acolytes, and 8 Thralls. Summon 4 thralls a round
+Dark bolt - att 15, damage 11 and curse (when dealilng damage deals 3 damage to each cursed target, ignore armor.) Curse stacks.
+Death Wail - AoE DC 15 Con or take a wound.
+Cursed Scream - AoE DC 17 Will or be cursed
+Spells - Knows most spells of level 7 or lower
+    Ethrealness
+    Reverse Gravity
+    Force Cage
+
+Ogre
+    50 HP, Def 9, Armor 11
+    att 15, damage 8
+
+Knight
+    HP 30, def 13, armor 6(9)
+    att 17(15), damage 8(6)
+    Two-handed sword (SnB)
+
+Acolyte
+    HP 12, def 11, armor 2
+    att 14, damage 4
+
+Thrall
+    HP 1, def 9, armor 0
+    att 17, damage 4
+
+
+Shreiker
+    HP 1, def 17, armor 0
+    att 16 x3, 4 damage (add all damage for the purpose of armor)
