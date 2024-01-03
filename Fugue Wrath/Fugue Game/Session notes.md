@@ -841,16 +841,18 @@ Knight
 Acolyte
     HP 12, def 11, armor 2
     att 14, damage 4
-
+ 
 Thrall
     HP 1, def 9, armor 0
     att 17, damage 4
-
+      
 
 Shreiker
     HP 1, def 17, armor 0
     att 16 x3, 4 damage (add all damage for the purpose of armor)
 
 10/1/1190
-Sephirot is gone. The Wrath is fading. Gaxton holds a celebration for the heroes who defeated sephirot and saved the realm (Most didn't know there was a problem). The dwarves of the Frayed Mountain Celebrate. The mutants of Hollowed Bastion send an envoy to gaxton (since the Hive are gone). The chateu is doing well. Lots of Fish. Party!
+Sephirot is gone. The Wrath is fading. Gaxton holds a celebration for the heroes who defeated sephirot and saved the realm (Most didn't know there was     a problem). The dwarves of the Frayed Mountain Celebrate. The mutants of Hollowed Bastion send an envoy to gaxton (since the Hive are gone). The chateu is doing well. Lots of Fish. Party!
 10 year time jump follows. Wrath has dried up, mostly. The nature of magic has changed since most of the magic that was used had been warped by sephirot.
+
+Andrew is an Elf, and is really into commerce.
