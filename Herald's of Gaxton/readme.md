@@ -40,6 +40,57 @@ Lola: Bard/Witch
 
 ## Magic Item Conversions
  Mot
+    Rifle of the Myriad
+        Rifle that can shoot multiple targets.
+        +1 Striking Rifle of the Myriad
+            Expend a Focus point, if you have one, to fire a volly of shots at different targets equal to half your level.
+            If you don't have a focus point you can invest one in the item using the refocus action.
+    Cape of Displacement
+        Cape that grants blur.
+        The first attack made against you every 10 minutes has disadvantage.
+    Bag of Holding
+    Air Walk Materia
+        When you stride, you can instead gain a fly speed equal to half your movement for 1 round.
+    Floating Disk Materia
+        Gain the ability to cast Floating Disk at will.
  Lola
+    Pyrro's Bow
+        +1 Striking Shortbow w/ Maestro's Instrument
+        1/day charm, +1 to Performance
+    Coif of Insight
+        1/day cast Ring of Truth
+        Gain +1 on Sense Motive
+        Gain +1 on Perception vs Hidden Creatures
+    Familiar Ring x2 (Racoon, Mouse)
+        One becomes familiar, the other becomes a maraca band
+    Second Breakfast
+    Wand (Charm, Silence, Color Spray)
+        Removed (She never used them), replaced with Obsidion Goggles
+    Lantern of Flame
+        Same as it ever was
  Gene
+    Scimitar of Light
+        +1 Striking Scimitar of Retribution
+        The blade of this weapon bears a design of a human skull. Whenever a creature damages you with an attack, the skull changes its appearance to look like the face of that creature. You gain a +2 circumstance bonus to your next damage roll against that creature before the end of your next turn. Because the face reshapes each time you're damaged, you get the additional damage only if you attack the creature that damaged you most recently.
+    Dancing Waves
+    Missile Catching Gloves
+        Once per day gain +2 AC vs ranged attack.
+    Boots of Vengence
+        Replaced with a Reinforced Steel Shield
+    Ironwood Fullplate
+        +1 Full Plate
+    Hat of Water Breathing
+        Once per day you can breathe underwater for 8 hours
+    Bowl of Water Elemental Friendship
+        Can use to summon water elementals. Gain +2 Diplo vs water elementals.
+        Water elemental companion asked to retire. Put the bowl in the pond.
  Grinhilda
+    Shinning Holy Shock Staff
+        Replaced with +1 Staff of Healing
+    Ring of Evasion
+        Replaced with Healer's Gloves
+    Profane Ossuary
+        Familiar
+    Spike of Restoration
+        Wand of Heal
+    Immoveable Rod
