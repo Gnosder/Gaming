@@ -40,3 +40,4 @@ Explore:
 ## The Tempered Cistern
 
 The darkness of the storeroom gives way into a dense, steaming jungle. A simple path has been cleared in the jungle ahead. Footprints and a blood trail can be found there. Following the trail leads to the Ziggurat, but also crosses the path of some demons that live outside it.
+
