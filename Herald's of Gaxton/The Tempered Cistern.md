@@ -40,3 +40,27 @@ Explore:
 ## The Tempered Cistern
 
 The darkness of the storeroom gives way into a dense, steaming jungle. A simple path has been cleared in the jungle ahead. Footprints and a blood trail can be found there. Following the trail leads to the Ziggurat, but also crosses the path of some demons that live outside it.
+
+## Post Cistern
+
+Rewards - XP 300
+
+Itemized Rewards
+    Gorilla Encounter 60xp
+    Scythe Tree Encounter 80xp
+    Prophet Encounter 120xp
+        +1 Striking Wrathtouched Longsword (Wrathtouched: Half damage delt is Negative) (100gp)
+    Wrath Heart 30 xp + Hero Point
+    Quest Complete 10 xp
+        100 gp (1000sp)
+        Shifting Rune (found in the mage's library) 220gp
+        Emerald Grasshopper Talisman 25
+        Iron Cube Talisman 50
+
+Total Loot for level 6
+Perm item: 2x7th 2x6th
+            2x350gp 2x220   1140
+Cons item: 2x7th 2x6th 2x5th
+            2x70gp 2x50gp 2x25gp    290
+Total value 2000 gp (2gp per xp)
+Coins 550
