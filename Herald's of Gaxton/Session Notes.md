@@ -43,3 +43,34 @@ Caravan
 
     Started caravan from Haversfjord. Second game trail after Scaeve, chased off 3 Cave bears w/ bombs from air. Second day ran into overgrown assassin vine (again) burned it down. Set up camp outside assassin vine (scouted area for base). 40 XP earned. Ended 1200/4/14.
 
+24/2/29 (1200/4/14)
+
+    Finishes escorting caravan to mountain.
+    Rumor: Shadow creature in mountain
+    Rumor: Azis Lla
+    Rumor: Duskvol / Ink Sea
+    Rumor: Void Ark; ghost airship sighting.
+    Rumor: Go to space! Go Sailing.
+    Rumor: Elements are whispering about happenings to the south at the ruins of Limsa. 
+        Dominion landing at the east gate. Skirmishing with mutants.
+        Meet mutant expedition. Travel to the Hollowed Bastion. Meet Dominion travel to landing. i.e. intro 2 factions, put them into a conflict, and force players to choose a side.
+
+    Yerhu Rivombo (Ours) Ghaul's doorman
+    Ryan Pierce at Azis Lla (hobobo)
+    
+    Flying Airship -- winny
+        Instll air horn
+        Rolling Coal Machine
+
+    Herbology Codex to Grin from Kan-e-sena
+    Zave -- mutant leader
+    Opudo Odika -- Mutant; Luo names
+
+    Dominion Names are Latin
+    Agustinus Comes, Dominion Leader
+
+    Parlay with the Dominion 
+        Zave, body guard
+        Bo making bombs
+        Grinhilda making acolyte
+    
