@@ -67,7 +67,7 @@ Caravan
     Opudo Odika -- Mutant; Luo names
 
     Dominion Names are Latin
-    Agustinus Comes, Dominion Leader
+    Agustinus Viator, Dominion Leader
 
     Parlay with the Dominion 
         Zave, body guard
