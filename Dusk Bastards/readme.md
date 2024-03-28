@@ -1,5 +1,16 @@
 # Dusk Bastards
 
+## TODO
+- Change name
+- Create magic system
+- Update inventory system
+
+
+
+
+
+
+
 A role playing game by Gnosdy
 
 Uses positve attrition. Heroic Roleplay. Build resources by playing. Victories make you stronger and turn into exp. 

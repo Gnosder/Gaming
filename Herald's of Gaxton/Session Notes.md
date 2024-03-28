@@ -59,7 +59,7 @@ Caravan
     Ryan Pierce at Azis Lla (hobobo)
     
     Flying Airship -- winny
-        Instll air horn
+        Install air horn
         Rolling Coal Machine
 
     Herbology Codex to Grin from Kan-e-sena
@@ -74,3 +74,6 @@ Caravan
         Bo making bombs
         Grinhilda making acolyte
     
+Parlay
+
+The dominion claims the land of Berin as soverign. Submit and live, resist and be destroyed. The Dominion laid claims to western berrin long ago, but was unable to claim it due to the wrath. Other nations don't care, because of the wrath. Now that the wrath has faded the dominion is attempting to exert their claims.
