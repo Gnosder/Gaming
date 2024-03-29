@@ -76,4 +76,4 @@ Caravan
     
 Parlay
 
-The dominion claims the land of Berin as soverign. Submit and live, resist and be destroyed. The Dominion laid claims to western berrin long ago, but was unable to claim it due to the wrath. Other nations don't care, because of the wrath. Now that the wrath has faded the dominion is attempting to exert their claims.
+The dominion claims the land of Berin as soverign. Submit and live, resist and be destroyed. The Dominion laid claims to western berrin long ago, but was unable to claim it due to the wrath. Other nations don't care, because of the wrath. Now that the wrath has faded the dominion is attempting to exert their claims. The Dominion is Imperial Rome, it's capital is Dominius. The site they are at now is being called Castrum Berin Primus. The mutants outnumber them 2:1.
