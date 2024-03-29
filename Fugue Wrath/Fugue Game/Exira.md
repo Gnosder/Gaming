@@ -59,6 +59,7 @@ Bone Mother -- 2nd age dragon queen
 Brother Owain Lowe -- Priest of the Cult of Hightower
 Cal Kepler —
     Beedy -- Cat, rides on Cal's shoulders
+Callum Lynch -- High mage of Hightower
 Cara Balur — Drwarvan stronghold, ruled by Ghaul, “Mountain Home of the Fire Snake” (not ghaul, other dragon that used to live there, Malifaux)
 Corvax --
 Daedric — aka Shady Guy, works for mysterious employers

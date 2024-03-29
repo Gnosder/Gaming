@@ -58,7 +58,7 @@ Caravan
     Yerhu Rivombo (Ours) Ghaul's doorman
     Ryan Pierce at Azis Lla (hobobo)
     
-    Flying Airship -- winny
+    Flying Airship -- Flying Winny
         Install air horn
         Rolling Coal Machine
 
@@ -67,13 +67,31 @@ Caravan
     Opudo Odika -- Mutant; Luo names
 
     Dominion Names are Latin
-    Agustinus Viator, Dominion Leader
+    Imperator Agustinus Viatus Cottus, Dominion Leader
+      Olympio Nelius, Imperial Magus
+      Caito Viatus Juras, Honor Guard
 
     Parlay with the Dominion 
         Zave, body guard
+        Mot and Lola Diplomacy
+        Gene Scouting
         Bo making bombs
         Grinhilda making acolyte
     
 Parlay
 
 The dominion claims the land of Berin as soverign. Submit and live, resist and be destroyed. The Dominion laid claims to western berrin long ago, but was unable to claim it due to the wrath. Other nations don't care, because of the wrath. Now that the wrath has faded the dominion is attempting to exert their claims. The Dominion is Imperial Rome, it's capital is Dominius. The site they are at now is being called Castrum Berin Primus. The mutants outnumber them 2:1.
+
+Midgardsormr "dead"
+Notable members
+Bahamut
+Tiamat
+Hraesvelgr
+Nidhogg
+Ratatoskr
+Vrtra
+Azdaja
+
+Wilhelmina
+Lofwyr 
+2 others
