@@ -67,7 +67,7 @@ Summary: Ryan Pierce has gotten himself into trouble. While attempting to reach 
 Trivial
 4 Security drones
 
-The area is a large T intersection. One route leads through spores and dangerous clouds. One route leads to the Spore Lab-Island. The third leads towards Dormicary Belaph, it's door is sealed tight due to the lock down.
+The area is a large T intersection. One route leads through spores and dangerous clouds. One route leads to the Spore Lab-Island. The third leads towards Cormorant Belaph, it's door is sealed tight due to the lock down.
 
 The room is open, no cover, the drones decend from openings in the ceiling.
 
@@ -153,7 +153,7 @@ Attacks
   Slam (Claw, tackle) +16 2d12+12
 Abilities
   Spore Coat: Melee attacks against it create a temporary spore cloud that obscures vision for 1 round.
-  Spre Crawler: Unhindered by fungai and can move through them as though they were normal terrain.
+  Spore Crawler: Unhindered by fungai and can move through them as though they were normal terrain.
 
 ## Damaged Security Frame
 lvl 6 security frame Soldier 40xp
@@ -187,4 +187,20 @@ Abilities
   *Mymaric Plating (+1 AC; magic)
   *Razor Claws (+1 striking claws; magic)
   *Smoke Bomb Launcher (1/day deploy smoke bomb when bloodied)
-  
+
+# Loot
+
+Rebreathers x7
+  Purifies air of toxins. Does not fucntion underwater. Advanced material sleans the filter every few hours.
+
+Rune of Striking
+Rune of Potency
+Rune of Armor
+Smoke Bomb x1d6
+Spell Tablet Denith
+
+Control of Azis Lla
+  however there are several critical alerts that cannot be cleared remotly.
+  The security hub is offline and needs a manual reboot.
+  The main generator is showing in a low power state (which is flagged critical), Sophia containment showing 100%.
+Lore dump, Azis Lla
