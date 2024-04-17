@@ -95,3 +95,31 @@ Azdaja
 Wilhelmina
 Lofwyr 
 2 others
+
+24.4.11 (1200/4/7)
+
+Mtg recap:
+    Tiamat and Kan-E-Senna 
+    Imperator Agustinus Viatus Cottus
+
+    Discuss: The area is Dragon territory, partnership rather than vassel. Ceaded low Berin to Dominium. Exclusive trade w/ Dominum.
+
+Riis
+Glimmer is 1920s American Money (listed in cents) (100000 glimmer == 1000$)
+Corvax Daughter Idirys. Corvax in on Riis.
+    House of Dusk
+    House of Changes
+        Corvax house, number 2 house behind Kings.
+    House of Wind
+    House of Kings
+    House of Stone
+    House of Winter
+    House a Judgment
+    House of Wolves
+    House of Devils
+
+Weave doesn't exist off world, thus universal translator is needed.
+Okiviks -- Gate Warden
+
+House of Changes Ketch missing. 
+    Geth, Vex, other races. (House of Devils has a rouge member Ketch House of Darkness).
