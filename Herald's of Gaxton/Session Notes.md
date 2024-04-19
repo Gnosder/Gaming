@@ -106,7 +106,7 @@ Mtg recap:
 
 Riis
 Glimmer is 1920s American Money (listed in cents) (100000 glimmer == 1000$)
-Corvax Daughter Idirys. Corvax in on Riis.
+Corvax Neice Idirys. Corvax in on Riis.
     House of Dusk
     House of Changes
         Corvax house, number 2 house behind Kings.
@@ -123,3 +123,10 @@ Okiviks -- Gate Warden
 
 House of Changes Ketch missing. 
     Geth, Vex, other races. (House of Devils has a rouge member Ketch House of Darkness).
+
+The Archon Splicer Misraaks' (Mithrax) Ketch has gone missing in a frontier system. Clues point to an old Vex conflux on the planet Skolas III. A Geth scout ship is investigating as well and is found in the area, they shoot on sight. The Vex conflux leads into a vex structure of unknown origin and use. Misraaks opens the way, though that is unkown to the others.
+
+Vex vs Geth
+
+Vex architecture is full of hard light, floating 'data' grams that make it look like artefacting in VR. It uses a lot of cubes and triangles. It rarely looks "finished" and more like "good enough" but it is sturdy and difficult to destroy.
+Geth architecture on the other hand is organic and flowing. Cables and struts are rarly exposed. Geth prefer minimalism to the grand mega structures of the Vex.
