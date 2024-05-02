@@ -1,25 +1,5 @@
 # On Magic
 
-An exploration of what magic is, is not, and how it works.
-
-Simply put, magic is created by the process of entropy, the greater the entropy of a system the greater the magic. Thus magic is most powerful around life and other powerful sources of entropy (like stars). Thus magic is created by the process of 'being'; it is because we are.
-
-Magic has a gravity or attraction. It pools together. Large concentrations of magic can become self aware. Sometimes when things exist hard enough, they come to life and exist more.
-
-Magic can also be aspected. It takes qualities of that which created it. Thus magic born in a fire are fire aspected. Magic born from intense negative emotions share qualities with those emotions. There is no limit to what aspects magic can have, but there are some that are more common than others. Elemental aspects, for example, are very common and naturally accuring.
-
-Magic exists within the paradigm of Reality. It exists with, not against, the laws of physics. However magic allows for physical interactions that are not possible without it.
-
-Every culture has some understanding of magic and each have different traditions around it. The 2 most common traditions are Technology (Electro-magery) and the Ars Mysterium (Vancian).
-
-Technology is a form of magic. The art of conducting electrical charges along specially prepared pathways is quite similar to the conduction of magical energies across runes. There are, however, differences. Technology is often see as an equalizer. Anyone can use it, even if not everyone understands it. A rifle, for example, if one has the weapon itself and the munitions for it, they can use it. This is true even though a great deal of engineering goes into its design and creation. Technology is also useable by those who cannot otherwise use magic. Technology usually employs the 'base' or 'surface' elements (electricity being the most common).
-
-Magic is a form of technology. The primary difference is that magic must be conducted, at least in part, by the caster. When using a computer, the user does not have to supply their own electicity to power it, this is not true for magic.
-
-To understand this further it must be understood how magic is used. To cast a spell the following are required: A power source, an Imago (understood to be the instructions for the spell), an emitter, and the medium through which all is transmitted. With a computer this is: A battery or power i/0, a CPU, an output, the base chipset(mother board, etc.). For a magical spell this is: The caster's soul (supplies power), the caster's mind (to provide shape), the caster's Will (to complete and release the spell), and the caster themselfe (to serve as the medium for the spell). Thus technology is simply the process replacing the internal needs of a spell with external mechanisms.
-
-A sufficiently powerful mage is vastly supereor to any technophile, however while technology can be used by anyone magic requires extensive training.
-
 # Understanding Magic by Charles Del La Rocha of Gaxton
 
 Until recently the magic that was known to the citizens of Gaxton was simple. Arcane lights, the summoning of simple familiars, basic telekinetic effects that could be acheived just as well with physical effort. However, the Banishment of the great Eikon Sephirot by Lord Le'Crux and his companions ushered in an elemental shift in our understanding of magic. As the hateful Wrath faded away mages at the Gaxton School of Magery began experiencing a Euphoria when channeling magic that we have begun to call Mana Burn. In addition simple spells grew in power and even the most advanced magics of the college became easier for others to learn. It was as if the hateful Wrath had been surpressing magic and with its disuliton the concentration of magic in the kingdom grew greatly.
@@ -100,3 +80,26 @@ Despite the chosen nomenclature for this traditon, it is not known whether a div
 ## Technology
 
 In the frayed mountain Lord Ghaul's trusted knight and steward, an Eliksni known as Corvx, works his own type of magic which the dwarf Yerhu Rivombo calls "technology". As near as we can tell this technology is different from traditional magics and yet it still bears more than a passing resemblance. I suspect that technology and magic are two branches from the same trunk and are connected in ways as yet unknown.
+
+
+# Misc
+
+An exploration of what magic is, is not, and how it works.
+
+Simply put, magic is created by the process of entropy, the greater the entropy of a system the greater the magic. Thus magic is most powerful around life and other powerful sources of entropy (like stars). Thus magic is created by the process of 'being'; it is because we are.
+
+Magic has a gravity or attraction. It pools together. Large concentrations of magic can become self aware. Sometimes when things exist hard enough, they come to life and exist more.
+
+Magic can also be aspected. It takes qualities of that which created it. Thus magic born in a fire are fire aspected. Magic born from intense negative emotions share qualities with those emotions. There is no limit to what aspects magic can have, but there are some that are more common than others. Elemental aspects, for example, are very common and naturally accuring.
+
+Magic exists within the paradigm of Reality. It exists with, not against, the laws of physics. However magic allows for physical interactions that are not possible without it.
+
+Every culture has some understanding of magic and each have different traditions around it. The 2 most common traditions are Technology (Electro-magery) and the Ars Mysterium (Vancian).
+
+Technology is a form of magic. The art of conducting electrical charges along specially prepared pathways is quite similar to the conduction of magical energies across runes. There are, however, differences. Technology is often see as an equalizer. Anyone can use it, even if not everyone understands it. A rifle, for example, if one has the weapon itself and the munitions for it, they can use it. This is true even though a great deal of engineering goes into its design and creation. Technology is also useable by those who cannot otherwise use magic. Technology usually employs the 'base' or 'surface' elements (electricity being the most common).
+
+Magic is a form of technology. The primary difference is that magic must be conducted, at least in part, by the caster. When using a computer, the user does not have to supply their own electicity to power it, this is not true for magic.
+
+To understand this further it must be understood how magic is used. To cast a spell the following are required: A power source, an Imago (understood to be the instructions for the spell), an emitter, and the medium through which all is transmitted. With a computer this is: A battery or power i/0, a CPU, an output, the base chipset(mother board, etc.). For a magical spell this is: The caster's soul (supplies power), the caster's mind (to provide shape), the caster's Will (to complete and release the spell), and the caster themselfe (to serve as the medium for the spell). Thus technology is simply the process replacing the internal needs of a spell with external mechanisms.
+
+A sufficiently powerful mage is vastly supereor to any technophile, however while technology can be used by anyone magic requires extensive training.
