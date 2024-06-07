@@ -1,6 +1,6 @@
 # Introduction
 
-The world of Avun rests on a fissure in space through which agents of the Seeping Doom slink from. As such the people of Avun are constatnly beset by despolic tyrants, vile cults, savage creatures of nightmare, and more horrors of the Seeping Doom. Fortunately the stregnth of mortals is far from spent and heroes stand against the darkness. These heroes are known as Shadow Breakers.
+The world of Avun rests on a fissure in space through which agents of the Seeping Doom slink. As such the people of Avun are constatnly beset by despolic tyrants, vile cults, savage creatures of nightmare, and more horrors of the Seeping Doom. Fortunately the stregnth of mortals is far from spent and heroes stand against the darkness. These heroes are known as Shadow Breakers.
 
 Not all Shadow Breakers chose the life of a hero, but it chose them and the Seeping Doom knows it. As a Shadow Breaker, whether you are trying to save the world or just survive another day, your job is to resist the corrupting influence of the Seeping Doom.
 
