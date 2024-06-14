@@ -98,14 +98,14 @@ Lofwyr
 
 24.4.11 (1200/4/7)
 
-Mtg recap:
+Meeting recap:
     Tiamat and Kan-E-Senna 
     Imperator Agustinus Viatus Cottus
 
     Discuss: The area is Dragon territory, partnership rather than vassel. Ceaded low Berin to Dominium. Exclusive trade w/ Dominum.
 
 Riis
-Glimmer is 1920s American Money (listed in cents) (100000 glimmer == 1000$)
+Glimmer is 1920s American Money (listed in cents) (100,000 glimmer == 1000$)
 Corvax Neice Idirys. Corvax in on Riis.
     House of Dusk
     House of Changes
@@ -130,3 +130,7 @@ Vex vs Geth
 
 Vex architecture is full of hard light, floating 'data' grams that make it look like artefacting in VR. It uses a lot of cubes and triangles. It rarely looks "finished" and more like "good enough" but it is sturdy and difficult to destroy.
 Geth architecture on the other hand is organic and flowing. Cables and struts are rarly exposed. Geth prefer minimalism to the grand mega structures of the Vex.
+
+Lola -- Item
+Hoverboard/Jetpack/Sparrow
+Jet Boots (Jet Heelies) - 50ft jet movement

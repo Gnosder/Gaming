@@ -9,7 +9,7 @@ On [INSERT DATE] the ketch 'Changeship Irivkon-myr', captained by Ship Kell Misr
 Changeship Eboloks-fes
     Ship Kell Vroskas
     Pilot Servitor Eboloks-fes
-    The home ship of Clan Balher of the House of Changes.
+    The home ship of Clan Balheir of the House of Changes.
     Idirys, Tech Weaver of Changes.
 
 Near the planet Skolas III an Eliksni distress signal is located, and it's origin appears to be at a Vex conflux that has recently been activated. A Geth scout patrol is also on scene performing an investigation of their own. No sign ot the missing ketch is found.
