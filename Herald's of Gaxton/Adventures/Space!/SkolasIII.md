@@ -29,7 +29,7 @@ Enc 3 Maze and the Minotaur - XP 100
     Arrive outside the Ketch, battle the forces assaulting it. A minotaur that summons changing hard light walls.
     Minotaur (1), Goblin (3), Harpy (2)
 Vex beam control room - XP 40
-    Full of dead Eliksni of an unknown house. It appears they had sliced into the network and captured the Ketch, but were killed by Vex (they thought the area was dormant).
+    Full of (6) dead Eliksni of an unknown house. It appears they had sliced into the network and captured the Ketch, but were killed by Vex (they thought the area was dormant).
 
 Loot:
     (Quest) Unknown Eliksni House Badge
@@ -50,6 +50,8 @@ Route to earn extra money:
 After Skolas III:
 
     House of Dusk has been corrupted by Harbinger's Reliquary and is attempting to capture Archons for power extraction (They are each given a Reliquary of their own which, in addition to the Prime Ether, grants them their powers). The House has a small moon base on Skolas V's 3rd moon. It has docking space for a Ketch, but there isn't one atm. A skeleton crew remains behind w/ automated defenses. A prime Eliksni and 3 servetors are present. (Prime is level 6, servetor is level 4, Eliksni Dreg is level 3). Records indicate that the Ketch "Rite of Dusk" left the base for coordinates in deep space 2 days ago.
+
+    Sokin Ak'thas,  Kell of the house of dusk, left on the "Rite of Dusk", the crew left behind is 'gravy seals'. Fipas.
 
     The deep space location is home to a warp anomoly, the ship has been ransacked by Tyranids that came through the anomoly (Space Hulk). Records indicate the Ketch's captain was expecting to find another Reliquary at that location as indicated by a dream. The reliquary (and Ketch) can be recovered, it has mutated a Lictor.
 
