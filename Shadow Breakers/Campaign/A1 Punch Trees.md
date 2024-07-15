@@ -8,21 +8,23 @@ We start in the small hamlet of Trimerly where a group volunteers have agreed to
 
 Ordinary day, the ochard is being bothered by dryad's but no one is really bothered (it'll be dealt with in time). Meet the Mayor, Sherif, Wood Speaker, and Berry Picker.
 
-## Mayor
+Culture is Westernized Papua new Guinea. Sea Shell as ex-currency and power cultural touchstone. Wood Carving "These carvers create forms of plants or animals, because they believe these are their ancestor beings and because they feel they are beautiful." Language Tok Pisin (Pidgin Language)
 
-Town elder that oversees the whole of the area. Good spirit, hard to bother.
+## Mayor, Pora Maso
 
-## Sherif
+Town elder that oversees the whole of the area. Good spirit, hard to bother. A Mossy Sauren.
 
-Keeps the peace in the town, doesn't do too much, but cares a great deal.
+## Sherif, Powa Raga
 
-## Wood Speaker
+Keeps the peace in the town, doesn't do too much, but cares a great deal. An Elf.
 
-Druid / Nature cleric. Keeps the peace of the forest and keeps the town in harmony with the wilds.
+## Wood Speaker, Yakamup Moi
 
-## Berry Picker
+Druid / Nature cleric. Keeps the peace of the forest and keeps the town in harmony with the wilds. A Mossy Sauren.
 
-An affectionate title for the head farmer of the town. Primarily deals in fruits and berries.
+## Berry Picker, Ronga Taneti
+
+An affectionate title for the head farmer of the town. Primarily deals in fruits and berries. A Firbol.
 
 # The Orchard
 
@@ -46,3 +48,7 @@ At the back of the Orchard is a large Ash tree. Its bark and Leaves are used by 
 # The Dryad's Hedge
 
 A little ways out of the Orchard is a wlid and thorny shrub from which the dryads arose. It is in the process of growing a new, larger dryad, but will release it only partially formed if disturbed. At the site of the hedge a raven bone fetish is found, hinting this may not have been natural after all.
+
+## Wind Down
+
+The Fetish suggests that this was not, in fact, natural. The mayor sends the characters to meet a Seer/Witch-doctor nearby in order to divine its purpose and origin. This leads to A2.

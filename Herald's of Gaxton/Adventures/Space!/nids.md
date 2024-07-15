@@ -18,6 +18,7 @@ Lictor, Level 9
 Infested Docking Bay (50xp)
     5 Infested Fallen
     Tyranid Spores
+    Killed via ship barrage
 
 Lictor Attack (120 xp)
     While exploring the ship, the lictor attacks from ambush in a coridor and flees when HP is depleated. The lictor has ambush morphs.
