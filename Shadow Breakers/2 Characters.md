@@ -12,13 +12,13 @@ Characters can be built with a template or ala cart, but regardless of the metho
 
 Every hero starts out their life as something else -- like a baker, a farmer, a soldier, or an assassin -- before coming into their own. A character's backgroun reflects this. It's about who they were and what they did before they became a hero.
 
-Typically grants 2 skills +2
+Typically grants 2 skills +1
 
 ### Ancestry and Culture
 
 Before becoming a hero every character must be born. This will impart certain charateristics, values, and taboos to the character. Where they born a Dwarf in a Dwarven stronghold? Or perhaps as an Elf in a human metropolis? Ancestry determines certain features and traits and Culture determines the values the character holds.
 
-Typically grants 1-2 skills +2, as well as free merits and flaws (Most cultures will have a Taboo which is a flaw). Characters do not gain extra merit points for ancestral or cultural flaws.
+Typically grants 1-2 skills +1, as well as free merits and flaws (Most cultures will have a Taboo which is a flaw). Characters do not gain extra merit points for ancestral or cultural flaws.
 
 
 ### Skills
@@ -67,9 +67,13 @@ Dwarven
 Human
 Orc
 Halfling
+Saurian
 
 ### Cultures
 Gaxton, 12th century
+Wood ELf
+High Elf
+Dwarven Clans
 
 ## Skills
 
@@ -123,7 +127,7 @@ Type: Multiple
 
 Requirement: Granted by GM at character creation or by divinity in play.
 
-You have been chosen. You are a Hero. A Dusk Breaker. This makes you better than other people, strong, faster, more reslient, but it also imposes a heavy burden. You will forever be targeted by the Seeping Doom and hunted for all your days, because you have been given the power to fight it.
+You have been chosen. You are a Hero. A Shadow Breaker. This makes you better than other people, stronger, faster, more reslient, but it also imposes a heavy burden. You will forever be targeted by the Seeping Doom and hunted for all your days, because you have been given the power to fight it.
 
 The first point in Heroism grants a number of passive effects. It costs you only 1 point of WP to activate it's effects instead of 2. You may spend WP to recover stress when your spirit is depleated. Wounds you receive heal 5 times faster than normal. All experience costs are reduced by 1 to a minimum of 1. All training times are 10 times faster than normal. People can tell, intuitivly, that you are not an ordinary person.
 

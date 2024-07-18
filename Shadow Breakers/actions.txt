@@ -1,0 +1,62 @@
+The combat system is as follows:
+
+1. The GM determines inititive and surprise.
+    This is done in a way that makes narrative sense. E.g. a hiden character uses steath, etc.
+
+2. Starting from the lowest value (the slowest combatant) each character, in turn, declares and 
+resolves a swift action.
+
+3. Starting from the highest value (the fastest combatant) each character, in turn, declares and 
+resolves a standard action.
+
+4. The GM resolves the round.
+
+Repeat step 2-4 until the conflict ends. 
+
+*Note that any time before a character takes their standard action they can choose to sacrifice
+it and take an Abort Action instead.
+** Actions can fail based on how others react to them.
+*** Some actions (casting a spell) take both a character's swift and standard action.
+
+Action List (Broken up by type).
+
+Swift Actions:
+
+- Move: Move your speed.
+- Aim: Gain aiming bonus to ranged attack. Declare target.
+- Cast: Begin casting a spell; must choose the standard action 'Cast' to complete the spell. 
+    Declare spell and target, expend resources.
+- Use Ready Item: Able to use items or objects that are prepared for use.
+- Find Item: Begin looking for an item; whether in your pack or genearl area.
+- Scan: Scan local area. Gain access to terrain.
+- Interact
+- Defend: +1 Defense OR target an ally to protect.
+- Aid: Assist an Ally.
+- Ready Action: State standard action and trigger. Hold action if and until trigger is met. 
+    Can interupt order.
+- Hold: Pass Swift action in order to resolve standard first.
+
+Standard Actions:
+
+- Attack: Make an attack with a melee or ranged weapon.
+- Cast: Finish casting a spell.
+- Double Move: Move double your movement speed.
+- Withdraw: Carefully move your speed without provoking attacks.
+- Use Item: If first action was 'Find Item' can then use it.
+- Seek: A more careful scan.
+
+Abort Actions:
+
+- Dodge: Move 5 feet in any direction and fall prone.
+- Brace: Stay in place and ready defenses to absorb an attack.
+- Retreat: Move double your speed and ignore the first AOO against you. Must be attempting to 
+    leave the combat.
+- Resist: Attempt to resist against restraints or spell effects.
+- Clamber: Climb up a ledge or regain your feet.
+- Take Cover: Upgrade cover by 1 step.
+
+Free Actions:
+
+- Attacks of Oportunity: Any standard action except for attacking with a melee weapon provokes 
+    an attack of oportunity. All AoO are made with a cumlative -2 penalty. Fighting 2 or higher 
+    is required to make an AoO.

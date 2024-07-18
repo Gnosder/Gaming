@@ -1,0 +1,86 @@
+# Systems - Magic
+
+How to use Magic:
+
+1. Determine if you are casting a known rote spell or are improvising the spell.
+
+If you are casting a rote spell:
+
+As a Swift 
+
+2a. Choose targets for the spell, which defense it will target (Defense, Physical, Mental), and determine the intended effect.
+3a. Expend mana equal to its cost, taking first from your Aura and then from your Spirit, as determined by the rote being cast.
+4a. Expend additional mana to increase your casting bonus and increasing paradox by 1 for each extra mana spent.
+
+As a Standard Action
+
+    *Spells are always succesfully cast, the roll is to determine if it effects the target or not.
+
+5a. Make a spell attack roll targeting the correct defence. The roll is 2d6 plus the LOWEST of any applicable traditions plus your implement's tool bonus plus 1 for each addional mana you spent plus any other bonuses or penalties.
+    * Note: If you DO NOT have the spell's focus, you suffer a -2 penalty to the check.
+6a. If there is any paradox on the spell, compare your roll and the amount of paradox to the Paradox Table and amend the spell's effect with the results.
+7a. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties.
+
+If you are casting an improvised spell.
+
+2b. Use the improvised Spell table to build a spell, then choose targets for the spell, which defense it will target (Defense, Physical, Mental), and determine the intended effect.
+3b. Expend mana equal to its cost, taking first from your Aura and then from your Spirit, as determined while building the spell, increase the spell's paradox by the amount spent.
+4b. Expend additional mana to increase your casting bonus and increasing paradox by 2 for each extra mana spent.
+
+As a Standard Action
+
+    *Spells are always succesfully cast, the roll is to determine if it effects the target or not.
+
+5b. Make a spell attack roll targeting the correct defence. The roll is 2d6 plus the LOWEST of any applicable traditions plus your implement's tool bonus plus 1 for each addional mana you spent plus any other bonuses or penalties.
+    * Note: If you DO NOT have the spell's focus, you suffer a -2 penalty to the check.
+6b. If there is any paradox on the spell, compare your roll and the amount of paradox to the Paradox Table and amend the spell's effect with the results.
+7b. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties.
+
+# Paradox
+
+Using magic recklessly has a chance of disrupted the natural area, disrupting the spell being cast, or worse.
+
+When you cast a spell with paradox, use the spell attack roll to determine the paradox effect and amount of paradox to determine its severity as listed on the table below.
+
+Paradox Table
+| Attack roll | Paradox Effect                                                                                          |
+| :---------: | :------------------------------------------------------------------------------------------------------ |
+|     1-6     | Suffer X stress.                                                                                        |
+|    7-12     | Shift the local stability by X points towards unstable.                                                 |
+|    13-18    | Roll on the wild magic table X times. Then make a new attack roll and use those results on each target. |
+|     18+     | Rip a hole in the fabric of reality to a random plane for X hours.                                      |
+    * X is always equal to the amount of paradox.
+
+Wild Magic Table (2d6)
+| Roll  | Effect                                                                                                              |
+| :---: | :------------------------------------------------------------------------------------------------------------------ |
+|  2-4  | Enemy Ricochet: Copy the spell onto a second enemy target closest to the first that has not already been targeted*. |
+|  5-6  | Glory: Increase the attack roll by 1.                                                                               |
+|   7   | Take 1 Stress.                                                                                                      |
+|  8-9  | Doom: Reduce the attack roll by 1.                                                                                  |
+| 10-12 | Ally Ricochet: Copy the spell onto a second ally target closest to the first that has not already been targeted*.   |
+* If there are no legal targets for the copy of a spell it instead targets the nearest living target instead.
+
+Random Plane Table (1d20)
+| Roll | Plane     |
+| :--: | :-------- |
+| Even | Fey Wild  |
+|  3   | Abyss     |
+|  5   | Water     |
+|  7   | Abyss     |
+|  9   | Earth     |
+|  11  | Wind      |
+|  13  | Abyss     |
+|  15  | Fire      |
+|  17  | Doom Rift |
+|  19  | Doom Rift |
+
+## Paradox Wounds
+
+If you would take a wound form paradox you gain: Paradoxical 1, for each additional stress you would take increase the wound's severity by 1.
+
+Paradoxical adds its value as paradox to future spell casts and is ignored for all other purposes. (It does not effect death, other wounds reiecved, etc.) This wound is healed in the same way as all other wounds, however instead of medical treatment its recovery is sped up simply by being in an area with no instability.
+
+# Area Stability
+
+Every location has a stability score (usually 0) which measures how in tune it is with reality. As space is warped and magic is twisted the location begins to become unstable.
