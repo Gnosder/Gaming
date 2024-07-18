@@ -45,12 +45,15 @@ Master Training: Gain 4 technique points (5 max)
 Supplemental Training: Gain 2 Technique points. Max determined by training.
 Spell Recovery: 1 WP, regain half stamina and 5 Aura.
 Grimoire: You gain a repository of knowledge. Spells can be scribed in the Grimoire in half the time. Spells recorded in a Grimoire can then be learned in half the time.
-Channel Mana: Draw Aura from your surroundings. Cannot reduce ambient aura below 50.
+Draw Mana: Draw Aura from your surroundings up to your maximum.
+Channeling: While casting a spell and for each additional round spent casting the spell before releasing it you can draw 3 Aura from the area.
 Blood Mana: Draw aura from living beings by absorbing their Spirit. A living being reduced to 0 spirit in this way becomes Spirit Torn.
-Mana Void: When channeling mana can reduce the ambient aura to 0 and can refil spirit at 2:1.
-Adjust Spell: Can modify a spell with 1 modifier. Spell costs 1 extra mana.
+Mana Void: When drawing mana can refil spirit by increases instability by 4 for each spirit recovered up to half your maximum.
+Adjust Spell: Can modify a rote spell with 1 modifier. Spell costs 1 extra mana.
+Improvisational Mastery: Reduce an improvised spell's cost by 1 to a minimum of 1. This can be taken multiple times to further reduce the cost.
 Artificer's Bag:
 Emergent Spellcasting
+
 
 # Priest
 

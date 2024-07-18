@@ -19,7 +19,7 @@ As a Standard Action
 5a. Make a spell attack roll targeting the correct defence. The roll is 2d6 plus the LOWEST of any applicable traditions plus your implement's tool bonus plus 1 for each addional mana you spent plus any other bonuses or penalties.
     * Note: If you DO NOT have the spell's focus, you suffer a -2 penalty to the check.
 6a. If there is any paradox on the spell, compare your roll and the amount of paradox to the Paradox Table and amend the spell's effect with the results.
-7a. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties.
+7a. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties however, many rotes have a maxium amount of damage they can deal. Expending any extra mana removes that limit but increases local instability the the amount of damage dealt over the limit.
 
 If you are casting an improvised spell.
 
@@ -36,6 +36,26 @@ As a Standard Action
 6b. If there is any paradox on the spell, compare your roll and the amount of paradox to the Paradox Table and amend the spell's effect with the results.
 7b. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties.
 
+Improvised Magic Table
+    - All spells start at cost 1.
+|  Modifier   | Default        | Growth     | Cost per Growth |
+| :---------: | :------------- | :--------- | :-------------: |
+|   Targets   | 1              | +1         |        1        |
+|     --      | --             | x2         |        2        |
+| Effect Size | 5' cube        | +5' radius |        1        |
+|  Duration   | 1 round*       | Increment* |        1        |
+|    Range    | 30ft           | x5         |        1        |
+|   Effect    | Damage         | --         |       --        |
+|     --      | Buff or debuff | +1         |        1        |
+|     --      | Transformation | --         |        3        |
+|     --      | Conjuration    | --         |   Complexity*   |
+|     --      | Divination     | 1 Question |        1        |
+|     --      | Illusion       | 1 Sense    |        1        |
+    * Duration default is either instant (for damage) or 1 round (anything else).
+    * Duration increments are: 1 round, 1 minute, 10 minutes, 1 hour, 8 hours, 1 day, 1 week, 1 month.
+    ** Duration of an improvised spell cannot exceed 1 month.
+    * Conjuring objects costs mana equal to the complexity of the object.
+
 # Paradox
 
 Using magic recklessly has a chance of disrupted the natural area, disrupting the spell being cast, or worse.
@@ -46,10 +66,11 @@ Paradox Table
 | Attack roll | Paradox Effect                                                                                          |
 | :---------: | :------------------------------------------------------------------------------------------------------ |
 |     1-6     | Suffer X stress.                                                                                        |
-|    7-12     | Shift the local stability by X points towards unstable.                                                 |
+|    7-12     | Shift the local stability by X points towards unstable**.                                               |
 |    13-18    | Roll on the wild magic table X times. Then make a new attack roll and use those results on each target. |
 |     18+     | Rip a hole in the fabric of reality to a random plane for X hours.                                      |
     * X is always equal to the amount of paradox.
+    ** If the spell has a duration the local stability does not decrease while the spell is in effect.
 
 Wild Magic Table (2d6)
 | Roll  | Effect                                                                                                              |
@@ -83,4 +104,19 @@ Paradoxical adds its value as paradox to future spell casts and is ignored for a
 
 # Area Stability
 
-Every location has a stability score (usually 0) which measures how in tune it is with reality. As space is warped and magic is twisted the location begins to become unstable.
+Every location has a stability score (usually 0) which measures how in tune it is with reality. As space is warped and magic is twisted the location begins to become unstable. As instability rises the location begins to desync from reality. Consult the following chart for the effects of stability.
+
+A location is defined by the GM though are typically a single geographical location. Instability can bleed from one location into adjasent locations.
+
+| Instability | Effect                                                                                     |
+| :---------: | :----------------------------------------------------------------------------------------- |
+|      0      | No effect                                                                                  |
+|     1-9     | Regaining spirit in this area deals stress equal to the instability*.                      |
+|    10-20    | Any spell cast in this location gains paradox equal to the locations instability - 10.     |
+|     20+     | The area becomes unteathered from reality and undergoes metamorphesis or planar overlay$^. |
+    * Any wound received from regaining spirit is "Mana Headache 1" and never increases in severity.
+    % Effects can become pemenant if the instability remains high for a season or longer.
+    ^ Effect Severity Increases the longer the Instability remains.
+
+Instability decreases by 1 each day it does not increase. Then, if the Instability is greater than 10 all the surrounding locations gain 1 instability.
+    * Dear GM, This can be a PITA to track but, don't blame me, blame your foolish magic user instead. 
