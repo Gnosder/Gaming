@@ -82,18 +82,18 @@ There are 20 non-magic skills. The 5 magical skills are listed in the Magic chap
 ### Skill List
 Athletics
 Craft
-Fighting
 Perception
 Stealth
 Survival
 Thievery
-Art
+
 Deception
 Diplomacy
 Empathy
+Expression
 Intimidation
-Performance
 Society
+
 Academics
 Arcane
 Lore

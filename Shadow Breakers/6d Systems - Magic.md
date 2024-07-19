@@ -9,15 +9,15 @@ If you are casting a rote spell:
 As a Swift 
 
 2a. Choose targets for the spell, which defense it will target (Defense, Physical, Mental), and determine the intended effect.
-3a. Expend mana equal to its cost, taking first from your Aura and then from your Spirit, as determined by the rote being cast.
-4a. Expend additional mana to increase your casting bonus and increasing paradox by 1 for each extra mana spent.
+3a. Expend Aura equal to its cost, as determined by the rote being cast.
+4a. Expend additional mana in steps equal to the spell's level to increase your casting bonus and paradox by 1 per extra step.
 
 As a Standard Action
 
     *Spells are always succesfully cast, the roll is to determine if it effects the target or not.
 
-5a. Make a spell attack roll targeting the correct defence. The roll is 2d6 plus the LOWEST of any applicable traditions plus your implement's tool bonus plus 1 for each addional mana you spent plus any other bonuses or penalties.
-    * Note: If you DO NOT have the spell's focus, you suffer a -2 penalty to the check.
+5a. Make a spell attack roll targeting the correct defence. The roll is 2d6 plus power plus your implement's tool bonus plus 1 for each X addional mana you spent plus any other bonuses or penalties.
+    * Note: If you have the spell's focus, you gain +1 to the check.
 6a. If there is any paradox on the spell, compare your roll and the amount of paradox to the Paradox Table and amend the spell's effect with the results.
 7a. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties however, many rotes have a maxium amount of damage they can deal. Expending any extra mana removes that limit but increases local instability the the amount of damage dealt over the limit.
 
@@ -51,10 +51,12 @@ Improvised Magic Table
 |     --      | Conjuration    | --         |   Complexity*   |
 |     --      | Divination     | 1 Question |        1        |
 |     --      | Illusion       | 1 Sense    |        1        |
+|   Casting   | Standard       | -step*     |       1*        |
     * Duration default is either instant (for damage) or 1 round (anything else).
     * Duration increments are: 1 round, 1 minute, 10 minutes, 1 hour, 8 hours, 1 day, 1 week, 1 month.
     ** Duration of an improvised spell cannot exceed 1 month.
     * Conjuring objects costs mana equal to the complexity of the object.
+    * Casting steps are Standard, Abort, Swift for 0,1,3 mana.
 
 # Paradox
 
@@ -66,7 +68,7 @@ Paradox Table
 | Attack roll | Paradox Effect                                                                                          |
 | :---------: | :------------------------------------------------------------------------------------------------------ |
 |     1-6     | Suffer X stress.                                                                                        |
-|    7-12     | Shift the local stability by X points towards unstable**.                                               |
+|    7-12     | The local area gains x instability**.                                               |
 |    13-18    | Roll on the wild magic table X times. Then make a new attack roll and use those results on each target. |
 |     18+     | Rip a hole in the fabric of reality to a random plane for X hours.                                      |
     * X is always equal to the amount of paradox.
@@ -98,7 +100,7 @@ Random Plane Table (1d20)
 
 ## Paradox Wounds
 
-If you would take a wound form paradox you gain: Paradoxical 1, for each additional stress you would take increase the wound's severity by 1.
+If you would take a wound from paradox you gain: Paradoxical X, where X is the amount of left over stress after reaching 0.
 
 Paradoxical adds its value as paradox to future spell casts and is ignored for all other purposes. (It does not effect death, other wounds reiecved, etc.) This wound is healed in the same way as all other wounds, however instead of medical treatment its recovery is sped up simply by being in an area with no instability.
 
@@ -120,3 +122,46 @@ A location is defined by the GM though are typically a single geographical locat
 
 Instability decreases by 1 each day it does not increase. Then, if the Instability is greater than 10 all the surrounding locations gain 1 instability.
     * Dear GM, This can be a PITA to track but, don't blame me, blame your foolish magic user instead. 
+
+# Spell Components
+
+A list of all the things spells can do, their steps, and improvised casting costs.
+Cost is shown as [first step], [Each extra step] if there is 3 then it is first step, second step, extra step.
+
+| Spell Component          | Steps                                                       | Cost      |
+| :----------------------- | ----------------------------------------------------------- | --------- |
+| Damage                   | --                                                          | --        |
+| Duration                 | Instant, 1rd, 1min, 10min, 1h, 8h, 1d, 7d, 1m, 1 season, 1y | -1, +1    |
+| Range                    | Touch, 30ft, 150ft, 1000ft, 1m                              | -1, +1    |
+| Targets                  | Self, 1, 3, 6, 12, 24                                       | -1, +1    |
+| Radius                   | 0, 5ft, 15ft, 30ft, 35ft, 40ft                              | 0, +1     |
+| Size                     | 0,  1 5ft^3, 27 5ft^3, 125 5ft^3, 343 5ft^3                 | 0, +1, +2 |
+| Skill Buff               | +1...                                                       | +1        |
+| Combat Buff              | +1...                                                       | +2        |
+| Transformation           |                                                             |           |
+| Conjuration              |                                                             |           |
+| Summoning                |                                                             |           |
+| Casting Speed            |                                                             |           |
+| Defense or combat buff   |                                                             |           |
+| Save buff                |                                                             |           |
+| Detection                |                                                             |           |
+| Ward                     |                                                             |           |
+| Resist/protect [element] |                                                             |           |
+| Shield                   |                                                             |           |
+| Comprehend               |                                                             |           |
+| Locate                   |                                                             |           |
+| Scry/See                 |                                                             |           |
+| Augry                    |                                                             |           |
+| Charm / Dominate         |                                                             |           |
+| Enhance Emotion          |                                                             |           |
+| Daze                     |                                                             |           |
+| Facinate                 |                                                             |           |
+| Damage [+element][+area] |                                                             |           |
+| Figmint                  |                                                             |           |
+| Disguise                 |                                                             |           |
+| Obscure                  |                                                             |           |
+| Heal / harm              |                                                             |           |
+| Repair                   |                                                             |           |
+| Add trait                |                                                             |           |
+| Enhance trait            |                                                             |           |
+| Manipulate               |                                                             |           |

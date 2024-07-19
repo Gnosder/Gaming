@@ -212,3 +212,21 @@ Weapons: Have properties and Types.
     | Acid        |        |
     | Prime       |        |
     | Spirit      |        |
+
+2024/7/18
+
+What if combat, like magic had 3 traits that could increased by buying talents.
+Attack, Damage, Defense (saves still based on Stress and Will).
+
+If I'm already doing 3 traits for magic and physical, should I also do socail?
+    E.g. Clout, Reputation, Status, etc.
+Nah.
+
+Traits can augment skills, combat, or magic. Many traits will, in addition to a static bonus (e.g. +1 Attack) grant abilities.
+Have skill traits grants skill points, and have each level of a skill cost more (i.e. 1,1,3,3,5) with specialization available at 2 and 4 for (2 and 4 sp each).
+
+Background and culture still grant +1 to skill. 
+
+Experience
+
+Everything should be purchased ala cart. Only talents may be purchased. Training grants XP to be spent towards something. 

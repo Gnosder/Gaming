@@ -34,9 +34,13 @@ All magic has Techniques:
 And all magic has forms determined by tradition:
     Attempting a form not given to you by your tradition invokes a penalty.
 
+What if spirit is 1-10, but aura is uncapped (like sorcery points in dnd, but based more on a warlock).
+As you gain in power (i.e. picking up magical talents) your aura increases.
+Magic has 3 attributes: Force [power], Aura [storage], Memory [spell list size], these increase by taking talents. (This replaces techniques).
 
+Talent to covert spirit to aura, each tier increases conversion rate.
 
-
+Building spells: Choose an effect to determine spell level, then choose modifiers to determine complexity. Level determmines base aura cost which is then modified by complexity.
 
 
 
