@@ -84,6 +84,7 @@ The dominion claims the land of Berin as soverign. Submit and live, resist and b
 
 Midgardsormr "dead"
 Notable members
+Ghaul
 Bahamut
 Tiamat
 Hraesvelgr
@@ -134,3 +135,23 @@ Geth architecture on the other hand is organic and flowing. Cables and struts ar
 Lola -- Item
 Hoverboard/Jetpack/Sparrow
 Jet Boots (Jet Heelies) - 50ft jet movement
+
+
+Aug 8
+
+LEvel up to 7
+
+Herald
+    "We seek not the dark but the shape"
+    "We know not the dark but the void of light"
+    "Let all know we witness the fall of light"
+
+Harbinger
+    ""We have all we need, we only need to see it done.""
+    "We don't know what it will do or what it will become."
+
+Player Ketch:
+    Name: The Good Bu'gar
+    Ship Kell: Kell Ken'nan
+    Custum skeleton crew; ship skeleton pet
+
