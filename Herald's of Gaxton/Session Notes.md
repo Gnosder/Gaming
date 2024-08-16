@@ -155,3 +155,4 @@ Player Ketch:
     Ship Kell: Kell Ken'nan
     Custum skeleton crew; ship skeleton pet
 
+** Check everyone's character sheet
