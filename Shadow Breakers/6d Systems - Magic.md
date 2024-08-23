@@ -19,7 +19,7 @@ As a Standard Action
 5a. Make a spell attack roll targeting the correct defence. The roll is 2d6 plus power plus your implement's tool bonus plus 1 for each X addional mana you spent plus any other bonuses or penalties.
     * Note: If you have the spell's focus, you gain +1 to the check.
 6a. If there is any paradox on the spell, compare your roll and the amount of paradox to the Paradox Table and amend the spell's effect with the results.
-7a. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties however, many rotes have a maxium amount of damage they can deal. Expending any extra mana removes that limit but increases local instability the the amount of damage dealt over the limit.
+7a. If the spell attack roll is greater than the targeted defense the spell effects the target. If the spell did damage, the amount of damage it deals is equal to the difference between the target's defense and the attack roll plus any other bonuses or penalties however, many rotes have a maxium amount of damage they can deal. Expending any extra mana removes that limit.
 
 If you are casting an improvised spell.
 
@@ -70,16 +70,17 @@ Paradox Table
 |     1-6     | Suffer X stress.                                                                                        |
 |    7-12     | The local area gains x instability**.                                               |
 |    13-18    | Roll on the wild magic table X times. Then make a new attack roll and use those results on each target. |
-|     18+     | Rip a hole in the fabric of reality to a random plane for X hours.                                      |
+|     18+     | Rip a hole in the fabric of reality to a random plane for X hours.***                                   |
     * X is always equal to the amount of paradox.
     ** If the spell has a duration the local stability does not decrease while the spell is in effect.
+    *** Only if the area is already Instable. Otherwise reduce X by 1 and treat it as a roll on the wild magic table.
 
 Wild Magic Table (2d6)
 | Roll  | Effect                                                                                                              |
 | :---: | :------------------------------------------------------------------------------------------------------------------ |
 |  2-4  | Enemy Ricochet: Copy the spell onto a second enemy target closest to the first that has not already been targeted*. |
 |  5-6  | Glory: Increase the attack roll by 1.                                                                               |
-|   7   | Take 1 Stress.                                                                                                      |
+|   7   | Atrophy: Increase area Instabiity by 1.                                                                             |
 |  8-9  | Doom: Reduce the attack roll by 1.                                                                                  |
 | 10-12 | Ally Ricochet: Copy the spell onto a second ally target closest to the first that has not already been targeted*.   |
 * If there are no legal targets for the copy of a spell it instead targets the nearest living target instead.
@@ -165,3 +166,20 @@ Cost is shown as [first step], [Each extra step] if there is 3 then it is first 
 | Add trait                |                                                             |           |
 | Enhance trait            |                                                             |           |
 | Manipulate               |                                                             |           |
+
+# Spells 8/22
+
+Spells have Tier (level), Cost (1/3/5/etc.), effects
+
+Effects:
+    Elemental
+        Fire
+        Ice
+        Wind
+        Earth
+        Light
+        Dark
+    Range
+    Radius/Shape
+    Duration
+    Misc.

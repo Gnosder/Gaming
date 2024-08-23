@@ -19,7 +19,7 @@ Stat Levels
 2 - Experienced (can be used to make a living)
 3 - Expert (Highest a new character can have)
 4 - Master
-5 - Grand Master (Highest possible skill level)
+5 - Grand Master (Mastery level past this have increased cost scaling (lvl + lvl over 5))
 Specilization - Adv 1
 
 # 3 Sheets

@@ -36,6 +36,7 @@ Combat is swift and fluid.
 
 - Attack: Make an attack with a melee or ranged weapon.
 - Cast: Finish casting a spell.
+- Channel: Regain POW aura, but increase INST by half POW (R-Up).
 - Double Move: Move double your movement speed.
 - Withdraw: Carefully move your speed without provoking attacks.
 - Use Item: If first action was 'Find Item' can then use it.
@@ -47,6 +48,7 @@ Combat is swift and fluid.
 - Dodge: Move 5 feet in any direction and fall prone. Interrupt.
 - Fallback: Move double your speed and ignore the first AOO against you.
 - Resist: Attempt to resist against bonds or spell effects.
+- Sheild Block: Reduce inc dmg by d6. (Merits can make this free).
 - Snap Shot: Lose aim bonus, attack a target at -2.  Interrupt.
 
 
