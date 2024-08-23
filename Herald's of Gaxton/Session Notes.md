@@ -152,7 +152,13 @@ Harbinger
 
 Player Ketch:
     Name: The Good Bu'gar
-    Ship Kell: Kell Ken'nan
+    Ship Kell: Kell Ken'nan Keembal
     Custum skeleton crew; ship skeleton pet
 
 ** Check everyone's character sheet
+
+24 8 22
+Alfie -- Bound AI, has the form of Edi (Mass Effect)
+Ghost Ship (Apache) - Alfie gave update, Alfie has optomized the adventure guild's delve into the MT.
+ 
+

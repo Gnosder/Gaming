@@ -16,4 +16,4 @@ The quake was caused by Tamernian survivors that are mining the Diamonds and usi
 
 Volcanic Mine, Crab People Zombies, Insane (Helpful, but very illegal) A.I., Large store of hard to synthasize Sulfur Diamonds, Cache of pre-extenction Tamernian data.
 
-Slanesh == Eoerr
+Nergal,  == Eoerr (primordial), decayed one, (other names Phthisis, Tabes)
