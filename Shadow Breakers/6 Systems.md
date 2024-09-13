@@ -10,7 +10,7 @@ Whenever a character declares an action the default asumption is that it succeed
 
 When called on to make a simple Action check characters roll 2 six-sided dice (2d6), add them together, and then add to them their skill in that action and the quality of any tools they use. If 2 or more skills or tools are required for the check, the lowest value of each is used. If the Action Check beats the Difficulty Class (DC) of the action then it succeeds. Some actions can gain bonuses depending on how high above the DC they roll. Some checks are granted advantage or disadvantage. Players add a number of d6s to the roll based on the net difference of advantage and disadvantage (where two cancel each other out 1:1). Then, if the overall roll is advantaged choose the 2 highest numbers, otherwise choose the 2 lowest.
 
-Action DCs are set by the GM and are loosly tied to how difficult an action is in the fiction with 9 being considered an easy check with a 50% chance of success. NOTE: Situational bonuses or penalties affect the DC and not the action roll.
+Action DCs are set by the GM and are loosly tied to how difficult an action is in the fiction with 7 being considered an easy check with a 50% chance of success for untrained characters. NOTE: Situational bonuses or penalties affect the DC and not the action roll.
 
 In addition to the simple Action Check listed above there are 2 other types of Action Checks: Complex and Contested.
 
@@ -28,29 +28,29 @@ Each character is made up of a number of skills, characteristics, and abilities.
 
 ## Stress
 
-Stress represents a character's mental and physical stamina and their ability to remain present in a scene. Stress is usually a value between 5 and 10. When stress hits zero a character get wounded and is in danger of dying.
+Stress represents a character's mental and physical stamina and their ability to remain present in a scene. Characters start with 8 stress. When stress hits zero a character get wounded and is in danger of dying.
 
-Stress can be recovered in a number of ways, it natually recovers at the rate of 1 per minute or completely during a short rest.
+Stress can be recovered in a number of ways, it natually recovers at the rate of 1 per minute or completely during a short rest. Any character can expend a point of spirit to refill their stress. Characters with the breaker trait can spend a point of willpower to restore half their stress.
 
 ## Willpower
 
 Willpower represents a character's resolve and their ability to force their way through trials and tramas. Willpower is not lost like Stress, but is instead spent as a currency. A player may decide to spend a point of Willpower to add 3 to any roll they make, to reroll the dice, or to power player intrusions. While there is no penalty to running out of Willpower, doing so severly limits a characters ability to direct the flow of play.
 
+Willpower is regained at a rate of 1 each day, when engaging in a vice, and completly during a long rest.
+
 ## Victories
 
 Victories are tied to a charater's successes in a session. For each victory earned a character gains an Adrenaline Rush, fully restoring their Stress, and marks their character sheet. At certain thresholds characters gain flat bonuses to all of their actions (Starting at a +1 at 3 victories, +2 at 5, and +3 at 8). Victories are empowering but short lived. After a long rest all victories are converted into Experience and reset. A character can have no more than 10 victories at a time, any gained over this limit are lost.
 
+The seeping void is sensitive to the victories of breakers. As a character with the breaker trait gains victories, the seeping void pays more attention to them. Each time a breaker reaches a new bonus (at 3,5, and 8) a point is added to the doom pool.
+
 ## Spirit (Mana)
 
-All characters have access to magic, though not all understand it. Spirit is the magic stored in the self, it is largely accumulated and spent naturally. By default all characters have a spirit cap of 8 and can use it in two ways. While Spirit is made up of Mana and can be spent as such, some abilties specify where the mana must come from.
+All characters have access to magic, though not all understand it. Spirit is the magic stored in the self, it is largely accumulated and spent naturally. By default all characters have a spirit cap of 6 and can use it in two ways. The first is to power abilities and the second is to restore stress.
 
-### Second Wind
+Spirit recovers at a rate of 1 every 12 hours, while perforing an oblation, and fully during a long rest.
 
-First, after a character is reduced to 0 Stress and takes a wound they may reflexivly spend 3 Spirit Mana to refill their stress to full. If they do not, their stress remains at 0 and each new instance of damage deals them a wound.
-
-### Defy Death
-
-Secondly, if a character would be killed they may fully expend all their Spirit Mana and gain the wound "Soul Shriven 5" to instead not be killed.
+While Spirit is made up of Mana and can be spent as such, some abilties specify where the mana must come from.
 
 ## Wounds, Recovery, and Death
 
@@ -67,15 +67,15 @@ Recovering from a wound takes time and rest. While magic can help speed up recov
 
 ## Defense, Armor, and Shielding
 
-While stress can be lost in any number of ways the most common is to physical attacks. Characters are particularly resistant (or at least aware) of this type of damage and so have a Defense score. This score comes in two parts Protected and Vulnerable. By default a character is considered to be Vulnerable and their defense is simply their Fighting or Athletics Skill + 5. This is the DC that other characters must beat in order to damage them with attacks.
+While stress can be lost in any number of ways the most common is to physical attacks. Characters are particularly resistant (or at least aware) of this type of damage and so have a Defense score. A character's defense is equal to their Athletics skill + 5 (which is considered the base defense).
 
-Many characters augment their survivability by wearing armor or protective equipment. Each set of armor has, among others, a defense value and a stress value. The stress value acts as a second Stress bar that is lost before normal stress (but only against attacks that the armor would prevent). For as long as the armor has stress points remaining it adds its full defense value to the character's Defense and that character is considered Protected. When an Armor's stress is reduced to 0, its defence value is cut in half (round up) and the character is once again considered Vulnerable.
+Many characters augment their survivability by wearing armor or protective equipment. Each set of armor has a stress value. The stress value acts as a second Stress bar that is lost before normal stress (but only against attacks that the armor would prevent). When a character takes a wound they can have their suffer the wound for them. This damages the armor and reduces its maximum armor stress by 2 per severity of the wound. When an armor's max stress reaches 0, the armor is destroyed.
 
-There are some types of secondary protective equipment, such as shields, that can augment a character's defense.
+There are some types of secondary protective equipment, such as shields, that can grant bonus stress known as shielding and can also absorb wounds.
 
 Finally, some spells or abilities grant bonus stress refered to as Shielding (not to be confused with the item).  Shielding stress is lost first, before armor or normal stress.
 
-Armors restore lost stress during a short rest (to repair/readjust it) or thanks to an Adrenaline Surge.
+Armors restores lost stress when the Perform Maintenance task is done on it.
 
 Sheilding typically lasts only for a few moments and is fully lost after 1 minute.
 
@@ -95,12 +95,38 @@ As mentioned above, there are 2 lengths of rests that impact character statistic
 
 A short rest usually last anywhere from 20 minutes to 3 days. These rests are generally long enough to catch one's breath, repair and maintain equipment, or camp for the night. During a short rest characters fully recover stress, service their equipment (restoring any lost stress), and can take part in a number of camp tasks (as determined by the length of the rest and the GM). If a rest is particularly relaxing a GM may let characters regain a single point of Willpower.
 
-A long rest usually lasts at least a few days and has no upper limit; some can last years. It is during this time that characters are able to fully relax, train, and partake in life outside adventures. During this time all a characters resources are fully restored, their victories are converted to experience, and experience can be spent to improve skills and abilities.
+A long rest usually lasts at least a few days and has no upper limit; some can last years. It is during this time that characters are able to fully relax, train, and partake in life outside adventures. During this time all a characters resources are fully restored, their victories are converted to experience, they can partake in training, and advances are gained.
+
+## Camp Tasks
+
+Time during a rest is fluid. There is no need to play out every minute of a rest. Actions and tasks resolve in a way that makes the most sense. In general, if a character is not engaged in a task they can be assumed to be standing watch.
+
+### Stand Watch
+
+Any character can, at any time, choose to stand watch. Only characters that are standing watch can make perception checks to avoid an ambush. If a character is performing another task, they cannot stand watch.
+
+### Perform Maintenance
+
+Spend time repairing and patching equipment, adjusting bags, checking supplies, and other such things. Each instance of this task takes around 5 minutes.
+
+### Partake in Vice
+
+The world is full of vices and the Seeping Void encourages mortals to indulge in them. Indulging in a vice allows a character to roll a willpower die. White pips result in regaining willpower, while black pips result in the Void gaining power. A character can only roll the willpower die this way once per day regardless of results.
+
+### Perform Oblation
+
+Every person has rituals and prayers that they take part in to restore their spirit, to feed their soul. When they perform an oblation they can roll a willpower die and regain as many points of spirit as the pips they roll, regardless of color.A character can only roll the willpower die this way once per day regardless of results.
+
+### Use a Camp Ability
+
+This is a catch all for any camp abilities a character may have access to. The time it takes is listed in the ability description.
+
+E.g. Having a mess kit allows a character to cook a meal which grants shielding for an hour.
+
 
 # Modes of Play
 
-As referenced above there are several modes of play that can impact the length of a game round. These modes are broadly defined as: Plotting, Exploration, Delving, and Combat; ordered from longest to shortest game round. These modes will be discussed in more depth later on in this chapter.
-
+As referenced above there are several modes of play that can impact the length of a game round. These modes are broadly defined as: Plotting, Exploration, Delving, and Combat; ordered from longest to shortest game round.
 ## Plotting
 
 Plotting is the mode of play with the longest rounds and is reserved for during and after Long rests; that is, the period between adventures where the characters can still act, but the players don't fully play out.

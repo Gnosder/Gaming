@@ -143,3 +143,21 @@ Rotes are pre-made spells that can be learned. They are cheaper but less flexibl
 
 Emergency Shield: Target self; Range touch; Duration 1 round; Casting Abort; Gain sheild 5.
     Cost: 1 mana.
+
+
+    # Spells 8/22
+
+Spells have Tier (level), Cost (1/3/5/etc.), effects
+
+Effects:
+    Elemental
+        Fire
+        Ice
+        Wind
+        Earth
+        Light
+        Dark
+    Range
+    Radius/Shape
+    Duration
+    Misc.

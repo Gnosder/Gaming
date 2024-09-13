@@ -31,6 +31,7 @@ Combat is swift and fluid.
 - Aid: Assist an Ally.
 - Ready Action: State standard action and trigger. Hold action if and until trigger is met. Can interupt order.
 - Hold: Pass Swift action in order to resolve standard first.
+- Second Wind: Expend 1 spirit to fully restore Stress. Once per hour.
 
 ## Standard Actions
 
@@ -50,9 +51,6 @@ Combat is swift and fluid.
 - Resist: Attempt to resist against bonds or spell effects.
 - Sheild Block: Reduce inc dmg by d6. (Merits can make this free).
 - Snap Shot: Lose aim bonus, attack a target at -2.  Interrupt.
-
-
-
 
 ## Action Debt
 
