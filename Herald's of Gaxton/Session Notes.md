@@ -160,5 +160,12 @@ Player Ketch:
 24 8 22
 Alfie -- Bound AI, has the form of Edi (Mass Effect)
 Ghost Ship (Apache) - Alfie gave update, Alfie has optomized the adventure guild's delve into the MT.
- 
 
+24 9 11
+Went back to the elves in the mountains at Brigant Coed, met Fasiel.
+Told about Nemeto Dunon and Osbiel and Mudon.
+-- center of town, Tended by Nidhel (doesn't like non-elves or Gaxton).
+Got map to Nemeto Dunon (waygate) from Mithrilion (gave him a map of the region)
+Caer Vanth 
+Parthanar - Apprentice grove tender
+Osbiel - Elven Elder, 1500 years old, knows Tiamat and Gaul.
