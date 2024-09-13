@@ -23,6 +23,7 @@ Combat is swift and fluid.
 - Move: Move your speed.
 - Aim: Gain aiming bonus to ranged attack. Declare target.
 - Cast: Begin casting a spell; must choose the standard action 'Cast' to complete the spell. Declare spell and target, expend resources.
+- En Guard: Activate Stances, ready shield.
 - Use Ready Item: Able to use items or objects that are prepared for use.
 - Find Item: Begin looking for an item; whether in your pack or genearl area.
 - Scan: Scan local area. Gain access to terrain.
