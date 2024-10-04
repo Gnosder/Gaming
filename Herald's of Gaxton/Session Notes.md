@@ -153,7 +153,7 @@ Harbinger
 Player Ketch:
     Name: The Good Bu'gar
     Ship Kell: Kell Ken'nan Keembal
-    Custum skeleton crew; ship skeleton pet
+    Custem skeleton crew; ship skeleton pet
 
 ** Check everyone's character sheet
 
@@ -166,6 +166,22 @@ Went back to the elves in the mountains at Brigant Coed, met Fasiel.
 Told about Nemeto Dunon and Osbiel and Mudon.
 -- center of town, Tended by Nidhel (doesn't like non-elves or Gaxton).
 Got map to Nemeto Dunon (waygate) from Mithrilion (gave him a map of the region)
-Caer Vanth 
+  Caer Vanth -- the fortress in the center of Nemeto Dunon (which is the old elven capital)
+
 Parthanar - Apprentice grove tender
 Osbiel - Elven Elder, 1500 years old, knows Tiamat and Gaul.
+
+Switching over to Dusk Breakers, made everyone a new character sheet.
+    Things to keep an eye on 
+        - Lethiality and damage
+        The intent is to have characters last 1-2 hits against equal opponents. Getting one-shot is too lethal, chip damage should be in the 2-3 range.
+
+Mudon - Childhood friend of Gene, upset gene chose an old tradition over his people.
+    When an elf is born they plant a tree for them, and when the elf dies the tree is cut down*. Gene decided to protect the tree of a dead elf child rather than go with his people into the mountains.
+    * In the old old ways, the trees where never cut down, they were allowed to grow wild. However, a few 1000 years ago, the trees were cut down when elves died in a forign war and it eventually spread to whenever an elf dies.
+    Osbiel understands gene's reasoning. 
+
+Elven stress: Mudon wants the old ways back. Osbiel wants the customs to reflect the times, shes ok with some of the old ways, but she doesn't want to abandon the present. (the old ways were very conservetive).
+
+Gene's Bad Feeling: Now that the elves have moved back into Nemeto Dunon, an old evil kept beneath the fortress is waking up.
+    During the war of the mages the Machi sent a voidsent to destroy the elves. The elves trapped the voidsent, but could not kill it. Now it is breaking free and stronger than it was (thanks Wrath). Osbiel knows but is keeping it quite. She'll let gene in on it when she feels the time is right. The voidsent is Sluagh, a void/pollution daemon.
