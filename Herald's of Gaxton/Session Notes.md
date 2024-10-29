@@ -185,3 +185,12 @@ Elven stress: Mudon wants the old ways back. Osbiel wants the customs to reflect
 
 Gene's Bad Feeling: Now that the elves have moved back into Nemeto Dunon, an old evil kept beneath the fortress is waking up.
     During the war of the mages the Machi sent a voidsent to destroy the elves. The elves trapped the voidsent, but could not kill it. Now it is breaking free and stronger than it was (thanks Wrath). Osbiel knows but is keeping it quite. She'll let gene in on it when she feels the time is right. The voidsent is Sluagh, a void/pollution daemon.
+
+10/15/24
+
+Gene aressted for treason by Mudon, will prob be aquitted.
+
+Maeven, Elvish Archaeologist, tomb raider, etc.
+    Investigating cistern
+
+Cistern, Elvish Ruins corrupted by Wrath, Elvish Barrow
