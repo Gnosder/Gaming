@@ -108,3 +108,22 @@ Also, scale by *impact*:
 ---
 
 Want a printable summary table or quick GM reference PDF for this? I can generate that too.
+
+
+A common question I get as a game master when I give out monetary rewards in games is "Is that a lot?" I always pull out a rough answer for my players, but I feel I never know for sure. Ttrpg books usually dedicate a table or two to sundry goods, but I've never felt those tables were enough. I don't want a full economic breakdown of a fantasy world. I never need that much granularity in my games and I don't run simulations. Thus, abstraction is good enough. I want to create a simple system for understanding the value of goods, services, and money.
+
+Economies can be broken down into supply and demand; where if both are equal the price of goods stays constant, if demand out weighs supply then prices increase, and if supply out weighs demand prices fall. This comes with it the idea of inflation and deflation. Of booms and recessions. Of fluctuating prices and an interconnected world. Unless I'm running a game about econmics, I don't need any of that. Further, all sales are going to have a base value and a markup at the point of sale; further complicating things.
+
+What if I replace supply and demand with Value and Availability. Where value is a set amount and availability changes based on context. Availability does 
+
+There are two major types of services: 'unskilled', and skilled. Unskilled services will pay a minimum daily rate. Skilled services will 
+
+I don't know where I"m going with this. I want to know the value of money. I think the issue arose with 5e. The game gave characters wealth but didn't include any way to spend it. Thus characters were collecting money that was, or at least felt, worthless. How do I make it feel like it has worth? First, rewards should not be determined by character level, but site level; this is partially assumed.
+
+Can this be summed up by just having a really good list? What would it look like? Didn't I have one of those in the past? Found it:  C:\Users\Patri\OneDrive\Documents\_GitHub\Gaming\zOld\Herald's of Gaxton\Fugue Wrath\Old\Equipment.md and C:\Users\Patri\OneDrive\Documents\_GitHub\Gaming\zOld\Herald's of Gaxton\Fugue Wrath\Old\loot.md
+
+Money in a ttrpg does 2 things. It serves as an advancement track, where money is exchanged for power. Second it serves to ground the world and make it feel more real.
+
+Thus you have 2 types of goods and services: Advancement and Versimilatude or color. (worth noting that there is a 3rd class of goods, called loot, that has value but no purpose; I suppose, technically, it falls under the 2nd type above.)
+
+Advancement comes in a few flavors: Status, Temporary boons, permanent upgrades. Everything else is color.
