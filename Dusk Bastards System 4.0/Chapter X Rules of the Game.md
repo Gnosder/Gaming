@@ -327,3 +327,75 @@ Diseases work like poisons, but their effect occurs every day, so the victim mus
 
 The GM has the final day over what special damage will affect an NPC. Human NPCs usually react like characters, but nonhuman creatures might react very differently.
 If an minion NPC is susceptible to an attack that would deal them a wound, using that attack usually kills the minion.
+
+## Cover
+
+If a character is behind cover so that a significant portion of their body is behind something sturdy, attacks agains the character are hindered.
+
+If a character is entierly behind cover (their entire body is behind something sturdy), they can't be attacked unless the attack can go through the cover. For example, if a character hides behind a thin wooden screen with a rifle that can penetrate the wood, the character can be attacked. However, because the attacker can't see the character clearly, this still counts as cover.
+
+## Position
+
+Sometimes where or how a character stands gives them an advantage or a disadvantage.
+
+**Prone Target:** In melee, a prone target is easier to hit (attacks agains them are eased). In ranged combat, a prone target is harder to hit (attacks against them are hindered).
+
+**Higher Ground:** In either ranged or melee combat, attacks by an opponent on higher ground are eased.
+
+## Surprise
+
+When a target isn't aware of an incoming attack, the attacker has advantage. A ranged sniper in a hidden position, an invisible assailant, or the first salvo in an ambush are all eased by two steps. For the attacker to gain this advantage, however, the defender truly must have no idea that the attack is coming.
+
+If the defender isn't sure of the attackert's location but is still on guard, the attacks are eased by only one step.
+
+## Range
+
+In melle, you can attack a foe who is adjacent to you or within reach. If you enter into melee with one or more foes, usually you can attack most or all of the combatants.
+
+The majority of ranged attacks have only two ranges: short range and long range (a few have very long range). Firing beyond your weapon's range hinders the attack by 1 step per additional range up to the maximum range of the weapon. 
+
+**Point Blank:** If a character uses a ranged weapon against a target within immediate range, the attack is eased.
+
+## Illumination
+
+What characters can see (and how well they can see) plays a huge factor in the game. Each brightness has a range. Characters can clearly see any targets closer than that range, are hindered attacking or acting against characters at that range and cannot see any targets beyond that range (treat them as if they were invisible).
+
+**Dim Light:** Dim light is the approximately the amount of light on a night with a bright full moon of the illuminatin provided by a torch, flashlight, or desk lamp. Dim light allows you to see out to short range.
+
+**Very Dim Light:** Very dim light is appoximately the amount of light on a starry night with no visible moon, or the glow provided by a candle. Very dim light allows you to see clearly only within immediate range.
+
+**Darkness:** Darkness is an area with n illumination at all. Targets in complete darkness are impossible to see.
+
+## Visibility
+
+Similar to illuminatin, factors that obscure vision affect combat.
+
+**Lightly Obscured:** A creature who is lightly obscured, as if by fog or mist, is similar to one in dim light. Ranged attacks against such targets are hindered.
+
+**Heavily Obsured:** A creature who is heavily obscured, by deep fog or foliage, is nearly impossible to hit with a ranged attack (treat it was darkness) and even melee attacks are hindered.
+
+**Hidden:** A creature in dense foliage, behind a screen, or behind full cover are hidden and cannot be seen. These creatures cannot be targeted until they are located. Either by searching, using another sense, or some other method.
+
+**Invisible:** Similar to hidden, but an invisible creature cannot be directly located via sight. Even knowing the creature's location is not enough to reliably hit them. Attacks against an invisible creature are hindered by 2 steps.
+
+## Water
+
+Being in shallow water can make it hard to move, but it doesn't affect combat. Being in deep water can make things more difficult and being underwater entirely can seem as different as being on another world.
+
+**Deep Water:** Being in water up to your chest hinders your attacks. Aquatic creatures ignore this.
+
+**Underwater:** For nonaquatic creatures, being completly underwater makes attacking very difficult. Melee attacks with stabbing weapons are hindered by one step, and melee attacks with slashing or bashing weapons are hindered by two steps. Most ranged weapons will not function underwater, attacks with ranged weapons that do function underwater are hindered by one step. Further, weapon ranges are all reduced by one step.
+
+## Moving Targets
+
+Moving targets are harder to hit, and moving attackers have a difficult time as well.
+
+**Ranged attacks and movement:** If you're using a ranged weapon and your target has moved, your attack is hindered by one step per distance the target moved. If you're using a ranged weapon and you moved, your attack is hindered by one step per distance you moved. These penalties can stack. Though the GM may rule they cancel out if both you and your target have moved in the same direction.
+
+**Melee attacks and movement:** In general, making a melee attack against a moving target, or after you have moved does not incure a penalty.
+
+## Special Situation: Area Attacks
+
+Sometimes, an attack or effect affects an area rather than a single target. 
+
+In an area attack, the attacker rolls once and that value is used by all targets to see if they get hit.

@@ -1,3 +1,8 @@
+TODO
+
+Update rolls: Rolls that fail (under the target number) still have some effect. Rolls that Crit (6 over the TN) have an increased effect.
+
+
 # Chapter 2 How to Play Dusk Bastards
 
 The rules of Dusk Bastards are straightforwad; all gameplay is based around a few core concepts. This chapter provides a breif explanation of how to play the game. Once you understand the basic rules you can reference [**Chapter Rules of the Game**] for more indepth information.
@@ -31,7 +36,7 @@ If a task's difficulty is ever reduced to 0, no roll is needed and the task is c
 ---
 
 ### Task Difficulty Table
-| Task Difficulty | Dexcription  | Target No. | Guidence                                                         |
+| Task Difficulty | Description  | Target No. | Guidence                                                         |
 | :-------------- | ------------ | ---------- | ---------------------------------------------------------------- |
 | 0               | Routine      | 0          | Anyone can do this all the time.                                 |
 | 1               | Simple       | 3          | All but the most oblivious can do this.                          |

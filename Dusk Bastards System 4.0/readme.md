@@ -25,6 +25,41 @@ What do I like?
 
 - Malice: The GM gets a number of Malice points at the start of each round of combat. They can spend malice to activate enemies (so they may take their turn), enhance enemy actions, or power abilities. This will keep fights tense, even as enemies fall. Inverse ninja. Fights should also have an end condition other than (kill them all) honestly, morale does this fairly well.
 
+- All actions work, rolls determine how well. I.e. pass if full damage, fail is half damage.
+
+- Recovery Action: Spend action to spend pool points 1:2 to heal.
+
+- What play style? Omni. Dungeon Delve, Cinematic, Heroic, Gritty, Exploration/Hex crawl
+    - Each style should have a module that can be added to it in order to empower it.
+    - Gritty -- Characters are not Bastards.
+
+    I want to zoom in and out. Strategy *and* tactics, both. The game needs maps. Building for theater of the mind is harder to reach that goal.
+
+    Forced movement is a condition?
+
+- Characters made up of an Ancestry, Culture, Background, Descriptor, Class, Archtype/Kit, Complication, Role
+
+- No darkvision; try **Hellsight** See through fog, mist, and other obscuring effects
+
+Characters
+Tests
+Combat
+Exploration
+Negotiation
+Downtime Projects
+Rewards
+
+Skills. Have lots. General and Specific Skills. Can only attempt a specific action if they have that skill. General skills can be attempted by anyone. Skills are trained or specialized. Gain from culture, class, background, role.
+
+Characters matter. They are real people with hopes and dreams. They have a reason for doing what they are doing and being who they are. A character is not what they are, or where they come from, they are the choices they make.
+
+Thus each character has a number of perk points. These can be spent on perks. Some perks are generic, others are tied to their ancestry or culture. There are multiple types of Perks: Ancestry, Culture, Role, Crafting, Exploration, Interpersonal, Intrigue, Lore, and Supernatural.
+A character can take a complication to gain more perk points. Some perks and complications must be taken at character creation, others can be taken whenever. A character may have no more than 1 complication at a time. They may 'buy it off' through play, usually determined by the GM when the complication is taken. If a charcter does not have a complication, they may take one. If, through play, you would gain another complication you do not gain its benefit until it is your only one.
+
+To build a character: Choose Ancestry and Culture (Optional); Choose Background and inciting event; Choose Class and Archtype; Spend Perk points.
+
+
+
 
 ## Book Layout
 
@@ -59,14 +94,11 @@ What do I like?
 ### Part X: Rules
 
 - Chapter X: Rules of the Game
+- Chapter X: Combat
+- Chapter X: Exploration
+- Chapter X: Negotiation
+- Chapter X: Downtime
 - Chapter X: Experience Points (Advancement)
-
-### Part X: The World
-
-- Chapter X: The Age of Gloom
-- Chapter X: The Forlorn World of Castor (Fantasy)
-- Chapter X: The Blasted World of Fargrim (Fantasy/Post-apoc)
-- Chapter X: The Ruined Planets of XXX
 
 ### Part X: Game Mastering
 
