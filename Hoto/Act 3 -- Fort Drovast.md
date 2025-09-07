@@ -122,14 +122,83 @@ HP 60, AC 14 (Leathers), Flaming Eye +5 2d10+5 Fire damage, +5 if melee.
 Can cast a spell as a bonus action if first attack hits, otherwise can make a second attack.
 Spells: Heat Metal, Blastwave (Thunderwave), Scorching Ray, Witchbolt (Concentration held by ritual)
 
-
-
 Ash Shade
 
 HP 16, AC 12 +4 (2d6+2)
 
 
-## Part 2 - To Fort Droavst
+Session 2: On waves of Ash
+
+Knowing her plan was discovered and she was about to be defeated, the Ash ritualist signaled her followers to attack the town. The mayor is dead and the few survivors are holed up in east wing of the building. Ash Masked Cultists have set the village longhouse on fire and locked the doors. Further, Ash-masked are storming the docks in an attempt to burn the fishing fleet. Their goals are to sow chaos, cripple the town's economy, and prevent word from getting out. They were planning for a full take over when reinforcements from the fort arrive. However, things are moving too quickly, instead they are attempting to raze the town.
+
+Crisis Points: Ash Masked are assaulting the:
+
+Long House, Port, and town hall. All are being: attacked; Set Aflame; then burned. HOTO will likely only be able to protect 2. At the town hall, the cultists have been using the mayor to help them smuggle supplies to the fort and they are attempting to destroy the records of those shipments.
+
+Eko sent a runner to get HOTO. The runner lays out the scope of what's happening and tells them of the three primary hot spots. Eko is trying to pull villagers together south of town. The town has no defenses; the few guards were killed or captured in the surprise attack; HOTO is all that can protect the town.
+
+Each area will have: Ashen-Ghoul minions, Ash-Masked Cultists, and a liutenant (Fire mage, Berserker, or a Flame Paladin).
+
+**LongHouse:**
+
+Shouting can be heard from inside the building. Ash-Masked are blockading the doors and setting the roof aflame. They move efficently and are being directed by a Flame Paladin. Encounter: Save the villagers in the Longhouse; Enemies: 2 blockades, 4 ghouls, 3 cultists, 1 Paladin
+
+**Flame Paladin** (Elite)
+HP 60; AC 18; Flail and Shield +7 1d10 + 4 + 4 fire.
+  2 Actions per turn: 
+    Attack: Can Divine Smite twice per day for +2d8 fire damage
+    Judge with Flame: DC 14 CHA or be dazed and marked for 1 round. On pass, marked for 1 round. Marked grants advantage on attack.
+    Lay on Hands: 15 HP twice per day
+    Flaming Spear: Ranged, +5 2d6 +4 fire.
+
+
+**Cultists**
+HP 14; AC 13; Crossbows and bayonets +5 1d8+2
+
+**Ghouls**
+HP 8, Minion, AC 10, Slam +5 1d6.
+  Mighy Leaping can jump half speed instead of move.
+
+
+
+Should have 4 players. Need 4 slots per: Paladin (Elite 2), 3 Cultists (Gang 1/2; 1.5), 5 Ghouls (Mob 1/4; 1.25)
+
+**Port:**
+
+A group of cultists are moving together setting boats ablaze. They are led by a flaming Berserker.
+
+**Berserker**
+HP 60; AC 17; Battle Axe and Torch +7 1d12 +6 +4 fire; +7 1d8 + 4 fire offhand.
+  Resistance to physical and fire
+  2 attacks per round, he is reckless attacking
+  Fast movement 50ft.
+
+**Cultists**
+HP 14; AC 13; Crossbows and bayonets +5 1d8+2
+
+**Ghouls**
+HP 8, Minion, AC 10, Slam +5 1d6.
+  Mighy Leaping can jump half speed instead of move.
+
+**Town Hall:**
+
+The town hall is quiet, but fire crackles within. A fire mage is burning records while his cultists are looting and looking for the survivors.
+
+**Fire Mage**
+HP 60; AC 16; Firestaff and scorching ray +7 2d6 + 4 + 4 Fire
+  Each scorching ray shoots twice. Two actions.
+  Spells 1 each: Fireball, Shield, Mirror Image, Magic Missile (Fire), +2
+
+**Cultists**
+HP 14; AC 13; Crossbows and bayonets +5 1d8+2
+
+**Ghouls**
+HP 8, Minion, AC 10, Slam +5 1d6.
+  Mighy Leaping can jump half speed instead of move.
+
+
+
+## Part 2 - To Fort Drovast
 
 ## Part 3 - The Drowned Fort Drovast
 
