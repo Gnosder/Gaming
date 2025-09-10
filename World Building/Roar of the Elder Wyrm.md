@@ -76,3 +76,37 @@ The Gods
 Former
 - Abaddon, god of water and knowledge (succeeded by Kormir)
 - Dhuum, god of death (succeeded by Grenth)
+
+The Gods and Races of the world
+
+Human, Dwarf, Orc, Polder, Hakaan, Wode Elf, Revenant, Devil, Dragon Knight, Memonek, High Elf, Time Raider
+
+In fact, first the world was created by the Naru (First Pantheon, made of light and starstuff) who populated it with the Star Elves (who held dominion of the skies), The Giants who controlled the seas, and the Deep Dwarves who ruled the underground places. As magic began to flow into the world natural animals began to mutat and become uplifted (thus were born the Beast-Kin), but the magic began to swell and collect in increasingly fetid pools that spread corruption around the world. To combat this the Naru created the Elder Dragon Suu-won to filter and clean the magic. To help her, Suu-won created the 5 other Elder Dragons; each was tasked with filtering a different type of magic. This plan worked well, at first. The Elder Dragons collected, cleaned, and released the magic back into the world as was intended, but the corruption and pollutants pooled deep within them. Eventually, the Dragons fell to the very corruption they were created to clean. They continued to collect the magic, but they no longer released it back into the world instead becoming consumed by an endless hunger for magic. The Elder races cast down the Dragons -- thinking them destroyed -- and instead turned to other means to filter the wild magics of the world. Not realizing the dragons lived -- though locked in torpor -- the elder races thought their methods effective.
+
+A thousand years after their initial defeat the dragons woke and the world was not prepared for them. In their rage and endless hunger they consumed the magic of the world until it had been reduced to a near barren state. Only a few handfuls of the elder races survived and only by sacrificing their magic. When the world could no longer sate them, the dragons fell back into a long slumber. As the survivors aclimated to their new home, they began to split and devolve. Without magic to sustain their vast, floating cities the Star Elves fell to the earth; some of them chose to embrace their new vantage and became the Wode Elves; others chose to cling to their roots and became the High Elves. Of the Dwarves, there was no sign to those on the surface, but without magic their lives were plunged into darkness and they were beset by the creatures and horrors of the dark. The Giants suffered perhaps the most; without magic they could not live in their ocean homes anymore; their vast cities abandoned, the giants migrated onto land and, finding the woods and plains hostile to them, retreated into the mountains where their lineage bagan to to split with many becoming nothing more than Beastkin.  All the while, agents of the Elder Dragons continued to live and fight on the world, even as their masters slumbered.  Eventually the Dragon scion Glint broke free from Kralkatoric's control and helped the Orcs gain their freedom as well.
+
+As time passed the world healed, magic began to flow back into it and while this return of magic was a good thing the high elves remembered the Dragons and so forged the Bloodstone to collect any magic that was not stricktly needed by the world. The hope was that by keeping the ambient magics low, the dragons would not awaken again or at least be severly weakened.
+
+500 years before the Elder Dragons would wake again the six Gods of man arrived in the world sheparding their Human and Polder followers. They settled on the island of Orr, their initial landing place being consecrated as the Holy City of Arah. As humanity spread around the world, the Gods of Man, unknowing of the Dragons slumbering deep below the earth, ushered a flood of magic into the world as a gift to the races -- who eagerly accepted it, all save the High Elves who feared the return of the Dragons. The High Elves feared the glut of magic unleased by the Gods, but feared too what the Gods would do if they learned of the Dragons; caught between those two fears they were torn on how to react. The great High Elven king decided that they would do nothing and watch while allowing their Bloodstone to continue absorbing magic. The humans eventually learned of the Bloodstone and were enraged, thinking the hauhty high elves were attempting to steal the gift given to all by their Gods. They went to war with the High Elves and, eventually stole the Bloodstone (with help from a cult dedicated to Kralkatoric). A high elf told the Gods about the Dragons before anything was done with the bloodstone. The Gods decided to leave the Bloodstone as it was, much to the dismay of the God Abbadon who attempted to destroy the Bloodstone. The attempt failed as the Bloodstone was broke into 5 pieces instead of fully being destroyed; however the release of magic caused the slumbering elder dragons Jormag and Primodius to awaken and the Gods to retreat from the world after imprisoning Abbadon.
+
+Primodius drove the dwarves out of the deep and into the near surface. Jormag corrupted the giants and forced the Hakaan out of the high mountains. Without the Gods and facing down a wrathful High Elf army a great ritual was enacted to resummon the Gods, but it failed and caused the island of Orr to sink to the bottom of the sea.
+
+Dwarf, Hakaan, High Elf, and Wode Elf were created by the Naruu but were vicimised by Eldar Dragons.
+Human and Polder were brought to the world by the six.
+Orcs were created by Kralkatoric.
+Dragon Knights were created by experiments into Elder Dragons.
+Revenants were created by Zhaitan's pressence.
+Devil, Memonek, Time Raider come from off world.
+
+Things to 3d print:
+ - Generic Monsters (color code by type, magnaize bases)
+    Titan (Torso, Legs)
+    Solo (size 5, 4, 3, 2, 1) (Dragon, )
+    Elite (1,2) x3 
+    Standard (1, 2) x7,5 ('orc' x7, 'troll' x 5)
+    Minion (1) x11 ('goblin' x11) (Need 'squad' marker)
+    Hero (1L, 1M, 1S) x 1, 5, 2 (Nord/Goliath/Hakaan x1, 'human' x3, 'dwarf' x2, 'halfling' x2 )
+    NPC (1,2) x 10, 2 (6 Civillian, 4 Guard, 2 Horse)
+ - Condition Rings (Track conditions and squads)
+ - Flying Bases(Raised Platform)
+ - 
