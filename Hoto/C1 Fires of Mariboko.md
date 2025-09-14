@@ -196,13 +196,6 @@ HP 14; AC 13; Crossbows and bayonets +5 1d8+2
 HP 8, Minion, AC 10, Slam +5 1d6.
   Mighy Leaping can jump half speed instead of move.
 
-
-
-## Part 2 - To Fort Drovast
-
-## Part 3 - The Drowned Fort Drovast
-
-
 MISC
 
 Languages
