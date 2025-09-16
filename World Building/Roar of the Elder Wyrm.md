@@ -40,7 +40,7 @@ They know Orr is risen and of the Tsunami. They do not know about Elder Dragons 
 
 City- States
 
-Morclach (Great Stone; Dwarven), Tawaskan (The GatheringFlame; Orc), Morkon or Stone Fire (the combination of the two)  -- Dwarf and Orc city, built of an agreement; the Dwarven city of Morlach would be underground and the Orcish trade city of Tawaskan would be above it. The Orcs would sell what the Dwarves built.
+Morclach (Great Stone; Dwarven), Tawaskan (The GatheringFlame; Orc), Morkan or Stone Fire (the combination of the two)  -- Dwarf and Orc city, built of an agreement; the Dwarven city of Morlach would be underground and the Orcish trade city of Tawaskan would be above it. The Orcs would sell what the Dwarves built.
 
 Thandoril (Steadfast Warning), called Warning Hall in common -- The Hakaan and Wode Elf city, built at the meeting point of a mountain, forest, and large river. It's less a capital and more a gateway into the world for 2 peoples that are mostly isolated. They came together in a common cause of standing agasint the Aranian Empire. Led by the High Elf general Carasiel. Technically also protects the High Elves, but they're pretty well hidden.
 
@@ -59,6 +59,8 @@ Wode Elf - Low Sindarin;
 Hakaan - Scandinavian;
 
 High Elf - High Sindarin;
+
+Human and Polder - XX;
 
 Other cities and places:
 - Lorenthalas (Dreamflower) High Elf City
@@ -109,4 +111,30 @@ Things to 3d print:
     NPC (1,2) x 10, 2 (6 Civillian, 4 Guard, 2 Horse)
  - Condition Rings (Track conditions and squads)
  - Flying Bases(Raised Platform)
- - 
+
+
+# Map Building
+
+The known world is currently just the main continant. (The others were cut off by the waking of the Elder Dragons).
+
+The area has 3 primary regions west, central, and east with sub regions going north, central, and south. 
+
+In the north-west is Vraetho (Crystal Dragon Brand; "Dragon's Embrace"). In the center west is Morkan (made up of Morclach and Tawaskan). In the south-west is The cities of second chance (Sancrist and Graveport). 
+
+In the center north is Zenmar (New Fairwyn). In the center is New Eriess (Coastal Trade Town; was the main hub to Thalorum). In the center south is Thalorum. 
+
+In the north east is Lorenthalas. In the center east is Thandoril. In the South east is the jungle of Maguuma.
+
+Recent cataclysmic events (noteably the great tsunami) have forced sapient races back towards their cultural centers. New Eriess and the Cities of Second Chance were hit the hardest (at least on the main continant).
+
+# The start
+
+[start the map from the first location and build outwards.]
+
+The campaign starts right outside the Cities of Second Chance, in a small (recently formed) archeplago. Called the Shattered Coast. IT was formerly known for it's clay and sand (for cement) exports, but now is known for its exotic fisheries and pearls.
+
+
+
+World map (~~24x23 hexes)
+
+Tuesday the 16th Choosing the Best Method.
