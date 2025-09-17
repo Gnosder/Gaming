@@ -133,8 +133,12 @@ Recent cataclysmic events (noteably the great tsunami) have forced sapient races
 
 The campaign starts right outside the Cities of Second Chance, in a small (recently formed) archeplago. Called the Shattered Coast. IT was formerly known for it's clay and sand (for cement) exports, but now is known for its exotic fisheries and pearls.
 
+The city of Sancrist is located on a high bluff while Graveport is at sea evel below it. Graveport is used to wethering storms and, while the Great Tsunami was vastly stronger than any it had dealt with before, so survived in one piece. The cit itself floats on pontoons and has large, magical storm breaks around it's harbor (the breaks were overwhelmed and destroyed by the Tsunami, and their anchors deep under water by the rising sea level). The death toll in Graveport was low (largly because most of the dock workers are already dead). The tsunami was caused by Zhaitan raising the island of Thalorum and caused the water level to rise around the Cities of Second Chance. The area around it had been sandstone cliffs that had fallen into the sea and revealed underground caverns that got flooded by sea water (the kobolds that had ived there were killed and made risen by Zhaitan). 
+
+## Hexes
 
 
-World map (~~24x23 hexes)
+
+World map (~~24x23 hexes) each region is ~8x8.  24x24 = 576, 9 regions of 8x8 is 576. cut off the bottom row, so the bottom region is 8x7 and you end up with the 24x23. 8 might still be too much...
 
 Tuesday the 16th Choosing the Best Method.
