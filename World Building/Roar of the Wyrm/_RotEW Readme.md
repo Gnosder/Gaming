@@ -142,3 +142,52 @@ The city of Sancrist is located on a high bluff while Graveport is at sea evel b
 World map (~~24x23 hexes) each region is ~8x8.  24x24 = 576, 9 regions of 8x8 is 576. cut off the bottom row, so the bottom region is 8x7 and you end up with the 24x23. 8 might still be too much...
 
 Tuesday the 16th Choosing the Best Method.
+
+Regions are numbered 1-9.
+
+## Region 7 - Penitent's Reach
+
+Pirate and Cowboy theme (pirates on the coast, cowboys on the inner area). Until 20 years ago, the land of penitent's reach was split between a hot, but idyllic coast vibrantly alive with corsers and fishermen and a sweltering badlands of cowboys and desperados. After Thalorum reemerged from the depths of the sea and caused a cataclysmic tsunami 20 years ago, things have changed. The devestation savaged those living in the region, but also revealed massive seems of ore and minerals. A 'Gold Rush' began as cowboys and pirates alike tried to get their hands on the new resources. Their efforts have met with mixed success, however as new dangers have also emerged.
+
+Dangers (Krait from the deep sea have settled on the coast (~40 years ago), a drowned city of Illithids turned Aboleth have been risen as undead (20 years ago), many new monsters have mutated in the wake of the tsunami, and older monster populations have surged, further the 'gold rush' and devestation have damaged an already stressed agraian practie to the point of famine)
+
+Flesh out 3 zones, a city, and a hub.
+
+### **Rustwater Straits**
+
+Formerly known as Port Mercy and the Clay Pits, this area was flooded by the great tsunami (GT) and turned into a shallow, but wide archipelago. As it is close to the Cities of Second Chance (particularly Graveport) it sees a lot of ship traffic. It's primary settlement is *Clay Mouth* and has been rebuilt (though on higher ground) since the GT.
+
+### **Ghostwind Canyon**
+
+### **Aether-fire Gultch**
+
+### **The Cities of Second Chance**
+
+### **Moxie's Hope** 
+
+A tall ship converted into a large 'canyon cutter' (able to navigate the rough canyons of the reach and deploy smaller 'landships'). Captained by Second Mate Corbin Hawke after the death of Captain Rosa "Moxie" Keel.
+
+> ## Name: Second Mate Corbin Hawke
+>
+> Summary: A human corsair. He was the second mate of the Hope until Capatin MOxie was kiled by Risen. Now he runs the ship, but shuns formal command. He's looking for a worthy successor for the captain.
+>
+> Appearance: Human, in mid-30s. He dresses simply for the weather, favoring a large leather duster(gift from the captain) and tight fitting round hat in all weather. His eyes show his experience and care for his crew.
+> 
+> Personality: Gentle, but stern. He is feircly protective of his crew and ship. He smiles often, though saddly (when he thinks no one is looking).
+> 
+> Motivation: Find a suitable captain for the Moxy's Hope and keep the ship and crew going.
+> 
+> Story Role: Ally
+>
+> Game Role: Warrior (Pirate)
+> 
+>> Culture: Second Chancer
+>>
+>>Background: Sailor
+>> 
+>> Relationships: ++ Capatin Moxie (Deceased), ++ Moxie's Hope, -- Risend
+>> 
+>> Assets & Abilities: Fights cutlace and pistol
+>> 
+>> Quirks & Flaws: Does not see himself as captain material. Get's defensive when someone brings it up. Always smiles.
+
