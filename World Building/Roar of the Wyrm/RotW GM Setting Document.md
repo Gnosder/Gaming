@@ -53,3 +53,7 @@ A GM facing document detailing Arahas, the world on which RotEW takes place.
 **Moxie's Hope (Mobile Hub)** 
 
 A tall ship converted into a large 'canyon cutter' (able to navigate the rough canyons of the reach and deploy smaller 'landships'). Captained by Second Mate Corbin Hawke after the death of Captain Rosa "Moxie" Keel.
+
+### Thalorum (#\8)
+
+Thalorum, noteably it's capital of Elythion (City of the Gods)

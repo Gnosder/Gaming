@@ -121,7 +121,7 @@ The area has 3 primary regions west, central, and east with sub regions going no
 
 In the north-west is Vraetho (Crystal Dragon Brand; "Dragon's Embrace"). In the center west is Morkan (made up of Morclach and Tawaskan). In the south-west is The cities of second chance (Sancrist and Graveport). 
 
-In the center north is Zenmar (New Fairwyn). In the center is New Eriess (Coastal Trade Town; was the main hub to Thalorum). In the center south is Thalorum. 
+In the center north is Zenmar (New Fairwyn). In the center is New Eriess (Coastal Trade Town; was the main hub to Thalorum). In the center south is Thalorum (Capital City is: Elythion). 
 
 In the north east is Lorenthalas. In the center east is Thandoril. In the South east is the jungle of Maguuma.
 
