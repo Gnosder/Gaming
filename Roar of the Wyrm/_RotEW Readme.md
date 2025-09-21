@@ -137,8 +137,6 @@ The city of Sancrist is located on a high bluff while Graveport is at sea evel b
 
 ## Hexes
 
-
-
 World map (~~24x23 hexes) each region is ~8x8.  24x24 = 576, 9 regions of 8x8 is 576. cut off the bottom row, so the bottom region is 8x7 and you end up with the 24x23. 8 might still be too much...
 
 Tuesday the 16th Choosing the Best Method.
@@ -183,7 +181,7 @@ A tall ship converted into a large 'canyon cutter' (able to navigate the rough c
 > 
 >> Culture: Second Chancer
 >>
->>Background: Sailor
+>> Background: Sailor
 >> 
 >> Relationships: ++ Capatin Moxie (Deceased), ++ Moxie's Hope, -- Risend
 >> 

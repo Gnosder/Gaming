@@ -6,6 +6,20 @@ A document of lists that are important to keep handy for the campaign.
 
 ## Characters
 
+### Destiny's Edge
+
+**Caith** Sylvari Firstborn
+
+**Khoran Aelthar** Human
+
+**Rytlock Brimstone** Dragon Knight
+
+**Eir Stegalkin and Garm** Orc
+
+**Zojja Calenor** Polder
+
+**Snabanu "Snaff" Mitterirta** Memonek
+
 ## Factions
 
 ## Points of Interest
