@@ -19,7 +19,7 @@ Scope: Campaign
 
 ## **Objectives**
 
-**Hook:**
+**Hook:** Risen have become an increasingly large problem in the past few years and need to be dealt with. The actual Zhaitan hook will come much later (chapter 7 or so with claw island), the starting hooks will be smaller issues.
 
 **Main Quest:** Defeat Zhaitan and rescue Central Arahas from him.
 
@@ -30,8 +30,26 @@ Scope: Campaign
 > *Offered Rewards:* 
 
 ## **The Journey**
+ 
+(~4 Victories per Session)
 
-[Insert another AFT or individual scenes]
+1st Echelon (Level 1-3)
+A1 (2 Session) - A (Personal story) Moxy's Hope, B (DE) introduce Caithe at the end.
+A2 (3) - Help Caith B(DE) against Risen A(Personal) to protect a frontier town.
+A3 (3) - Recruit Rytlock B(DE) to help take down a brutal pirate ring A(P) (helmed by a Risen Priest) A(Z).
+Interlude - Meet Trahern, learn the threat is deeper than they thought.
+2nd Echelon (Level 4-6)
+B1 (2) - Help Vigil forces disrupt a Risen blocade outside New Eriess and meet Khoran.
+Interlude - Destiny's Edge 
+B2 (3) - Help Eir and Zojja assist the Priory in recovering an Orcish Artifact from the Dragon Brand.
+B3 (2) - Meet Rytloc to convince him to rejoin the guild, and help the order of whispers recover Caldabolg.
+Interlude - Traherne becomes the chosen wielder of Caldabolg, the pale tree has a nightmare of Claw Island.
+B4 (4) - Claw Island, Defending Claw Island
+3rd Echelon (Level 7-9)
+C1 (2) Forming the Pact and retaking fort trinity
+C2 (3) Eye of Zhaitan
+C3 (2) Mouth of Zhaitan
+C4 (4) - Death or Victory - Kill Zhaitan
 
 ## **Fallout and Aftermath**
 
@@ -46,31 +64,3 @@ Scope: Campaign
 **NPC Shifts:** 
 
 **Faction Shifts:**
-
-
-
-# Campaign Planning
-
-Each level takes 16 victories. I want the game to go up to level 8. Each arc should be a level, so each adventure is ~5 victories. Which makes each arc ~3 adventures. The whole campaign is 8 arcs, 24 adventures, ~48 sessions. Each session will probably be 2-3 victories.
-
-Breakdown:
-- Up to level 8
-- Campaign covers 8 arcs with 1 level per arc
-- Each arc will need 16 victories and should hold 2 longer adventures (6 vic) and 2 raid boss encounters (2 vic)
-- Sessions could be ~3 victories; perhaps 1 per hour
-- This means 6 sessions per level, 48 sessions for the whole campaign
-- The whole campaign can be done in 11 months (with weekly games)
-- There are 9 overworld regions. Magumma is for later. Which leaves 1 per level. Should really just give a tast.
-
-Campaign Overview
-1. Penitent's Reach
-2. Morkan
-3. Zenmar
-4. New Eriess, Destiny's Edge
-5. Thandoril, Rebuilding the Edge
-6. The Battle of Claw Island
-7. Forming the Pact
-8. Victory or Death
-
-Destiny's Edge
-- Caithe
