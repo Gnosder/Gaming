@@ -109,6 +109,16 @@ Encounter 2 -- Kobold Guards
 
 "As the leader of the Kobolds falls, the death magic holding the far doors shut fades."
 
-In the next room
+In the next room: "As you enter the chamber you see a Risen Kobold channeling dark magic into a large pool, a dark shape looming at its bottom."
 
 Encounter 3 -- Face the Kraken
+
+"The Krakens lifeless body sinks to the bottom of the sanctuary, it's dark animation stilled. As you emerge from the pool, you hear the sound of running water, as if a wal has sprung a leak." "On the Channelers body you find a map drawn on oiled hide. The map clearly marks your location with a ritualistic symbol. You see a second drawn a ways away from you with both flanking the Cities of Second Chance. Notes in the margin indicate clear intent of a coordinated attack from both positions.
+
+The bubble is starting to break down with the channeler dead. Will still hold for another few minutes.
+
+"As you exit the cave you see a large, steel hulled ship floating in the water next to your cutter." "Once your head breaks the surface of the water you can see that the ship is the Moxie's Hope. The crew greets you merrily as you climb aboard. Second Mate Corbin Hawke greets you warmly 'well met and great job adventurers, we felt that big beastie die from way up here. Lot of death magic came out and went running right back to Thalorum!"
+
+After some celebrating and consideration, Second Mate Corbin Hawke approaches you, a pensive look in his eye. 'You know... with the Captain's passing there has been some debate as to who should take over as capatin of the Hope. You seem like good folk, better than good even. You seem like heroes. I feel in my bones that you're going to be great, that you're going to save a lot of people. Now, I'm not asking you to marry her, but if you wanted to fill in as captain. Well. I could see us following you gladly."
+
+Reward: Unlock the Hope as their hub. Should have 4 victories.
