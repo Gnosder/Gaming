@@ -23,21 +23,7 @@ Second Session
 - 1 Standard Combat 
 - 1 Standard Combat
 
-# Session 1 of Moxie's Hope
-
-Introduce characters
-Respond to distress call, battle Risen Kraken that is attacking the Hope
-Assist the repairs of the Hope to get Aqua Gills
-Fight way through Risen Kobolds into tide caller's sanctum (where the Kobolds are using Zhaitan's magic to raise undead beasts)
-Battle the kraken (phase 1, summoner. Phase 2, tenticles. Phase 3, Underwater kraken fight)
-
-The characters begin in the Rusted Straights of Penetent's Reach. Why? They were on their way to Graveport when they see the Hope under attack from a Kraken. The captain of their transport wants to help, but doesn't know how. His weather mage will help transport them onto the Hope if they want it.
-
-After securing the Hope, they will learn that the Hope was in the area to hunt some Risen Kobolds that were trying to raise a Kraken (and it looks like they did it), the first mate asks the PCs to take their schooner and shut down the kobolds, but they'll need Aqua Gills to do so. The first mate asks the PCs to help with basic repairs (to get the Hope ready to defend itself if needed, or limp to graveport) and will give Aqua Gills in exchange.
-
-The PCs travel to the Tide Caller's Sanctum (which is now underwater) and battle Risen Kobolds before making it to the sanctum propper where they have to kill the ritual channeler and then the Kraken. Learn of a second ritual taking place further off.
-
-The PCs will leave the sanctum to find the Hope. They decided to follow and offer any assistance. END SESSION.
+# Summary of Moxie's Hope
 
 Recap last session and current goal. Describe the Hope and let the explore and meet sailors while the ship is enroute.
 
@@ -53,7 +39,7 @@ After the fight, Caithe offers the PCs a place to stay in Graveport while the sh
 
 Rewards: 1 Trinket and 2 Consumables, plus the Moxie's Hope as a Hub. Caithe rep+, Basic Risen Lore, 4 day respite before the next adventure. Offer crafting and research project info.
 
-Session 1 - Abyssal Maw
+# Session 1 - Abyssal Maw
 
 [In the event that a character building session 0 runs short and you want to start the game, you can begin with the first part of the adventure up until the end of the first encounter. If you do this the second session may run short (the back half of the first session). Add another combat encounter or perhaps a puzzle before the climactic fight.]
 
@@ -80,7 +66,13 @@ Lore available
 
 "The weather mage summons a gale that launches you off your ship, sending you flying over the watery expanse between the two ships. A soft gust of wind breaks what otherwise would have been a nasty fall and deposits you on the deck of the belegared ship. A call comes out from the defenders. 'Who ever the hell you are, help us get that depth charge over the side.' Prepare for battle."
 
-Encounter 1 -- Attack on the Hope
+## Encounter 1 -- Attack on the Hope
+
+**Goal:** Deploy 2 depth charges
+
+**Monsters:** Level 2 Elite (Sea Serpent), 8 Level 1 Minions (Kobolds) (4 Kobold Princeps and 4 Kobold Tiro) DSM 191
+
+**Environment:** On the deck of the Hope. Crew members push a depth charge onto the deck once the last one has left it's starting point. Depth Charges can be pushed at half speed
 
 "As the the second charge detonates the tenticles withdraw and a dark shape moves rapidly away from the ship. A man approahes you, wiping a bloody saber on a burlap cloth, 'I'm Second Mate Corbin Hawke and this beautiful ship you just saved is called Moxie's Hope.'"
 
