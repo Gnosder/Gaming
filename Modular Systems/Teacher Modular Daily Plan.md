@@ -8,6 +8,14 @@ Mathmedic is 'weird' in relation to how they have some lessons listed.
 
 For the probability lessons bring in dice.
 
+Build 2 lesson plans for each lesson (the barebones no tech lesson think of Belinger's Precalc, and the lesson you want to teach)
+
+**The bare bones lessons** Only materials should be my page of notes and their notebooks. Do 3 example problems on the board.
+
+**Supplimental lesson** Every lesson should have at least one video posted online that covers the lesson again.
+
+Think of a fun probability game lesson. Fun games to model that the students can calculate probability in the classroom.
+
 # Modular Daily Plan
 
 This is a simple plug and play lesson plan template I can use to help me prep and run lessons.
