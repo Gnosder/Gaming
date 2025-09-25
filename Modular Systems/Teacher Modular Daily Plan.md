@@ -1,3 +1,13 @@
+# TODO and notes 25/25/9
+
+Get a day planner for lesson tracking. A course planner. (It should have room for each course/ different class).
+
+Ask students where their notes are. Make them bring their notes and make them draw pictures.
+
+Mathmedic is 'weird' in relation to how they have some lessons listed.
+
+For the probability lessons bring in dice.
+
 # Modular Daily Plan
 
 This is a simple plug and play lesson plan template I can use to help me prep and run lessons.
@@ -25,7 +35,7 @@ This is a simple plug and play lesson plan template I can use to help me prep an
 - Do you best and ask questions
 - Take responsibility for your actions
 
-# Lesson Prep
+# Pre-Class Checklist
 
 **Materials**
 
@@ -59,6 +69,16 @@ This is a simple plug and play lesson plan template I can use to help me prep an
 - Greet students at the door with a smile.
 
 # Daily Plan
+
+**The Plan** A high level summary of the lesson.
+
+**Standards**
+
+*Goal:* What standards do you want to hit.
+
+*Differentintation:* Who are you changing it for and what do you need to change?
+
+*Application of Theory:* (Behaviorism, Cognitivism, Constructivism, Social Learning Theory, Humanism)
 
 **T+0 | The Bell**
 
@@ -144,6 +164,14 @@ A common variation will be having a single one of each segment ("I do" at T+5; "
 
 The activity listed is mearly a suggestion and a default when nothing else will work. They can and should be replaced as needed.
 
+# Reflection
+
+**How did it go?**
+
+**How was your time?**
+
+**What could have been done better?**
+
 # Sample activity bank
 
 
@@ -192,3 +220,11 @@ The activity listed is mearly a suggestion and a default when nothing else will 
 **Parking Lot** Students write a question they still have, or something they learned. Can be a board via sticky notes or online via a form.
 
 **Tech Closer** A short kahoots quiz or some other online application.
+
+# Educational Learning Theories
+
+* **Behaviorism:** This theory focuses on observable behaviors and the idea that learning is a response to stimuli. In practice, this might involve using positive or negative reinforcement (e.g., rewards for good behavior, points for completing tasks).
+* **Cognitivism:** This theory looks at the internal mental processes of learning, such as memory, problem-solving, and thinking. Applying this theory involves activities that engage students in active problem-solving and critical thinking, helping them to organize and connect new information with what they already know. Examples include graphic organizers, Socratic seminars, and making connections between concepts.
+* **Constructivism:** This is a very popular theory in modern education. It is based on the idea that learners actively "construct" their own knowledge and understanding of the world through experiencing things and reflecting on those experiences. In a constructivist classroom, the teacher acts as a facilitator, and students are encouraged to engage in hands-on projects, group collaborations, and self-directed learning.
+* **Social Learning Theory:** This theory, championed by Albert Bandura, emphasizes that people learn by observing others. Its application in the classroom involves modeling desired behaviors, encouraging collaboration, and using group work to promote learning through social interaction.
+* **Humanism:** This theory focuses on the whole person, including emotional well-being and personal growth. A humanistic approach to teaching prioritizes student choice, intrinsic motivation, and creating a supportive, nurturing environment where students feel safe to explore their potential.
